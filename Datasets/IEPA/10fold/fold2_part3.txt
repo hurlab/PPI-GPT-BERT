@@ -1,0 +1,17 @@
+Sentence ID	Sentence
+IEPA.d197.s478	Bovine prion protein as a modulator of protein kinase CK2
+IEPA.d197.s479	On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2')
+IEPA.d197.s480	We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2
+IEPA.d197.s481	A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity
+IEPA.d197.s482	These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic protein kinase that is particularly abundant in the brain
+IEPA.d64.s161	Similarly, carbachol, but not AVP or DDAVP, induced a significant increase in membrane-associated protein kinase C (PKC) enzyme activity
+IEPA.d64.s162	In contrast, AVP had no effect on the distribution of any PKC isoform tested
+IEPA.d116.s284	In the present study we found that at increasing GA concentrations, increasing numbers of barley (Hordeum vulgare) cells showed the enhanced amylase secretion and vacuolation characteristic of the GA response
+IEPA.d189.s453	These findings are consistent with increased leptin signaling to the NPY and POMC neurons in the ARC by physiological levels of circulating leptin during normal feeding
+IEPA.d195.s469	Leptin Rapidly Inhibits Hypothalamic Neuropeptide Y Secretion and Stimulates Corticotropin-Releasing Hormone Secretion in Adrenalectomized Mice
+IEPA.d195.s470	Leptin may rapidly inhibit food intake by altering the secretion of hypothalamic neuropeptides such as neuropeptide Y (NPY), a stimulator of food intake, and/or corticotropin-releasing hormone (CRH), an inhibitor of food intake
+IEPA.d195.s471	We measured concentrations of NPY and CRH in specific hypothalamic regions [i.e., arcuate nucleus (ARC), paraventricular nucleus (PVN), ventromedial nucleus and dorsomedial nucleus] of 7- to 8-wk-old lean and ob/ob mice at 1 or 3 h after intracerebroventricular leptin administration
+IEPA.d195.s472	No rapid-onset effects of leptin on hypothalamic NPY or CRH concentrations were observed in intact mice
+IEPA.d195.s473	The addition of leptin to hypothalamic preparations from intact mice also did not alter NPY or CRH secretion
+IEPA.d195.s474	Within 20 min after exposure to leptin, NPY secretion from hypothalamic preparations obtained from adrenalectomized mice was lowered by 27% and CRH secretion was elevated by 51%
+IEPA.d195.s475	The current study demonstrates that leptin rapidly influences the secretion of hypothalamic NPY and CRH and that these actions of leptin within the hypothalamus are restrained by the presence of endogenous corticosterone

@@ -1,0 +1,23 @@
+Sentence_ID	Sentence
+IEPA.d111.s269	Plasma oxytocin, and some functionally related peptides (CCK, gastrin, somatostatin and insulin), were measured by standard radioimmunoassay techniques
+IEPA.d119.s287	The gibberellin-responsive elements conserved in cereal alpha-amylase genes are not included in the 5'-upstream region of Rep1 or RepA
+IEPA.d141.s338	Tolbutamide and diazoxide modulate phospholipase C-linked Ca(2+) signaling and insulin secretion in beta-cells
+IEPA.d141.s339	We examined whether tolbutamide and diazoxide, which close or open ATP-sensitive K(+) channels (K(ATP) channels), respectively, interact with PLC-linked Ca(2+) signals in HIT-T15 and mouse beta-cells and with PLC-linked insulin secretion from HIT-T15 cells
+IEPA.d141.s340	Thus tolbutamide and diazoxide regulate both PLC-linked Ca(2+) signaling and insulin secretion from pancreatic beta-cells by modulating K(ATP) channels, thereby determining voltage-sensitive Ca(2+) influx
+IEPA.d152.s368	We examined for the first time in young men effects of intravenous injections of NPY (4x50 or 100 microg, n = 9 and 11, respectively, at 22.00, 23.00, 24.00 and 01.00 compared to saline) on the sleep electroencephalogram (EEG; recorded from 23.00 to 07.00) and nocturnal secretion of adrenocorticotrophic hormone (ACTH), cortisol, growth hormone (GH), prolactin and leptin
+IEPA.d184.s441	These results suggest that T3 may increase UCP family expression independent of leptin action
+IEPA.d190.s454	Leptin effects on pulsatile gonadotropin releasing hormone secretion from the adult rat hypothalamus and interaction with cocaine and amphetamine regulated transcript peptide and neuropeptide Y [In Process Citation]
+IEPA.d190.s455	Leptin may act as a negative feedback signal to the hypothalamic control of appetite through suppression of neuropeptide Y (NPY) secretion and stimulation of cocaine and amphetamine regulated transcript (CART).
+IEPA.d190.s456	We aimed at studying the effects of leptin, CART and NPY on the hypothalamic control of the pituitary-gonadal system.
+IEPA.d190.s457	The increase in GnRH pulse amplitude caused by leptin was totally prevented by coincubation with an anti-CART antiserum whereas it was not affected by coincubation with the NPY Y5-receptor antagonist (10(-7) M).
+IEPA.d190.s458	In conclusion, leptin and NPY show separate permissive effects on GnRH secretion in the adult rat hypothalamus.
+IEPA.d199.s484	The induction of alpha-amylase triggered by gibberellic acid in barley embryos is repressed by sugars
+IEPA.d199.s485	Our results indicate that glucose represses gibberellin signalling late along this hormone transduction pathway, downstream of transcription of the gibberellin-modulated transcriptional activator (GAMYB) needed for alpha-amylase induction
+IEPA.d68.s169	The results demonstrate that potent antioxidants, such as flavonoids, protect MM-LDL from lipoperoxidation and preserve their ability to efficiently deliver cholesterol to cells
+IEPA.d102.s241	Constitutive expression of PKABA1 drastically suppressed expression of low- and high-pI alpha-amylase and protease genes induced by GA
+IEPA.d108.s251	Long-term changes in gastrin, cholecystokinin and insulin in response to oxytocin treatment
+IEPA.d108.s252	The present study was designed to investigate how repeated injections of oxytocin influence plasma levels of vagally controlled hormones such as gastrin, cholecystokinin (CCK), insulin and somatostatin, as well as of endogenous oxytocin and glucose
+IEPA.d108.s253	In addition, both insulin and CCK levels were decreased in response to the oxytocin treatment when measured 3 and 10 days after the last injection (ANOVA; insulin p < 0.01, CCK p < 0.05)
+IEPA.d108.s254	When the alpha2-adrenoreceptor agonist clonidine (2.5 microgram/kg intracerebroventricularly) was administered 3 days after the 5-day treatment period with oxytocin or saline, plasma levels of insulin and CCK increased significantly (p < 0.05) in the oxytocin-treated rats, when compared to saline-treated controls receiving clonidine only
+IEPA.d108.s255	In conclusion, these results show that oxytocin induces long-lasting changes in plasma levels of gastrin, CCK and insulin, without affecting somatostatin or glucose levels
+IEPA.d125.s298	Our data demonstrate, that activation of mitogen activated protein (MAP) kinase alone is sufficient to promote APP secretion, whereas inhibition of MAP kinase will reduce APP secretion only when phospholipase Cgamma or phosphatidylinositol 3-kinase are additionally inhibited

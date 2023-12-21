@@ -1,0 +1,19 @@
+Sentence ID	Sentence
+HPRD50.d7.s0	Suppression of rat thromboxane synthase gene transcription by peroxisome proliferator-activated receptor gamma in macrophages via an interaction with NRF2
+HPRD50.d7.s1	Deletion analysis showed that the element responsible for the PPARgamma effect is located in a region containing the nuclear factor E2 (NF-E2)/AP-1 site (-98/-88), which was indicated to be the major promoter of the TXS gene
+HPRD50.d7.s2	By electrophoretic mobility shift assay using the NF-E2/AP-1 site and nuclear extracts from macrophages, we observed a specific protein-DNA complex formation, which was inhibited by a specific antibody against the transcription factor NRF2 (NF-E2-related factor 2)
+HPRD50.d7.s3	Finally, a direct interaction between PPARgamma and NRF2 was confirmed by glutathione S-transferase pull-down assay
+HPRD50.d9.s0	Here, we cloned and characterized a mouse orthologue of human KIAA1427 protein as an atypical Syt (named Syt XIII)
+HPRD50.d9.s1	Subcellular fractionation and antibody-uptake experiments indicate that Syt XIII is indeed a type-I membrane protein, but, unlike other Syt isoforms, lacks an N-terminal extracellular domain
+HPRD50.d11.s0	Direct interaction between the cytoplasmic tail of ADAM 12 and the Src homology 3 domain of p85alpha activates phosphatidylinositol 3-kinase in C2C12 cells
+HPRD50.d11.s1	This suggests that transmembrane ADAM 12, by providing docking sites for the Src homology 3 domain of p85alpha, activates PI 3-kinase by mediating its recruitment to the membrane
+HPRD50.d29.s0	Modification of de novo DNA methyltransferase 3a (Dnmt3a) by SUMO-1 modulates its interaction with histone deacetylases (HDACs) and its capacity to repress transcription
+HPRD50.d29.s1	Here we show that Dnmt3a interacts with multiple components of the sumoylation machinery, namely the E2 sumo conjugating enzyme Ubc9 and the E3 sumo ligases PIAS1 and PIASxalpha, all of which are involved in conjugating the small ubiquitin-like modifier polypeptide, SUMO-1, to its target proteins
+HPRD50.d29.s2	Dnmt3a is modified by SUMO-1 in vivo and in vitro and the region of Dnmt3a responsible for interaction maps to the N-terminal regulatory domain
+HPRD50.d29.s3	Functionally, sumoylation of Dnmt3a disrupts its ability to interact with histone deacetylases (HDAC1/2), but not with another interaction partner, Dnmt3b
+HPRD50.d36.s0	CD22 associates with protein tyrosine phosphatase 1C, Syk, and phospholipase C-gamma(1) upon B cell activation
+HPRD50.d36.s1	These results suggest that tyrosyl-phosphorylated CD22 may be a substrate for PTP-1C regulates tyrosyl phosphorylation of CD22
+HPRD50.d36.s2	The association of PTP-1C with CD22 was mediated by the NH2-terminal Src homology 2 (SH2) domain of PTP-1C
+HPRD50.d36.s3	Complexes of either CD22/PTP-1C/Syk/PLC-gamma(1) could be isolated from B cells stimulated by BCR engagement or a mixture of hydrogen peroxidase and sodium orthovanadate, respectively
+HPRD50.d36.s4	Transient expression of CD22 and a null mutant of PTP-1C (PTP-1CM) in COS cells resulted in an increase in tyrosyl phosphorylation of CD22 and its interaction with PTP-1CM
+HPRD50.d36.s5	By contrast, CD22 was not tyrosyl phosphorylated or associated with PTP-1CM in the presence of wild-type PTP-1C

@@ -1,0 +1,12 @@
+Sentence ID	Sentence
+207	Cloning and characterization of two evolutionarily conserved subunits ( PROTEIN1 and PROTEIN2 of human PROTEIN and their involvement in functional interactions with TFIIIB and RNA polymerase III
+228	Recent evidence has implicated PROTEIN1 in inhibition of PROTEIN2 cyclinB1 kinase and in G2/M cell cycle arrest
+249	Inhibition of PROTEIN1 cyclinB1 kinase activity by PROTEIN and PROTEIN was found to involve disruption of the complex, whereas PROTEIN2 did not disrupt the complex
+270	 PROTEIN PROTEIN memA interacts with PROTEIN1 PROTEIN2 and SRrp130 in corneal epithelial cells
+291	Specific glutamines or lysines of PROTEIN1 were used to cross-link the different proteins, such as glutamines 495 and 496 to PROTEIN glutamine 288 to keratins, and lysines 468, 485, and 508 and glutamines 465 and 489 for interchain PROTEIN2 cross-links
+312	Our findings showed that the same C-terminal portion of PROTEIN1 binds the N-terminal domains of both TR and PROTEIN2 and our in vivo studies demonstrated that TR, PROTEIN and PROTEIN form a ternary complex
+333	The formation of a functional single chain/subunit complex was not restricted to the FSH single chain/ PROTEIN1 subunit since CG single chain interacts with the monomeric PROTEIN2 subunit and exhibits FSH activity
+354	 PROTEIN1 and PROTEIN2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as PROTEIN PROTEIN PROTEIN Shc, and Crk
+375	Expression of PROTEIN1 in 293T cells led to a reduction in active PROTEIN2 and PROTEIN levels but not RhoA
+396	Here, we characterize the interaction between PROTEIN and PROTEIN1 show that PROTEIN phosphorylates PROTEIN at conserved S274 and S326 residues in vitro, and present evidence that PROTEIN2 is also a substrate for PROTEIN in vivo
+417	Preincubation with genistein, a tyrosine kinase inhibitor, blocked the GH-stimulated adhesion and PROTEIN1 PROTEIN p125FAK, and PROTEIN2 phosphorylation

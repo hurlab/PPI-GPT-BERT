@@ -1,0 +1,17 @@
+Sentence ID	Sentence
+IEPA.d61.s158	Furthermore, we demonstrate that tyrosine phosphorylation of phospholipase Cgamma1 and formation of inositol 1,4,5-trisphosphate were increased by sAPP695-stimulation
+IEPA.d100.s239	If daily oxytocin injections are repeated over a 5-day period, blood pressure is decreased by 10-20 mmHg, the withdrawal latency to heat stimuli is prolonged, cortisol levels are decreased and insulin and cholecystokinin levels are increased
+IEPA.d109.s256	Fasting and leptin modulate adipose and muscle uncoupling protein: divergent effects between messenger ribonucleic acid and protein expression
+IEPA.d109.s257	In this study, we examined the effects of fasting for 2 days and exogenous s.c. leptin, 200 microg every 8 h for 2 days, on the regulation of uncoupling protein (UCP) subtypes in brown adipose tissue (BAT) and gastrocnemius muscle
+IEPA.d109.s258	Leptin, compared with vehicle, did not alter BAT UCP-1 or UCP-3 mRNA or protein expression when administered to normal ad libitum fed rats
+IEPA.d109.s259	Fasting significantly decreased BAT UCP-1 and UCP-3 mRNA expression, to 31% and 30% of ad libitum fed controls, respectively, effects which were prevented by administration of leptin to fasted rats
+IEPA.d109.s260	Fasting also significantly decreased BAT UCP-1 protein expression, to 67% of control; however, that effect was not prevented by leptin treatment
+IEPA.d109.s261	Fasting, with or without leptin administration, did not affect BAT UCP-2 mRNA; however, leptin administration to ad libitum fed rats significantly increased BAT UCP-2 mRNA, to 138% of control
+IEPA.d109.s262	Fasting significantly enhanced gastrocnemius muscle UCP-3 mRNA (411% of control) and protein expression (168% of control), whereas leptin administration to fasted rats did not alter either of these effects
+IEPA.d109.s263	In summary, UCP subtype mRNA and protein are regulated in tissue- and subtype-specific fashion by leptin and food restriction
+IEPA.d114.s274	In normal pancreatic islets, UCP-2 is upregulated by leptin and is low in leptin-resistant islets of ZDF rats
+IEPA.d114.s275	To determine whether UCP-2 does, in fact, have uncoupling activity and, if so, whether such activity would favorably influence the abnormalities in leptin-unresponsive UCP-2-underexpressing islets of diabetic ZDF rats, we transferred the UCP-2 gene to the islets of diabetic ZDF rats and lean (+/+) ZDF control rats
+IEPA.d114.s276	We conclude that UCP-2 has uncoupling function when overexpressed in leptin-insensitive islets and that its overexpression corrects the underexpression of the insulin gene and ameliorates glucose-stimulated insulin secretion, possibly by increasing the ATP:ADP ratio
+IEPA.d117.s285	The second class of mutant, gse (GA sensitivity), differed principally in GA sensitivity, requiring approximately 100-fold higher [GA3] for both leaf elongation and alpha-amylase production by aleurone
+IEPA.d133.s321	Neurotransmitters and hormones, such as arginine vasopressin (AVP) and bombesin, evoke frequency-modulated repetitive Ca2+ transients in insulin-secreting HIT-T15 cells by binding to receptors linked to phospholipase C (PLC)
+IEPA.d138.s327	Insulin-like signaling in yeast: modulation of protein phosphatase 2A, protein kinase A, cAMP-specific phosphodiesterase, and glycosyl-phosphatidylinositol-specific phospholipase C activities

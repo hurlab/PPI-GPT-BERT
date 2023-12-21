@@ -1,0 +1,54 @@
+Sentence ID	Sentence	isValid
+47	PROTEIN1 binds to the C-terminal SH2 domain of PROTEIN2 and inhibits its enzymatic activity	TRUE
+48	In this report, we demonstrate the stable association of PROTEIN1 with PROTEIN in a clathrin-coated vesicle complex, which not only binds to the carboxyl-terminal SH2 domain of PROTEIN2 but also inhibits its enzymatic activity in a dose-dependent manner	FALSE
+49	In this report, we demonstrate the stable association of PROTEIN1 with PROTEIN2 in a clathrin-coated vesicle complex, which not only binds to the carboxyl-terminal SH2 domain of PROTEIN but also inhibits its enzymatic activity in a dose-dependent manner	TRUE
+50	In this report, we demonstrate the stable association of PROTEIN with PROTEIN1 in a clathrin-coated vesicle complex, which not only binds to the carboxyl-terminal SH2 domain of PROTEIN2 but also inhibits its enzymatic activity in a dose-dependent manner	TRUE
+51	The protein PROTEIN1 functions in a multi-subunit E3 ubiquitin ligase that targets the hypoxia-inducible transcription factor PROTEIN2 for proteasomal degradation during normoxia	TRUE
+52	We establish that PROTEIN1 binds to PROTEIN ( PROTEIN2 , a component of the 19S regulatory complex of the proteasome	TRUE
+53	We establish that PROTEIN binds to PROTEIN1 ( PROTEIN2 , a component of the 19S regulatory complex of the proteasome	FALSE
+54	We establish that PROTEIN1 binds to PROTEIN2 ( PROTEIN , a component of the 19S regulatory complex of the proteasome	TRUE
+55	PROTEIN1 associates with the beta-domain of PROTEIN2 and complexes with PROTEIN and PROTEIN in vivo	TRUE
+56	PROTEIN1 associates with the beta-domain of PROTEIN and complexes with PROTEIN2 and PROTEIN in vivo	TRUE
+57	PROTEIN1 associates with the beta-domain of PROTEIN and complexes with PROTEIN and PROTEIN2 in vivo	TRUE
+58	PROTEIN associates with the beta-domain of PROTEIN1 and complexes with PROTEIN2 and PROTEIN in vivo	FALSE
+59	PROTEIN associates with the beta-domain of PROTEIN1 and complexes with PROTEIN and PROTEIN2 in vivo	FALSE
+60	PROTEIN associates with the beta-domain of PROTEIN and complexes with PROTEIN1 and PROTEIN2 in vivo	FALSE
+61	Overexpression of PROTEIN1 promotes degradation of PROTEIN2 in a pVHL-dependent manner that requires the ATPase domain of PROTEIN	TRUE
+62	Overexpression of PROTEIN promotes degradation of PROTEIN1 in a pVHL-dependent manner that requires the ATPase domain of PROTEIN2	TRUE
+63	Overexpression of PROTEIN1 promotes degradation of PROTEIN in a pVHL-dependent manner that requires the ATPase domain of PROTEIN2	FALSE
+64	Blockade of PROTEIN1 expression by small interfering RNA (siRNA) causes prolonged degradation kinetics of PROTEIN2	TRUE
+65	Several distinct mutations in exon 2 of PROTEIN1 disrupt binding of PROTEIN2 to PROTEIN	FALSE
+66	Several distinct mutations in exon 2 of PROTEIN1 disrupt binding of PROTEIN to PROTEIN2	TRUE
+67	Several distinct mutations in exon 2 of PROTEIN disrupt binding of PROTEIN1 to PROTEIN2	TRUE
+68	A PROTEIN mutant containing a P154L substitution coimmunoprecipitates with PROTEIN but not PROTEIN1 and does not promote degradation of PROTEIN2	FALSE
+69	A PROTEIN1 mutant containing a P154L substitution coimmunoprecipitates with PROTEIN but not PROTEIN and does not promote degradation of PROTEIN2	FALSE
+70	A PROTEIN mutant containing a P154L substitution coimmunoprecipitates with PROTEIN1 but not PROTEIN and does not promote degradation of PROTEIN2	FALSE
+71	A PROTEIN1 mutant containing a P154L substitution coimmunoprecipitates with PROTEIN but not PROTEIN2 and does not promote degradation of PROTEIN	FALSE
+72	A PROTEIN mutant containing a P154L substitution coimmunoprecipitates with PROTEIN1 but not PROTEIN2 and does not promote degradation of PROTEIN	FALSE
+73	A PROTEIN1 mutant containing a P154L substitution coimmunoprecipitates with PROTEIN2 but not PROTEIN and does not promote degradation of PROTEIN	TRUE
+74	Thus, the ability of PROTEIN to degrade PROTEIN1 depends in part on its interaction with PROTEIN and suggests a new mechanism for PROTEIN2 stabilization in some PROTEIN deficient tumors	FALSE
+75	Thus, the ability of PROTEIN to degrade PROTEIN1 depends in part on its interaction with PROTEIN and suggests a new mechanism for PROTEIN stabilization in some PROTEIN2 deficient tumors	FALSE
+76	Thus, the ability of PROTEIN1 to degrade PROTEIN2 depends in part on its interaction with PROTEIN and suggests a new mechanism for PROTEIN stabilization in some PROTEIN deficient tumors	TRUE
+77	Thus, the ability of PROTEIN to degrade PROTEIN1 depends in part on its interaction with PROTEIN2 and suggests a new mechanism for PROTEIN stabilization in some PROTEIN deficient tumors	FALSE
+78	Thus, the ability of PROTEIN to degrade PROTEIN depends in part on its interaction with PROTEIN and suggests a new mechanism for PROTEIN1 stabilization in some PROTEIN2 deficient tumors	TRUE
+79	Thus, the ability of PROTEIN1 to degrade PROTEIN depends in part on its interaction with PROTEIN and suggests a new mechanism for PROTEIN2 stabilization in some PROTEIN deficient tumors	FALSE
+80	Thus, the ability of PROTEIN to degrade PROTEIN depends in part on its interaction with PROTEIN1 and suggests a new mechanism for PROTEIN2 stabilization in some PROTEIN deficient tumors	FALSE
+81	Thus, the ability of PROTEIN1 to degrade PROTEIN depends in part on its interaction with PROTEIN and suggests a new mechanism for PROTEIN stabilization in some PROTEIN2 deficient tumors	FALSE
+82	Thus, the ability of PROTEIN to degrade PROTEIN depends in part on its interaction with PROTEIN1 and suggests a new mechanism for PROTEIN stabilization in some PROTEIN2 deficient tumors	FALSE
+83	Thus, the ability of PROTEIN1 to degrade PROTEIN depends in part on its interaction with PROTEIN2 and suggests a new mechanism for PROTEIN stabilization in some PROTEIN deficient tumors	TRUE
+84	Cross-linking of PROTEIN1 with the use of the mAb MEM-53 and a polyclonal sheep anti-mouse Ig promoted activation of resting B cells into the G1 phase of the cell cycle as judged by increased expression of the early activation Ag PROTEIN2 increases in cellular volume, RNA synthesis, and PROTEIN protein levels, and enhanced binding of 7-aminoactinomycin D	TRUE
+85	Cross-linking of PROTEIN with the use of the mAb MEM-53 and a polyclonal sheep anti-mouse Ig promoted activation of resting B cells into the G1 phase of the cell cycle as judged by increased expression of the early activation Ag PROTEIN1 increases in cellular volume, RNA synthesis, and PROTEIN2 protein levels, and enhanced binding of 7-aminoactinomycin D	FALSE
+86	Cross-linking of PROTEIN1 with the use of the mAb MEM-53 and a polyclonal sheep anti-mouse Ig promoted activation of resting B cells into the G1 phase of the cell cycle as judged by increased expression of the early activation Ag PROTEIN increases in cellular volume, RNA synthesis, and PROTEIN2 protein levels, and enhanced binding of 7-aminoactinomycin D	TRUE
+87	However, cytokines, in particular PROTEIN1 and PROTEIN potentiated the DNA synthesis induced by cross-linking of PROTEIN2	TRUE
+88	However, cytokines, in particular PROTEIN and PROTEIN1 potentiated the DNA synthesis induced by cross-linking of PROTEIN2	TRUE
+89	However, cytokines, in particular PROTEIN1 and PROTEIN2 potentiated the DNA synthesis induced by cross-linking of PROTEIN	FALSE
+90	The human PROTEIN1 mRNA editing protein is a PROTEIN2 showing structural homology to some known mammalian and bacteriophage deoxycytidylate deaminases	FALSE
+91	The fact that the PROTEIN1 mRNA editing protein also exists as a PROTEIN2 has important implications for the mechanism of PROTEIN mRNA editing in humans	FALSE
+92	The fact that the PROTEIN mRNA editing protein also exists as a PROTEIN1 has important implications for the mechanism of PROTEIN2 mRNA editing in humans	FALSE
+93	The fact that the PROTEIN1 mRNA editing protein also exists as a PROTEIN has important implications for the mechanism of PROTEIN2 mRNA editing in humans	FALSE
+94	PROTEIN1 dimers formed through self-association of the TATA-binding polypeptide ( PROTEIN subunit and could be immunoprecipitated with antibodies to PROTEIN2 the core subunit of PROTEIN	TRUE
+95	PROTEIN1 dimers formed through self-association of the TATA-binding polypeptide ( PROTEIN2 subunit and could be immunoprecipitated with antibodies to PROTEIN the core subunit of PROTEIN	FALSE
+96	PROTEIN1 dimers formed through self-association of the TATA-binding polypeptide ( PROTEIN subunit and could be immunoprecipitated with antibodies to PROTEIN the core subunit of PROTEIN2	FALSE
+97	PROTEIN dimers formed through self-association of the TATA-binding polypeptide ( PROTEIN1 subunit and could be immunoprecipitated with antibodies to PROTEIN2 the core subunit of PROTEIN	FALSE
+98	PROTEIN dimers formed through self-association of the TATA-binding polypeptide ( PROTEIN subunit and could be immunoprecipitated with antibodies to PROTEIN1 the core subunit of PROTEIN2	TRUE
+99	PROTEIN dimers formed through self-association of the TATA-binding polypeptide ( PROTEIN1 subunit and could be immunoprecipitated with antibodies to PROTEIN the core subunit of PROTEIN2	FALSE

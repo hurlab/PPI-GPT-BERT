@@ -1,0 +1,39 @@
+Sentence ID	Sentence
+427	Phosphoinositide hydrolysis, resulting in PROTEIN1 (IP3) and diacylglycerol (DG) formation, has been implicated in PROTEIN2 stimulated pulsatile secretion of prostaglandin F2 alpha (PGF2 alpha) from uterine endometrium of sheep and other mammals
+428	The effects of prostaglandin F2 alpha (PGF2 alpha) on intracellular Ca2+ concentration ([Ca2+]i) and PROTEIN1 (IP) generation in human myometrial cells were evaluated and compared to the effects of PROTEIN2 
+429	In contrast, the potencies of PROTEIN1 to raise PROTEIN2 and [Ca2+]i were similar and independent of extracellular Ca2+, and could be suppressed by pertussis toxin and phorbol ester, but not by verapamil
+430	The action of PGF2 alpha depends on extracellular Ca2+, whereas PROTEIN1 activates the G-protein-dependent phospholipase-C- PROTEIN2 Ca2+ signal-transducing pathway, complemented by the influx of extracellular Ca2+
+431	This indicates that the calcium response to PROTEIN1 application was principally associated with activation of the PROTEIN2 sensitive calcium stores
+432	Homogeneous liposome immunoassay for PROTEIN1 using PROTEIN2 from Clostridium perfringens
+433	 PROTEIN1 was conjugated to PROTEIN2 by a three-step procedure with hetero-bifunctional crosslinking reagents, succinimidyl 4-(N-maleimidomethyl)cyclohexane-1-carboxylate and 3-(2-pyridyldithio)propionic acid N-hydroxysuccinimide ester
+434	Both p-nitrophenylphosphatidylcholine hydrolytic activity and liposome lytic activity of PROTEIN1 PROTEIN2 conjugate were inhibited in the presence of PROTEIN antiserum
+435	Both p-nitrophenylphosphatidylcholine hydrolytic activity and liposome lytic activity of PROTEIN PROTEIN1 conjugate were inhibited in the presence of PROTEIN2 antiserum
+436	Both p-nitrophenylphosphatidylcholine hydrolytic activity and liposome lytic activity of PROTEIN1 PROTEIN conjugate were inhibited in the presence of PROTEIN2 antiserum
+437	However, in brown fat, we observed a 2-3-fold increase in the expression of PROTEIN1 in response to dietary fat challenge, which may be related to diet-induced elevations in plasma PROTEIN2 levels
+438	 PROTEIN1 evokes the release of Ca2+ from PROTEIN2 sensitive intracellular stores
+439	A barley gene encoding a novel DNA-binding protein (HRT) was identified by southwestern screening with baits containing a PROTEIN1 phytohormone response element from an PROTEIN2 promoter
+440	Oxytocin-stimulated PROTEIN1 release in a clonal beta-cell line RINm5F: involvement of PROTEIN2 dependent and -independent pathways.
+441	CONCLUSION: Oxy increases PROTEIN1 release through both PROTEIN2 and non-PLC mediated signal transduction mechanisms.
+442	In addition, U-73122 diminished the PROTEIN1 induced increase in intracellular concentration of PROTEIN2 (IP3)
+443	U-73122 at 8 mumol.L-1 totally abolished the PROTEIN induced increases in [Ca2+]i and PROTEIN1 however it reduced the PROTEIN2 induced increase in insulin release only by 36% and 63% in the monolayer and suspended cell preparations, respectively
+444	U-73122 at 8 mumol.L-1 totally abolished the PROTEIN1 induced increases in [Ca2+]i and PROTEIN however it reduced the PROTEIN2 induced increase in insulin release only by 36% and 63% in the monolayer and suspended cell preparations, respectively
+445	U-73122 at 8 mumol.L-1 totally abolished the PROTEIN1 induced increases in [Ca2+]i and PROTEIN2 however it reduced the PROTEIN induced increase in insulin release only by 36% and 63% in the monolayer and suspended cell preparations, respectively
+446	 PROTEIN1 stimulated PROTEIN2 release in a clonal beta-cell line RINm5F: involvement of phospholipase C-dependent and -independent pathways
+447	AIM: To study the mechanisms underlying PROTEIN1 (Oxy)-induced PROTEIN2 release
+448	RESULTS: PROTEIN1 increased PROTEIN2 release and [Ca2+]i in a concentration-dependent manner
+449	 PROTEIN1 induced PROTEIN2 release was not altered by pretreatment with pertussis toxin (PT)
+450	U-73122 at 8 mumol.L-1 totally abolished the PROTEIN induced increases in [Ca2+]i and IP3; however it reduced the PROTEIN1 induced increase in PROTEIN2 release only by 36% and 63% in the monolayer and suspended cell preparations, respectively
+451	U-73122 at 8 mumol.L-1 totally abolished the PROTEIN1 induced increases in [Ca2+]i and IP3; however it reduced the PROTEIN induced increase in PROTEIN2 release only by 36% and 63% in the monolayer and suspended cell preparations, respectively
+452	U-73122 at 8 mumol.L-1 totally abolished the PROTEIN1 induced increases in [Ca2+]i and IP3; however it reduced the PROTEIN2 induced increase in PROTEIN release only by 36% and 63% in the monolayer and suspended cell preparations, respectively
+453	CONCLUSION: PROTEIN1 increases PROTEIN2 release through both PLC and non-PLC mediated signal transduction mechanisms
+454	In isolated adipocytes, the loss of almost half the 18S RNA content over a 24-hour incubation was prevented in the presence of PROTEIN1 but not PROTEIN2 or epidermal growth factor (EGF)
+455	Further investigation suggested that activation of PROTEIN1 (PKC), which is part of the PROTEIN2 induced intracellular signalling pathway, is necessary and sufficient for the generation of the synergistic response, although it is not obligatory for PROTEIN induced ACTH release
+456	Further investigation suggested that activation of PROTEIN (PKC), which is part of the PROTEIN1 induced intracellular signalling pathway, is necessary and sufficient for the generation of the synergistic response, although it is not obligatory for PROTEIN2 induced ACTH release
+457	Further investigation suggested that activation of PROTEIN1 (PKC), which is part of the PROTEIN induced intracellular signalling pathway, is necessary and sufficient for the generation of the synergistic response, although it is not obligatory for PROTEIN2 induced ACTH release
+458	In addition, abscisic acid-mediated inhibition of PROTEIN1 stimulated responses seems to depend on the activation of a phospholipase D during induction of PROTEIN2 in barley aleurone cells as well as on a putative acetyltransferase involved in elongation growth.
+459	Effects of intravenously infused PROTEIN1 on insulin sensitivity and on the expression of PROTEIN2 in brown adipose tissue
+460	Centrally administered PROTEIN1 has been shown to increase insulin-stimulated glucose utilization and to favor the expression of PROTEIN2 (UCPs)
+461	To study if PROTEIN1 also has direct peripherally mediated effects on these processes, this hormone (1 mg/day) or its vehicle was infused i.v. for 4 days to lean rats and insulin-stimulated glucose utilization in skeletal muscle and adipose tissue as well as the expression of PROTEIN2 messenger RNAs (mRNAs) in brown adipose tissue were measured
+462	I.v. PROTEIN1 infusion also favored the expression of PROTEIN2 in brown adipose tissue, either by increasing their expression or preventing the fall occurring during the pair-feeding regimen.
+463	Relative PROTEIN1 expression levels were 100, 104, and 33 for PROTEIN 100, 191, and 125 for PROTEIN and 100, 107, and 29 for PROTEIN in ad libitum fed control rats, in PROTEIN2 treated rats and in pair-fed control rats, respectively
+464	Relative PROTEIN expression levels were 100, 104, and 33 for PROTEIN 100, 191, and 125 for PROTEIN and 100, 107, and 29 for PROTEIN1 in ad libitum fed control rats, in PROTEIN2 treated rats and in pair-fed control rats, respectively

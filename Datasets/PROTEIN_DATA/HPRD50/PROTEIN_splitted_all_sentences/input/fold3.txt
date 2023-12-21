@@ -1,0 +1,22 @@
+Sentence ID	Sentence
+100	 PROTEIN1 regulates beta-2 integrin-mediated adhesion through both ARF-GEF function and interaction with PROTEIN2 
+101	Here we provide evidence of how PROTEIN1 an integrin-binding protein and guanine-nucleotide exchange factor (GEF) for PROTEIN2 GTPases, regulates cell adhesion
+102	Mutational analyses of the beta-2 cytoplasmic domain revealed that the adhesive function of PROTEIN1 depends on its interaction with PROTEIN2 unless the integrin is activated by exogenous divalent cations
+103	Secondly, PROTEIN1 induces expression of an extracellular activation epitope of PROTEIN2 and the exchange factor function is not essential for this activity
+104	In contrast, LFA-1-mediated cell adhesion and spreading on intercellular cell adhesion molecule 1 is strongly inhibited by a PROTEIN1 mutant, which fails to catalyze PROTEIN2 GDP-GTP exchange in vitro
+105	Thus, PROTEIN1 is involved in the activation of PROTEIN2 most probably through direct interaction with the integrin, and induces cell spreading by its ARF-GEF activity
+106	By constructing deletion mutants, we identified that amino acid residues 229-309 of Akt were involved in the binding to PROTEIN1 and amino acid residues 327-340 of PROTEIN2 were involved in the binding to Akt
+107	 PROTEIN1 and PROTEIN2 multifunctional endocytic receptors
+108	 PROTEIN1 and PROTEIN2 are two structurally different endocytic receptors that interact to serve such functions
+109	Assignment of PROTEIN1 PROTEIN2 and Etfa to chromosomes 3, 7, and 13: the mouse homologs of genes responsible for glutaric acidemia type II in human
+110	We used cDNA probes for the PROTEIN1 PROTEIN2 and Etfa genes to determine localization of these mouse genes to chromosomes 3, 7, and 13
+111	We report that PROTEIN1 (MutS homolog 2) protein interacts with the ATR (ATM- and Rad3-related) kinase to form a signaling module and regulate the phosphorylation of PROTEIN2 and PROTEIN (structure maintenance of chromosome 1)
+112	We report that PROTEIN1 (MutS homolog 2) protein interacts with the ATR (ATM- and Rad3-related) kinase to form a signaling module and regulate the phosphorylation of PROTEIN and PROTEIN2 (structure maintenance of chromosome 1)
+113	We report that PROTEIN (MutS homolog 2) protein interacts with the ATR (ATM- and Rad3-related) kinase to form a signaling module and regulate the phosphorylation of PROTEIN1 and PROTEIN2 (structure maintenance of chromosome 1)
+114	We found that phosphorylation of PROTEIN1 by ATR also requires checkpoint proteins PROTEIN2 and replication protein A
+115	In contrast, phosphorylation of PROTEIN by ATR is independent of PROTEIN1 and replication protein A, suggesting that the signaling pathway leading to PROTEIN2 phosphorylation is distinct from that mediated by the checkpoint proteins
+116	In contrast, phosphorylation of PROTEIN1 by ATR is independent of PROTEIN and replication protein A, suggesting that the signaling pathway leading to PROTEIN2 phosphorylation is distinct from that mediated by the checkpoint proteins
+117	In contrast, phosphorylation of PROTEIN1 by ATR is independent of PROTEIN2 and replication protein A, suggesting that the signaling pathway leading to PROTEIN phosphorylation is distinct from that mediated by the checkpoint proteins
+118	In addition, both PROTEIN and PROTEIN1 are required for the activation of the S-phase checkpoint to suppress DNA synthesis in response to MNNG, and phosphorylation of PROTEIN2 is required for cellular survival
+119	In addition, both PROTEIN1 and PROTEIN2 are required for the activation of the S-phase checkpoint to suppress DNA synthesis in response to MNNG, and phosphorylation of PROTEIN is required for cellular survival
+120	In addition, both PROTEIN1 and PROTEIN are required for the activation of the S-phase checkpoint to suppress DNA synthesis in response to MNNG, and phosphorylation of PROTEIN2 is required for cellular survival

@@ -1,0 +1,47 @@
+Sentence_ID	Sentence
+IEPA.d20.s42	We propose that OT binds to specific OT receptors (OTR) on the endometrium to stimulate phosphoinositide (PI) hydrolysis, thereby activating the inositol trisphosphate (IP3)-diacylglycerol (DAG) second-messenger system to promote pulsatile PGF2 alpha secretion
+IEPA.d20.s43	Endometrial IP3 was increased within 30 seconds after OT treatment and preceded the increase in PGF2 alpha release stimulated by OT
+IEPA.d20.s44	These results support the hypothesis that OT stimulates phospholipase C to hydrolyze PI, yielding IP3 and DAG second-messengers which promote endometrial PGF2 alpha release during CL regression in pigs
+IEPA.d23.s47	The resulting abnormally phosphorylated PrPsc aggregates to freshly synthesized PrPc, transforming it into same; due to a system of positive feedback invoked by the organophosphate-induced blockage of a prion protein-specific protein kinase.
+IEPA.d31.s63	OT may rapidly stimulate inositol (1,4,5)-trisphosphate (IP3) and diacylglycerol (DAG) formation, consistent with the concept of rapid activation of a second-messenger system
+IEPA.d31.s64	In support of this hypothesis, endometrial IP3 levels were increased (P < 0.05) within 0.5 min after treatment with 0.1 microM OT
+IEPA.d31.s65	These results indicate that OT induces endometrial IP3 production in a rapid manner indicative of a second-messenger system
+IEPA.d38.s92	2) IGF-1, IGF-2, and insulin also induced a Ca2+ mobilization from the endoplasmic reticulum: phospholipase C (PLC) inhibitors, neomycin, or U-73122 partially blocked the intracellular [Ca2+]i increase induced by IGF-1 and insulin and totally inhibited the effect of IGF-2
+IEPA.d48.s123	Leptin increases uncoupling protein expression and energy expenditure
+IEPA.d48.s124	Leptin increased BAT UCP mRNA levels greater than twofold in both ad libitum-fed and food-restricted rats
+IEPA.d48.s125	These data demonstrate a leptin-induced increase in energy expenditure in nonmutant rodents and suggest that one mechanism by which leptin increases energy expenditure is through increased thermogenesis in BAT, including increased expression of UCP
+IEPA.d52.s135	Uncoupling protein-3 is a mediator of thermogenesis regulated by thyroid hormone, beta3-adrenergic agonists, and leptin
+IEPA.d52.s136	UCP3 mRNA levels were also regulated by dexamethasone, leptin, and starvation, albeit differently in muscle and brown adipose tissue
+IEPA.d61.s157	Secreted form of beta-amyloid precursor protein activates protein kinase C and phospholipase Cgamma1 in cultured embryonic rat neocortical cells
+IEPA.d61.s158	Furthermore, we demonstrate that tyrosine phosphorylation of phospholipase Cgamma1 and formation of inositol 1,4,5-trisphosphate were increased by sAPP695-stimulation
+IEPA.d100.s239	If daily oxytocin injections are repeated over a 5-day period, blood pressure is decreased by 10-20 mmHg, the withdrawal latency to heat stimuli is prolonged, cortisol levels are decreased and insulin and cholecystokinin levels are increased
+IEPA.d109.s256	Fasting and leptin modulate adipose and muscle uncoupling protein: divergent effects between messenger ribonucleic acid and protein expression
+IEPA.d109.s257	In this study, we examined the effects of fasting for 2 days and exogenous s.c. leptin, 200 microg every 8 h for 2 days, on the regulation of uncoupling protein (UCP) subtypes in brown adipose tissue (BAT) and gastrocnemius muscle
+IEPA.d109.s258	Leptin, compared with vehicle, did not alter BAT UCP-1 or UCP-3 mRNA or protein expression when administered to normal ad libitum fed rats
+IEPA.d109.s259	Fasting significantly decreased BAT UCP-1 and UCP-3 mRNA expression, to 31% and 30% of ad libitum fed controls, respectively, effects which were prevented by administration of leptin to fasted rats
+IEPA.d109.s260	Fasting also significantly decreased BAT UCP-1 protein expression, to 67% of control; however, that effect was not prevented by leptin treatment
+IEPA.d109.s261	Fasting, with or without leptin administration, did not affect BAT UCP-2 mRNA; however, leptin administration to ad libitum fed rats significantly increased BAT UCP-2 mRNA, to 138% of control
+IEPA.d109.s262	Fasting significantly enhanced gastrocnemius muscle UCP-3 mRNA (411% of control) and protein expression (168% of control), whereas leptin administration to fasted rats did not alter either of these effects
+IEPA.d109.s263	In summary, UCP subtype mRNA and protein are regulated in tissue- and subtype-specific fashion by leptin and food restriction
+IEPA.d114.s274	In normal pancreatic islets, UCP-2 is upregulated by leptin and is low in leptin-resistant islets of ZDF rats
+IEPA.d114.s275	To determine whether UCP-2 does, in fact, have uncoupling activity and, if so, whether such activity would favorably influence the abnormalities in leptin-unresponsive UCP-2-underexpressing islets of diabetic ZDF rats, we transferred the UCP-2 gene to the islets of diabetic ZDF rats and lean (+/+) ZDF control rats
+IEPA.d114.s276	We conclude that UCP-2 has uncoupling function when overexpressed in leptin-insensitive islets and that its overexpression corrects the underexpression of the insulin gene and ameliorates glucose-stimulated insulin secretion, possibly by increasing the ATP:ADP ratio
+IEPA.d117.s285	The second class of mutant, gse (GA sensitivity), differed principally in GA sensitivity, requiring approximately 100-fold higher [GA3] for both leaf elongation and alpha-amylase production by aleurone
+IEPA.d133.s321	Neurotransmitters and hormones, such as arginine vasopressin (AVP) and bombesin, evoke frequency-modulated repetitive Ca2+ transients in insulin-secreting HIT-T15 cells by binding to receptors linked to phospholipase C (PLC)
+IEPA.d138.s327	Insulin-like signaling in yeast: modulation of protein phosphatase 2A, protein kinase A, cAMP-specific phosphodiesterase, and glycosyl-phosphatidylinositol-specific phospholipase C activities
+IEPA.d138.s328	In addition, glycosyl-phosphatidylinositol-specific phospholipase C (GPI-PLC), which in isolated rat adipocytes is activated by insulin, was stimulated to up to 5-fold by glucose and 10-fold by glucose plus insulin in both yeast spheroplasts and intact cells leading to a concentration-dependent leftward shift of the glucose-response curve for activation of the GPI-PLC
+IEPA.d138.s329	GPI-PLC was most pronouncedly stimulated by authentic human insulin compared to various insulin analogues and insulin-like growth factor I
+IEPA.d138.s330	As the GPI-PLC reaction is rate limiting, the efficiency of the two-step anchor cleavage was significantly increased when insulin was present together with glucose as compared to glucose alone
+IEPA.d138.s331	The insulin concentrations effective in modulating PP2A, PKA, cAMP-PDE, and GPI-PLC activities correlate well with those required for half-saturation of the specific binding sites as well as for stimulation of protein phosphorylation and glycogen accumulation
+IEPA.d138.s332	The data suggest that mammalian insulin-sensitive cells and yeast share (part of) the key regulatory mechanism (consisting of PP2A, PKA, cAMP-PDE, and GPI-PLC) involved in the transduction of the insulin signal from the respective receptor systems to glycogen synthase and phosphorylase
+IEPA.d154.s370	The glycosyl-phosphatidylinositol anchored protein, membrane dipeptidase (EC 3.4.13.19) is released from the surface of 3T3-L1 adipocytes in response to insulin treatment through the action of a phospholipase C
+IEPA.d154.s371	Although X-Pro aminopeptidase (EC 3.4.11.9) is GPI-anchored in 3T3-L1 adipocytes as shown by digestion with bacterial phosphatidylinositol-specific phospholipase C, it was not released upon insulin treatment of the cells, indicating that only a subset of the GPI-anchored proteins are susceptible to insulin-stimulated release
+IEPA.d173.s419	We have established that the recovery of secreted N1 is increased by the protein kinase C agonists PDBu and PMA in a time- and dose-dependent manner in both cell lines
+IEPA.d173.s420	In contrast, secretion of N1 remains unaffected by the inactive PDBu analog alphaPDD and by the protein kinase A effectors dibutyryl cAMP and forskolin
+IEPA.d173.s421	Overall, our data indicate that the normal processing of PrP(c) is up-regulated by protein kinase C but not protein kinase A in human cells and murine neurons
+IEPA.d178.s429	A caveolin-1-dependent coupling of PrPc to the tyrosine kinase Fyn was observed
+IEPA.d179.s430	Recently several significant advances have been made in this area, including the identification of the appetite regulating hormone, leptin, and a detailed understanding of its targets in the central nervous system (CNS), such as neuropeptide Y (NPY) and the melanocortin-4 receptor
+IEPA.d181.s435	Activity and expression of the three UCP's are stimulated by several neuromediators and hormones such as noradrenaline, tri-iodothyronine and leptin
+IEPA.d59.s154	PKB, which is an important early PI 3-kinase-dependent component of insulin signalling pathways, is also down-regulated by PLC-coupled agonists
+IEPA.d78.s187	To assess the possible involvement of PKC in AVP and IL-1 action in Leydig cells, the PKC inhibitor Calphostin C was tested
+IEPA.d78.s188	These results confirm that AVP and PMA activate PKC and indicate that IL-1 likely does not activate PKC in Leydig cells

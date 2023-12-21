@@ -1,0 +1,19 @@
+Sentence ID	Sentence
+IEPA.d91.s220	AIM: To study the mechanisms underlying oxytocin (Oxy)-induced insulin release
+IEPA.d91.s221	RESULTS: Oxy increased insulin release and [Ca2+]i in a concentration-dependent manner
+IEPA.d91.s222	Oxy-induced insulin release was not altered by pretreatment with pertussis toxin (PT)
+IEPA.d91.s223	U-73122 at 8 mumol.L-1 totally abolished the Oxy-induced increases in [Ca2+]i and IP3; however it reduced the Oxy-induced increase in insulin release only by 36% and 63% in the monolayer and suspended cell preparations, respectively
+IEPA.d91.s224	CONCLUSION: Oxy increases insulin release through both PLC and non-PLC mediated signal transduction mechanisms
+IEPA.d92.s225	In isolated adipocytes, the loss of almost half the 18S RNA content over a 24-hour incubation was prevented in the presence of insulin but not oxytocin or epidermal growth factor (EGF)
+IEPA.d93.s226	Further investigation suggested that activation of protein kinase C (PKC), which is part of the AVP-induced intracellular signalling pathway, is necessary and sufficient for the generation of the synergistic response, although it is not obligatory for AVP-induced ACTH release
+IEPA.d104.s243	In addition, abscisic acid-mediated inhibition of gibberellin-stimulated responses seems to depend on the activation of a phospholipase D during induction of alpha-amylase in barley aleurone cells as well as on a putative acetyltransferase involved in elongation growth.
+IEPA.d122.s290	Effects of intravenously infused leptin on insulin sensitivity and on the expression of uncoupling proteins in brown adipose tissue
+IEPA.d122.s291	Centrally administered leptin has been shown to increase insulin-stimulated glucose utilization and to favor the expression of uncoupling proteins (UCPs)
+IEPA.d122.s292	To study if leptin also has direct peripherally mediated effects on these processes, this hormone (1 mg/day) or its vehicle was infused i.v. for 4 days to lean rats and insulin-stimulated glucose utilization in skeletal muscle and adipose tissue as well as the expression of UCP messenger RNAs (mRNAs) in brown adipose tissue were measured
+IEPA.d122.s293	I.v. leptin infusion also favored the expression of UCPs in brown adipose tissue, either by increasing their expression or preventing the fall occurring during the pair-feeding regimen.
+IEPA.d122.s294	Relative UCP expression levels were 100, 104, and 33 for UCP1, 100, 191, and 125 for UCP2 and 100, 107, and 29 for UCP3 in ad libitum fed control rats, in leptin-treated rats and in pair-fed control rats, respectively
+IEPA.d122.s295	These results suggest that the overall effect of leptin on glucose utilization and on the expression of UCPs may be mediated through central mechanism
+IEPA.d148.s359	In vivo effects of CGP-12177 on the expression of leptin and uncoupling protein genes in mouse brown and white adipose tissues
+IEPA.d148.s360	OBJECTIVE: To assess the effect of chronic treatment with CGP-12177 a beta3-adrenergic receptor (AR) agonist with beta2/beta1-AR antagonist action, on the expression of the leptin gene and of genes coding for uncoupling proteins (ucp1, ucp2 and ucp3) in brown and white adipose tissues
+IEPA.d148.s361	CONCLUSION: The results reveal that simultaneous stimulation of the expression of certain ucp genes and the leptin gene can be achieved, and suggest that adrenergic regulation of the leptin gene and of genes of the ucp family in adipose tissues is the result of complex interactions between the different beta-AR pathways
+IEPA.d155.s372	However, neither progesterone nor insulin increased phosphotyrosine on PLCgamma

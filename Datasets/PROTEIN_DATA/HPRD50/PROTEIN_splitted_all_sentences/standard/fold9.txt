@@ -1,0 +1,56 @@
+Sentence ID	Sentence	isValid
+330	We tested this point by cotransfecting CHO cells with the genes encoding F beta alpha and the PROTEIN1 subunit or the PROTEIN2 and PROTEIN monomer	False
+331	We tested this point by cotransfecting CHO cells with the genes encoding F beta alpha and the PROTEIN subunit or the PROTEIN1 and PROTEIN2 monomer	False
+332	We tested this point by cotransfecting CHO cells with the genes encoding F beta alpha and the PROTEIN1 subunit or the PROTEIN and PROTEIN2 monomer	False
+333	The formation of a functional single chain/subunit complex was not restricted to the FSH single chain/ PROTEIN1 subunit since CG single chain interacts with the monomeric PROTEIN2 subunit and exhibits FSH activity	False
+334	This is relevant for the case of LH and FSH, because both are synthesized in the same cell (i.e., pituitary gonadotrophs) and several of the alpha subunit sequences required for association with either the PROTEIN1 or PROTEIN2 subunits are different	False
+335	Previously, we showed that the PROTEIN1 or PROTEIN2 subunit genes can be genetically fused to the alpha gene to produce biologically active single chains, PROTEIN and F beta alpha, respectively	False
+336	Previously, we showed that the PROTEIN1 or PROTEIN subunit genes can be genetically fused to the alpha gene to produce biologically active single chains, PROTEIN2 and F beta alpha, respectively	False
+337	Previously, we showed that the PROTEIN or PROTEIN1 subunit genes can be genetically fused to the alpha gene to produce biologically active single chains, PROTEIN2 and F beta alpha, respectively	False
+338	In the present study, we observed evidence of cross-talk between the cannabinoid receptor PROTEIN1 and the PROTEIN2 ( PROTEIN using a heterologous system	True
+339	In the present study, we observed evidence of cross-talk between the cannabinoid receptor PROTEIN1 and the PROTEIN ( PROTEIN2 using a heterologous system	True
+340	In the present study, we observed evidence of cross-talk between the cannabinoid receptor PROTEIN and the PROTEIN1 ( PROTEIN2 using a heterologous system	False
+341	In contrast to PROTEIN1 the potency of direct activation of PROTEIN was not affected by co-expression with PROTEIN2 	False
+342	In contrast to PROTEIN1 the potency of direct activation of PROTEIN2 was not affected by co-expression with PROTEIN 	False
+343	In contrast to PROTEIN the potency of direct activation of PROTEIN1 was not affected by co-expression with PROTEIN2 	False
+344	In addition, electron microscopy experiments revealed that PROTEIN1 and PROTEIN2 are closely apposed at the plasma membrane level; they are close enough to form hetero-oligomers	False
+345	 PROTEIN a Rho family PROTEIN that interacts with signaling adapters PROTEIN1 and PROTEIN2 	False
+346	 PROTEIN1 a Rho family PROTEIN that interacts with signaling adapters PROTEIN and PROTEIN2 	True
+347	 PROTEIN a Rho family PROTEIN1 that interacts with signaling adapters PROTEIN and PROTEIN2 	True
+348	 PROTEIN1 a Rho family PROTEIN that interacts with signaling adapters PROTEIN2 and PROTEIN 	True
+349	 PROTEIN a Rho family PROTEIN1 that interacts with signaling adapters PROTEIN2 and PROTEIN 	True
+350	 PROTEIN1 a Rho family PROTEIN2 that interacts with signaling adapters PROTEIN and PROTEIN 	False
+351	 PROTEIN1 and PROTEIN are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as PROTEIN PROTEIN2 PROTEIN Shc, and Crk	True
+352	 PROTEIN1 and PROTEIN are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as PROTEIN PROTEIN PROTEIN2 Shc, and Crk	True
+353	 PROTEIN1 and PROTEIN are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as PROTEIN2 PROTEIN PROTEIN Shc, and Crk	True
+354	 PROTEIN1 and PROTEIN2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as PROTEIN PROTEIN PROTEIN Shc, and Crk	False
+355	 PROTEIN and PROTEIN are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as PROTEIN PROTEIN1 PROTEIN2 Shc, and Crk	False
+356	 PROTEIN and PROTEIN are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as PROTEIN1 PROTEIN2 PROTEIN Shc, and Crk	False
+357	 PROTEIN and PROTEIN1 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as PROTEIN PROTEIN2 PROTEIN Shc, and Crk	True
+358	 PROTEIN and PROTEIN are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as PROTEIN1 PROTEIN PROTEIN2 Shc, and Crk	False
+359	 PROTEIN and PROTEIN1 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as PROTEIN PROTEIN PROTEIN2 Shc, and Crk	True
+360	 PROTEIN and PROTEIN1 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as PROTEIN2 PROTEIN PROTEIN Shc, and Crk	True
+361	In addition, PROTEIN1 contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length PROTEIN2 in vitro	True
+362	We propose that PROTEIN1 and PROTEIN in cooperation with other adapter molecules might regulate the cellular localization of PROTEIN under specific stimuli, acting to regulate precisely Rac and PROTEIN2 activities	True
+363	We propose that PROTEIN and PROTEIN1 in cooperation with other adapter molecules might regulate the cellular localization of PROTEIN under specific stimuli, acting to regulate precisely Rac and PROTEIN2 activities	True
+364	We propose that PROTEIN and PROTEIN in cooperation with other adapter molecules might regulate the cellular localization of PROTEIN1 under specific stimuli, acting to regulate precisely Rac and PROTEIN2 activities	False
+365	We propose that PROTEIN1 and PROTEIN2 in cooperation with other adapter molecules might regulate the cellular localization of PROTEIN under specific stimuli, acting to regulate precisely Rac and PROTEIN activities	False
+366	We propose that PROTEIN1 and PROTEIN in cooperation with other adapter molecules might regulate the cellular localization of PROTEIN2 under specific stimuli, acting to regulate precisely Rac and PROTEIN activities	True
+367	We propose that PROTEIN and PROTEIN1 in cooperation with other adapter molecules might regulate the cellular localization of PROTEIN2 under specific stimuli, acting to regulate precisely Rac and PROTEIN activities	True
+368	This work led to identification of a novel PROTEIN1 ( PROTEIN2 for Rho family GTPases	False
+369	The GAP domain shows high similarity to the recently cloned PROTEIN1 and displays activity toward RhoA, PROTEIN2 and PROTEIN in vitro	False
+370	The GAP domain shows high similarity to the recently cloned PROTEIN and displays activity toward RhoA, PROTEIN1 and PROTEIN2 in vitro	False
+371	The GAP domain shows high similarity to the recently cloned PROTEIN1 and displays activity toward RhoA, PROTEIN and PROTEIN2 in vitro	False
+372	The protein was named PROTEIN for its ability to interact with PROTEIN1 proteins and its activity toward Rac and PROTEIN2 	False
+373	The protein was named PROTEIN1 for its ability to interact with PROTEIN proteins and its activity toward Rac and PROTEIN2 	True
+374	The protein was named PROTEIN1 for its ability to interact with PROTEIN2 proteins and its activity toward Rac and PROTEIN 	True
+375	Expression of PROTEIN1 in 293T cells led to a reduction in active PROTEIN2 and PROTEIN levels but not RhoA	True
+376	Expression of PROTEIN1 in 293T cells led to a reduction in active PROTEIN and PROTEIN2 levels but not RhoA	True
+377	Expression of PROTEIN in 293T cells led to a reduction in active PROTEIN1 and PROTEIN2 levels but not RhoA	False
+378	Specific interaction of PROTEIN1 and c/EBPbeta leads to the transcriptional activation of the human PROTEIN2 gene	True
+379	The sterol-independent regulatory element (SIRE) of the PROTEIN1 ( PROTEIN2 promoter mediates PROTEIN (OM)-induced transcription of the PROTEIN gene through a cholesterol-independent pathway	False
+380	The sterol-independent regulatory element (SIRE) of the PROTEIN1 ( PROTEIN promoter mediates PROTEIN (OM)-induced transcription of the PROTEIN2 gene through a cholesterol-independent pathway	False
+381	The sterol-independent regulatory element (SIRE) of the PROTEIN1 ( PROTEIN promoter mediates PROTEIN2 (OM)-induced transcription of the PROTEIN gene through a cholesterol-independent pathway	True
+382	The sterol-independent regulatory element (SIRE) of the PROTEIN ( PROTEIN1 promoter mediates PROTEIN (OM)-induced transcription of the PROTEIN2 gene through a cholesterol-independent pathway	False
+383	The sterol-independent regulatory element (SIRE) of the PROTEIN ( PROTEIN1 promoter mediates PROTEIN2 (OM)-induced transcription of the PROTEIN gene through a cholesterol-independent pathway	True
+384	The sterol-independent regulatory element (SIRE) of the PROTEIN ( PROTEIN promoter mediates PROTEIN1 (OM)-induced transcription of the PROTEIN2 gene through a cholesterol-independent pathway	True

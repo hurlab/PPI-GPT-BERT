@@ -1,0 +1,47 @@
+Sentence ID	Sentence	isValid
+725	We propose that PROTEIN1 binds to specific OT receptors (OTR) on the endometrium to stimulate phosphoinositide (PI) hydrolysis, thereby activating the inositol trisphosphate ( PROTEIN2 -diacylglycerol (DAG) second-messenger system to promote pulsatile PGF2 alpha secretion	True
+726	Endometrial PROTEIN1 was increased within 30 seconds after PROTEIN2 treatment and preceded the increase in PGF2 alpha release stimulated by PROTEIN 	True
+727	Endometrial PROTEIN was increased within 30 seconds after PROTEIN1 treatment and preceded the increase in PGF2 alpha release stimulated by PROTEIN2 	False
+728	Endometrial PROTEIN1 was increased within 30 seconds after PROTEIN treatment and preceded the increase in PGF2 alpha release stimulated by PROTEIN2 	False
+729	These results support the hypothesis that PROTEIN1 stimulates phospholipase C to hydrolyze PI, yielding PROTEIN2 and DAG second-messengers which promote endometrial PGF2 alpha release during CL regression in pigs	True
+730	The resulting abnormally phosphorylated PROTEIN aggregates to freshly synthesized PROTEIN transforming it into same; due to a system of positive feedback invoked by the organophosphate-induced blockage of a PROTEIN1 specific PROTEIN2 	True
+731	The resulting abnormally phosphorylated PROTEIN aggregates to freshly synthesized PROTEIN1 transforming it into same; due to a system of positive feedback invoked by the organophosphate-induced blockage of a PROTEIN specific PROTEIN2 	False
+732	The resulting abnormally phosphorylated PROTEIN1 aggregates to freshly synthesized PROTEIN transforming it into same; due to a system of positive feedback invoked by the organophosphate-induced blockage of a PROTEIN specific PROTEIN2 	False
+733	The resulting abnormally phosphorylated PROTEIN aggregates to freshly synthesized PROTEIN1 transforming it into same; due to a system of positive feedback invoked by the organophosphate-induced blockage of a PROTEIN2 specific PROTEIN 	False
+734	The resulting abnormally phosphorylated PROTEIN1 aggregates to freshly synthesized PROTEIN transforming it into same; due to a system of positive feedback invoked by the organophosphate-induced blockage of a PROTEIN2 specific PROTEIN 	False
+735	The resulting abnormally phosphorylated PROTEIN1 aggregates to freshly synthesized PROTEIN2 transforming it into same; due to a system of positive feedback invoked by the organophosphate-induced blockage of a PROTEIN specific PROTEIN 	False
+736	 PROTEIN1 may rapidly stimulate PROTEIN2 (IP3) and diacylglycerol (DAG) formation, consistent with the concept of rapid activation of a second-messenger system	True
+737	In support of this hypothesis, endometrial PROTEIN1 levels were increased (P < 0.05) within 0.5 min after treatment with 0.1 microM PROTEIN2 	True
+738	These results indicate that PROTEIN1 induces endometrial PROTEIN2 production in a rapid manner indicative of a second-messenger system	True
+739	2) IGF-1, IGF-2, and PROTEIN1 also induced a Ca2+ mobilization from the endoplasmic reticulum: PROTEIN (PLC) inhibitors, neomycin, or U-73122 partially blocked the intracellular [Ca2+]i increase induced by IGF-1 and PROTEIN2 and totally inhibited the effect of IGF-2	False
+740	2) IGF-1, IGF-2, and PROTEIN also induced a Ca2+ mobilization from the endoplasmic reticulum: PROTEIN1 (PLC) inhibitors, neomycin, or U-73122 partially blocked the intracellular [Ca2+]i increase induced by IGF-1 and PROTEIN2 and totally inhibited the effect of IGF-2	True
+741	2) IGF-1, IGF-2, and PROTEIN1 also induced a Ca2+ mobilization from the endoplasmic reticulum: PROTEIN2 (PLC) inhibitors, neomycin, or U-73122 partially blocked the intracellular [Ca2+]i increase induced by IGF-1 and PROTEIN and totally inhibited the effect of IGF-2	False
+742	 PROTEIN1 increases PROTEIN2 expression and energy expenditure	True
+743	 PROTEIN1 increased BAT PROTEIN2 mRNA levels greater than twofold in both ad libitum-fed and food-restricted rats	True
+744	These data demonstrate a PROTEIN1 induced increase in energy expenditure in nonmutant rodents and suggest that one mechanism by which PROTEIN increases energy expenditure is through increased thermogenesis in BAT, including increased expression of PROTEIN2 	False
+745	These data demonstrate a PROTEIN1 induced increase in energy expenditure in nonmutant rodents and suggest that one mechanism by which PROTEIN2 increases energy expenditure is through increased thermogenesis in BAT, including increased expression of PROTEIN 	False
+746	These data demonstrate a PROTEIN induced increase in energy expenditure in nonmutant rodents and suggest that one mechanism by which PROTEIN1 increases energy expenditure is through increased thermogenesis in BAT, including increased expression of PROTEIN2 	True
+747	 PROTEIN1 is a mediator of thermogenesis regulated by thyroid hormone, beta3-adrenergic agonists, and PROTEIN2 	True
+748	 PROTEIN1 mRNA levels were also regulated by dexamethasone, PROTEIN2 and starvation, albeit differently in muscle and brown adipose tissue	True
+749	Secreted form of PROTEIN1 precursor protein activates protein kinase C and PROTEIN2 in cultured embryonic rat neocortical cells	True
+750	Furthermore, we demonstrate that tyrosine phosphorylation of PROTEIN1 and formation of inositol 1,4,5-trisphosphate were increased by PROTEIN2 stimulation	True
+751	If daily PROTEIN1 injections are repeated over a 5-day period, blood pressure is decreased by 10-20 mmHg, the withdrawal latency to heat stimuli is prolonged, cortisol levels are decreased and PROTEIN2 and cholecystokinin levels are increased	True
+752	Fasting and PROTEIN1 modulate adipose and muscle PROTEIN2 divergent effects between messenger ribonucleic acid and protein expression	True
+753	In this study, we examined the effects of fasting for 2 days and exogenous s.c. PROTEIN1 200 microg every 8 h for 2 days, on the regulation of PROTEIN2 (UCP) subtypes in brown adipose tissue (BAT) and gastrocnemius muscle	False
+754	 PROTEIN1 compared with vehicle, did not alter BAT PROTEIN2 or PROTEIN mRNA or protein expression when administered to normal ad libitum fed rats	False
+755	 PROTEIN compared with vehicle, did not alter BAT PROTEIN1 or PROTEIN2 mRNA or protein expression when administered to normal ad libitum fed rats	False
+756	 PROTEIN1 compared with vehicle, did not alter BAT PROTEIN or PROTEIN2 mRNA or protein expression when administered to normal ad libitum fed rats	False
+757	Fasting significantly decreased BAT PROTEIN1 and PROTEIN2 mRNA expression, to 31% and 30% of ad libitum fed controls, respectively, effects which were prevented by administration of PROTEIN to fasted rats	False
+758	Fasting significantly decreased BAT PROTEIN1 and PROTEIN mRNA expression, to 31% and 30% of ad libitum fed controls, respectively, effects which were prevented by administration of PROTEIN2 to fasted rats	True
+759	Fasting significantly decreased BAT PROTEIN and PROTEIN1 mRNA expression, to 31% and 30% of ad libitum fed controls, respectively, effects which were prevented by administration of PROTEIN2 to fasted rats	True
+760	Fasting also significantly decreased BAT PROTEIN1 protein expression, to 67% of control; however, that effect was not prevented by PROTEIN2 treatment	False
+761	Fasting, with or without PROTEIN1 administration, did not affect BAT PROTEIN mRNA; however, PROTEIN2 administration to ad libitum fed rats significantly increased BAT PROTEIN mRNA, to 138% of control	False
+762	Fasting, with or without PROTEIN1 administration, did not affect BAT PROTEIN2 mRNA; however, PROTEIN administration to ad libitum fed rats significantly increased BAT PROTEIN mRNA, to 138% of control	False
+763	Fasting, with or without PROTEIN1 administration, did not affect BAT PROTEIN mRNA; however, PROTEIN administration to ad libitum fed rats significantly increased BAT PROTEIN2 mRNA, to 138% of control	False
+764	Fasting, with or without PROTEIN administration, did not affect BAT PROTEIN1 mRNA; however, PROTEIN2 administration to ad libitum fed rats significantly increased BAT PROTEIN mRNA, to 138% of control	False
+765	Fasting, with or without PROTEIN administration, did not affect BAT PROTEIN mRNA; however, PROTEIN1 administration to ad libitum fed rats significantly increased BAT PROTEIN2 mRNA, to 138% of control	True
+766	Fasting, with or without PROTEIN administration, did not affect BAT PROTEIN1 mRNA; however, PROTEIN administration to ad libitum fed rats significantly increased BAT PROTEIN2 mRNA, to 138% of control	False
+767	Fasting significantly enhanced gastrocnemius muscle PROTEIN1 mRNA (411% of control) and protein expression (168% of control), whereas PROTEIN2 administration to fasted rats did not alter either of these effects	False
+768	In summary, PROTEIN1 subtype mRNA and protein are regulated in tissue- and subtype-specific fashion by PROTEIN2 and food restriction	True
+769	In normal pancreatic islets, PROTEIN1 is upregulated by PROTEIN and is low in PROTEIN2 resistant islets of ZDF rats	False
+770	In normal pancreatic islets, PROTEIN1 is upregulated by PROTEIN2 and is low in PROTEIN resistant islets of ZDF rats	True

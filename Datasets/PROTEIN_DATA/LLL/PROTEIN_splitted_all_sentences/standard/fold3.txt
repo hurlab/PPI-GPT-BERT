@@ -1,0 +1,13 @@
+Sentence ID	Sentence	isValid
+38	PROTEIN1 transcription also requires the DNA binding protein PROTEIN2 	True
+39	In contrast, PROTEIN1 is transcribed in the forespore compartment by RNA polymerase with the forespore-specific PROTEIN2 and appears to give a monocistronic transcript.	True
+40	Transcriptional studies showed that PROTEIN1 is strongly induced in response to heat, ethanol and salt stress or after starvation for glucose in a PROTEIN2 dependent manner.	True
+41	The results indicate that PROTEIN1 is sufficient to repress the transcription of the PROTEIN and PROTEIN2 promoters and also to activate the transcription of the PROTEIN promoter.	True
+42	The results indicate that PROTEIN is sufficient to repress the transcription of the PROTEIN and PROTEIN1 promoters and also to activate the transcription of the PROTEIN2 promoter.	False
+43	The results indicate that PROTEIN is sufficient to repress the transcription of the PROTEIN1 and PROTEIN2 promoters and also to activate the transcription of the PROTEIN promoter.	False
+44	The results indicate that PROTEIN1 is sufficient to repress the transcription of the PROTEIN and PROTEIN promoters and also to activate the transcription of the PROTEIN2 promoter.	True
+45	The results indicate that PROTEIN1 is sufficient to repress the transcription of the PROTEIN2 and PROTEIN promoters and also to activate the transcription of the PROTEIN promoter.	True
+46	The results indicate that PROTEIN is sufficient to repress the transcription of the PROTEIN1 and PROTEIN promoters and also to activate the transcription of the PROTEIN2 promoter.	False
+47	During endospore formation in Bacillus subtilis, the DNA binding protein PROTEIN1 stimulates transcription from several promoters that are used by RNA polymerase containing PROTEIN2 	True
+48	PROTEIN1 binds to a site on one of these promoters, PROTEIN2 that overlaps its -35 region.	True
+49	Finally, we show that proper localization of SpoIVA required the expression of one or more genes which, like PROTEIN1 are under the control of the mother cell transcription factor PROTEIN2 	True

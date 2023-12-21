@@ -1,0 +1,14 @@
+Consider each sentence separately and infer every pair of Protein-Protein Interaction from the provided sentences. 
+For this task, consider Proteins and Genes as interchangeable terms. 
+Provide each pair in a separate row whenever a sentence contains multiple Protein-Protein interaction pairs. 
+Please, format your results in CSV (comma-separated values) format with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence, representing the proteins or genes.
+'Interaction Type': The type of interaction identified between the protein entities (e.g., 'binds to', 'inhibits').
+If all sentences have been processed successfully, the last row should only contain the word 'Done'.
+Each input line contains a 'Sentence ID' and corresponding 'Sentence' that is needed to be analyzed for finding PPI. 
+
+Here are the normalized protein names for your reference : [['kinc' 'kind' 'sigmaa' 'spo0a' 'sige' 'sigk' 'gere' 'sigmaf' 'sigmag' 'spoiie' 'ftsz' 'sigmah' 'sigmak' 'esigmaf' 'sigmab' 'spoiiab' 'spoiiaa' 'sigl' 'rocr' 'sigma54' 'esigmae' 'yfhp' 'spoiiaa-p' 'comk' 'flgm' 'sigmax' 'sigmad' 'spoiiid' 'sigmaw' 'phop~p' 'arar' 'yvyd' 'clpx' 'spo0' 'rbsw' 'dnak' 'sigmae' 'ctsr' 'spo0a~p' 'spoiig' 'ydhd' 'ykud' 'ykvp' 'ywhe' 'spovg' 'rsfa' 'cwlh' 'katx' 'rocg' 'yfhs' 'yfhq' 'yfhr' 'sspe' 'bmrur' 'ydap' 'ydae' 'ydag' 'yfkm' 'cot' 'cotd' 'sspg' 'sspj' 'hag' 'comf' 'ykza' 'csbb' 'nade' 'ytxh' 'bkd' 'degr' 'cotc' 'cotx' 'cotb' 'sigw' 'taga' 'tagd' 'tuaa' 'arae' 'sigmal' 'spo0h' 'sigma28' 'sigma32' 'spoiva' 'pbp4*' 'racx' 'ytei' 'yuag' 'yknxyz' 'ydjp' 'yfhm' 'phrc' 'ald' 'kdgr' 'sigx' 'ypun' 'clpc' 'ftsy' 'gsib' 'sigb' 'ssph' 'sspl' 'sspn' 'tlp']]
+
+Here are the sentences that you need to process:

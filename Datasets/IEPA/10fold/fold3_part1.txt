@@ -1,0 +1,18 @@
+Sentence ID	Sentence
+IEPA.d8.s14	The objectives of this study were to evaluate and compare the actions of endothelin-1 (ET-1), oxytocin, prostaglandin F2 alpha (PGF2 alpha) and inositol 1,4,5-trisphosphate (IP3) on 45Ca2+ mobilization in permeabilized rat myometrial cells and to examine the activation of the inositol lipid cycle in intact myocytes
+IEPA.d8.s15	All four agonists caused a biphasic release of 45Ca2+ from non-mitochondrial pool(s), with the rank order of potency: oxytocin > PGF2 alpha > ET-1 > IP3
+IEPA.d8.s16	Endothelin-1 and oxytocin stimulated inositol phosphate accumulation at concentrations similar to those that promoted 45Ca2+ efflux, whereas about 100 times higher concentrations of PGF2 alpha were needed to activate this signaling pathway in intact cells
+IEPA.d8.s17	It is concluded that the primary action of PGF2 alpha in myometrial cells is to enhance Ca2+ influx, whereas oxytocin and ET-1 receptors are coupled to phospholipase C, generating IP3 and raising the intracellular concentration of free Ca2+ from intracellular as well as extracellular sources
+IEPA.d9.s18	Oxytocin induced a biphasic increase in the intracellular Ca2+ concentration of porcine myometrial cells: participation of a pertussis toxin-insensitive G-protein, inositol 1,4,5-trisphosphate-sensitive Ca2+ pool, and Ca2+ channels
+IEPA.d9.s19	Administration of OT (1 microM) for 15 sec increased inositol 1,4,5-trisphosphate (IP3) formation by 61%
+IEPA.d9.s20	Pretreatment with pertussis toxin (PTX, 1 microgram/ml) for 2 hr failed to alter the OT-induced increase in [Ca2+]i and IP3 formation
+IEPA.d9.s21	U-73122 (3 microM) also abolished the OT-induced IP3 formation
+IEPA.d24.s48	The aim of the present study was to investigate how oxytocin given subcutaneously (SC) and intracerebroventricularly (ICV) influences the secretion of insulin, glucagon and glucose and to investigate whether the effect on these variables of suckling in lactating rats is mediated by oxytocinergic mechanisms
+IEPA.d24.s49	Subcutaneous injections of oxytocin increased insulin, glucagon and glucose levels significantly
+IEPA.d24.s50	Two nanograms oxytocin given ICV had no effect on glucagon and glucose levels but caused a significant rise in insulin levels at this time point
+IEPA.d24.s51	The oxytocin antagonist 1-deamino-2-D-Tyr-(OEt)-4-Thr-8-Orn-oxytocin administered ICV increased insulin levels itself and therefore the effect on oxytocin-induced insulin secretion was difficult to evaluate
+IEPA.d24.s52	Intracerebroventricular injections of 200 ng oxytocin caused a significant rise not only of insulin but also of glucagon and glucose levels
+IEPA.d24.s53	In contrast, nanogram amounts of oxytocin administered ICV cause a rise of insulin levels
+IEPA.d27.s57	8-OH-DPAT also increased insulin and decreased CCK and somatostatin levels, effects that were blocked by pretreatment with the oxytocin antagonist
+IEPA.d27.s58	Taken together, these data suggest that the effect of 8-OH-DPAT on plasma levels of insulin, somatostatin and CCK may be mediated by oxytocin
+IEPA.d27.s59	In previous experiments, we have shown that following i.c.v. application of oxytocin, plasma levels of insulin are increased through a cholinergic mechanism

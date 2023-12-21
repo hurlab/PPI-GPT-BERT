@@ -1,0 +1,21 @@
+Sentence ID	Sentence
+15	Direct interaction between the cytoplasmic tail of PROTEIN and the Src homology 3 domain of PROTEIN1 activates PROTEIN2 in C2C12 cells
+36	These results suggest that tyrosyl-phosphorylated PROTEIN may be a substrate for PROTEIN1 regulates tyrosyl phosphorylation of PROTEIN2 
+57	 PROTEIN1 associates with the beta-domain of PROTEIN and complexes with PROTEIN and PROTEIN2 in vivo
+78	Thus, the ability of PROTEIN to degrade PROTEIN depends in part on its interaction with PROTEIN and suggests a new mechanism for PROTEIN1 stabilization in some PROTEIN2 deficient tumors
+99	 PROTEIN dimers formed through self-association of the TATA-binding polypeptide ( PROTEIN1 subunit and could be immunoprecipitated with antibodies to PROTEIN the core subunit of PROTEIN2 
+120	In addition, both PROTEIN1 and PROTEIN are required for the activation of the S-phase checkpoint to suppress DNA synthesis in response to MNNG, and phosphorylation of PROTEIN2 is required for cellular survival
+141	Overall, the results indicate that specific vascular cell-derived PROTEIN1 differentially interact with A beta, and that the interactions of highest affinity occur between A beta and binding sites on both the core protein and glycosaminoglycan chains of PROTEIN2 
+162	Characterization of EC and PROTEIN PROTEIN bound to A beta (1-28) revealed strong binding by PROTEIN1 weak binding by PROTEIN and PROTEIN two dermatan sulfate proteoglycans, and lack of binding by PROTEIN2 PROTEIN a large chondroitin sulfate proteoglycan
+183	In solution, FGFR4ed formed complexes with PROTEIN1 and PROTEIN2 both in the presence and absence of heparin
+204	In addition, PROTEIN1 was immunoprecipitated from human neutrophil lysates by anti-human PROTEIN2 mAb
+225	 PROTEIN ( PROTEIN1 , PROTEIN ( PROTEIN2 , and PROTEIN ( PROTEIN constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis
+246	Inhibition of PROTEIN cyclinB1 kinase activity by PROTEIN1 and PROTEIN2 was found to involve disruption of the complex, whereas PROTEIN did not disrupt the complex
+267	 PROTEIN1 PROTEIN memA interacts with PROTEIN2 PROTEIN and SRrp130 in corneal epithelial cells
+288	Subsequent amino acid sequencing revealed many peptides involving PROTEIN1 cross-linked either to itself or to a variety of other known CE protein components, including PROTEIN2 PROTEIN PROTEIN keratins, members of the small proline-rich superfamily, PROTEIN and unknown proteins related to the PROTEIN family
+309	 PROTEIN1 PROTEIN2 (' PROTEIN )-binding protein (CBP) interacting with transcription factors is able to increase their activity on target gene promoters
+330	We tested this point by cotransfecting CHO cells with the genes encoding F beta alpha and the PROTEIN1 subunit or the PROTEIN2 and PROTEIN monomer
+351	 PROTEIN1 and PROTEIN are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as PROTEIN PROTEIN2 PROTEIN Shc, and Crk
+372	The protein was named PROTEIN for its ability to interact with PROTEIN1 proteins and its activity toward Rac and PROTEIN2 
+393	Here, we characterize the interaction between PROTEIN1 and PROTEIN2 show that PROTEIN phosphorylates PROTEIN at conserved S274 and S326 residues in vitro, and present evidence that PROTEIN is also a substrate for PROTEIN in vivo
+414	Pituitary GH triggered the tyrosine phosphorylation of PROTEIN1 ( PROTEIN2 and PROTEIN in neutrophils

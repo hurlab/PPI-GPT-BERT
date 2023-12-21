@@ -1,0 +1,28 @@
+Sentence_ID	Sentence
+IEPA.d122.s290	Effects of intravenously infused leptin on insulin sensitivity and on the expression of uncoupling proteins in brown adipose tissue
+IEPA.d122.s291	Centrally administered leptin has been shown to increase insulin-stimulated glucose utilization and to favor the expression of uncoupling proteins (UCPs)
+IEPA.d122.s292	To study if leptin also has direct peripherally mediated effects on these processes, this hormone (1 mg/day) or its vehicle was infused i.v. for 4 days to lean rats and insulin-stimulated glucose utilization in skeletal muscle and adipose tissue as well as the expression of UCP messenger RNAs (mRNAs) in brown adipose tissue were measured
+IEPA.d122.s293	I.v. leptin infusion also favored the expression of UCPs in brown adipose tissue, either by increasing their expression or preventing the fall occurring during the pair-feeding regimen.
+IEPA.d122.s294	Relative UCP expression levels were 100, 104, and 33 for UCP1, 100, 191, and 125 for UCP2 and 100, 107, and 29 for UCP3 in ad libitum fed control rats, in leptin-treated rats and in pair-fed control rats, respectively
+IEPA.d122.s295	These results suggest that the overall effect of leptin on glucose utilization and on the expression of UCPs may be mediated through central mechanism
+IEPA.d148.s359	In vivo effects of CGP-12177 on the expression of leptin and uncoupling protein genes in mouse brown and white adipose tissues
+IEPA.d148.s360	OBJECTIVE: To assess the effect of chronic treatment with CGP-12177 a beta3-adrenergic receptor (AR) agonist with beta2/beta1-AR antagonist action, on the expression of the leptin gene and of genes coding for uncoupling proteins (ucp1, ucp2 and ucp3) in brown and white adipose tissues
+IEPA.d148.s361	CONCLUSION: The results reveal that simultaneous stimulation of the expression of certain ucp genes and the leptin gene can be achieved, and suggest that adrenergic regulation of the leptin gene and of genes of the ucp family in adipose tissues is the result of complex interactions between the different beta-AR pathways
+IEPA.d155.s372	However, neither progesterone nor insulin increased phosphotyrosine on PLCgamma
+IEPA.d158.s377	NPY-leptin: opposing effects on appetitive and consummatory ingestive behavior and sexual behavior
+IEPA.d158.s378	Many studies have indicated that neuropeptide Y (NPY) stimulates and leptin inhibits food intake
+IEPA.d158.s379	In line with this, intracerebroventricular injection of NPY (10 microg) stimulated and leptin (10 microg) inhibited intake of a sucrose solution when female rats were required to obtain the solution from a bottle
+IEPA.d158.s380	However, NPY inhibited and leptin stimulated intake if the solution was infused intraorally
+IEPA.d158.s381	Thus NPY stimulates the responses used to obtain food but inhibits those used to consume food, and leptin has the opposite effects
+IEPA.d188.s451	We also determined whether well known hypothalamic neuropeptide targets, e.g. neuropeptide Y (NPY), proopiomelanocortin (POMC), agouti-related peptide (AGRP) and cocaine and amphetamine-regulated transcript (CART) were regulated in a pattern consistent with their presumed roles as mediators of leptin action
+IEPA.d188.s452	In contrast, leptin decreased body weight and adiposity, increased CART and suppressed NPY and AGRP mRNA expression in adult mice
+IEPA.d50.s127	Insulin secretion is regulated by changes in blood glucose, as well as by peptides from the gastrointestinal tract and neurotransmitters that activate the pancreatic islet adenylyl cyclase (e.g., glucagon-like peptide-1) and phospholipase C (PLC) (e.g., acetylcholine) signaling pathways to further potentiate glucose-induced insulin secretion
+IEPA.d50.s128	However, leptin did constrain the enhanced PLC-mediated insulin secretion characteristic of islets from ob/ob mice, without influencing release from islets of lean mice
+IEPA.d50.s129	A specific enhancement in PLC-mediated insulin secretion is the earliest reported developmental alteration in insulin secretion from islets of ob/ob mice, and thus a logical target for leptin action
+IEPA.d50.s130	This action of leptin on PLC-mediated insulin secretion was dose-dependent, rapid-onset (i.e., within 3 min), and reversible
+IEPA.d50.s131	Leptin was equally effective in constraining the enhanced insulin release from islets of ob/ob mice caused by protein kinase C (PKC) activation, a downstream mediator of the PLC signal pathway
+IEPA.d50.s132	One function of leptin in control of body composition is thus to target a PKC-regulated component of the PLC-PKC signaling system within islets to prevent hypersecretion of insulin
+IEPA.d103.s242	The bovine ovarian granulosa cell model is a primary culture system where under stimulation by insulin or IGF-I and LH the endogenous oxytocin gene is massively upregulated
+IEPA.d123.s296	The activity of catalase was found to be significantly enhanced in the tissues of normal and cholesterol fed rats administered 1 mg flavonoid from brinjal/100 g BW/day
+IEPA.d142.s341	METHODS: We have therefore studied possible associations of the Gln27Glu and the Gly16Arg polymorphisms in the beta2AR with BMI, plasma leptin and UCP-1 mRNA expression in the intraperitoneal adipose tissue in a population of Caucasian women
+IEPA.d142.s342	Furthermore, no association was found between the Gln27Glu or the Gly16Arg polymorphisms and plasma leptin or adipose tissue UCP-1 gene expression in either group

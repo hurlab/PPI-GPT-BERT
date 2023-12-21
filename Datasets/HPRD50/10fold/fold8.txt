@@ -1,0 +1,15 @@
+Sentence ID	Sentence
+HPRD50.d18.s0	The transmembrane receptor protein tyrosine phosphatase DEP1 interacts with p120(ctn)
+HPRD50.d18.s1	The receptor-like protein tyrosine phosphatase DEP1, also known as CD148, is expressed predominantly in epithelial cells, in a variety of tumor cell lines, and in lymphocytes
+HPRD50.d18.s2	DEP1 also interacted with other members of the catenin gene family including beta-catenin and gamma-catenin
+HPRD50.d18.s3	The interaction with p120(ctn) is likely to be direct, as the interaction occurs in K562 cells lacking functional adherens junctions and E-cadherin expression
+HPRD50.d18.s4	Catalytic domains of the tyrosine phosphatases PTP-PEST, CD45, and PTPbeta did not interact with proteins of the catenin family to detectable levels, suggesting that the interaction of DEP1 with these proteins is specific
+HPRD50.d19.s0	p300/cAMP-response-element-binding-protein ('CREB')-binding protein (CBP) modulates co-operation between myocyte enhancer factor 2A (MEF2A) and thyroid hormone receptor-retinoid X receptor
+HPRD50.d19.s1	p300/cAMP-response-element-binding-protein ('CREB')-binding protein (CBP) interacting with transcription factors is able to increase their activity on target gene promoters
+HPRD50.d19.s2	Our findings showed that the same C-terminal portion of p300 binds the N-terminal domains of both TR and MEF2A, and our in vivo studies demonstrated that TR, MEF2A and p300 form a ternary complex
+HPRD50.d20.s0	The human Imp3 and Imp4 proteins form a ternary complex with hMpp10, which only interacts with the U3 snoRNA in 60-80S ribonucleoprotein complexes
+HPRD50.d20.s1	We have cloned cDNAs encoding the human and mouse homologs of the yeast U3 snoRNP-associated proteins Imp3 and Imp4
+HPRD50.d20.s2	The results of complementation experiments show that, in contrast to mouse Imp4, mouse Imp3 can partially alleviate the growth defect of the corresponding yeast null strain, indicating that the role of Imp3 in pre-rRNA processing is evolutionarily conserved
+HPRD50.d20.s3	The results of density gradient centrifugation experiments show that, in contrast to hU3-55K, the human Imp3 and Imp4 proteins predominantly interact with the U3 snoRNA in 60-80S ribonucleoprotein complexes
+HPRD50.d40.s0	Transient expression of the full-length E2-2 without RSRS in U1240MG glioblastoma cells resulted in repression of FGF-1.B promoter activity
+HPRD50.d40.s1	These results suggest that the relative abundance of the two splice variants of E2-2 in brain could be an important determinant for the expression of FGF-1

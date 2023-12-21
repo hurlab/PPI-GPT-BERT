@@ -1,0 +1,39 @@
+Sentence ID	Sentence
+292	The transmembrane PROTEIN1 PROTEIN2 interacts with PROTEIN 
+293	The transmembrane PROTEIN PROTEIN1 interacts with PROTEIN2 
+294	The transmembrane PROTEIN1 PROTEIN interacts with PROTEIN2 
+295	The PROTEIN1 PROTEIN also known as PROTEIN2 is expressed predominantly in epithelial cells, in a variety of tumor cell lines, and in lymphocytes
+296	The PROTEIN1 PROTEIN2 also known as PROTEIN is expressed predominantly in epithelial cells, in a variety of tumor cell lines, and in lymphocytes
+297	The PROTEIN PROTEIN1 also known as PROTEIN2 is expressed predominantly in epithelial cells, in a variety of tumor cell lines, and in lymphocytes
+298	 PROTEIN1 also interacted with other members of the catenin gene family including PROTEIN2 and gamma-catenin
+299	The interaction with PROTEIN1 is likely to be direct, as the interaction occurs in K562 cells lacking functional adherens junctions and PROTEIN2 expression
+300	Catalytic domains of the tyrosine phosphatases PROTEIN1 PROTEIN and PTPbeta did not interact with proteins of the catenin family to detectable levels, suggesting that the interaction of PROTEIN2 with these proteins is specific
+301	Catalytic domains of the tyrosine phosphatases PROTEIN1 PROTEIN2 and PTPbeta did not interact with proteins of the catenin family to detectable levels, suggesting that the interaction of PROTEIN with these proteins is specific
+302	Catalytic domains of the tyrosine phosphatases PROTEIN PROTEIN1 and PTPbeta did not interact with proteins of the catenin family to detectable levels, suggesting that the interaction of PROTEIN2 with these proteins is specific
+303	 PROTEIN1 PROTEIN2 (' PROTEIN )-binding protein (CBP) modulates co-operation between myocyte enhancer factor 2A ( PROTEIN and thyroid hormone receptor-retinoid X receptor
+304	 PROTEIN1 PROTEIN (' PROTEIN )-binding protein (CBP) modulates co-operation between myocyte enhancer factor 2A ( PROTEIN2 and thyroid hormone receptor-retinoid X receptor
+305	 PROTEIN1 PROTEIN (' PROTEIN2 )-binding protein (CBP) modulates co-operation between myocyte enhancer factor 2A ( PROTEIN and thyroid hormone receptor-retinoid X receptor
+306	 PROTEIN PROTEIN1 (' PROTEIN )-binding protein (CBP) modulates co-operation between myocyte enhancer factor 2A ( PROTEIN2 and thyroid hormone receptor-retinoid X receptor
+307	 PROTEIN PROTEIN1 (' PROTEIN2 )-binding protein (CBP) modulates co-operation between myocyte enhancer factor 2A ( PROTEIN and thyroid hormone receptor-retinoid X receptor
+308	 PROTEIN PROTEIN (' PROTEIN1 )-binding protein (CBP) modulates co-operation between myocyte enhancer factor 2A ( PROTEIN2 and thyroid hormone receptor-retinoid X receptor
+309	 PROTEIN1 PROTEIN2 (' PROTEIN )-binding protein (CBP) interacting with transcription factors is able to increase their activity on target gene promoters
+310	 PROTEIN1 PROTEIN (' PROTEIN2 )-binding protein (CBP) interacting with transcription factors is able to increase their activity on target gene promoters
+311	 PROTEIN PROTEIN1 (' PROTEIN2 )-binding protein (CBP) interacting with transcription factors is able to increase their activity on target gene promoters
+312	Our findings showed that the same C-terminal portion of PROTEIN1 binds the N-terminal domains of both TR and PROTEIN2 and our in vivo studies demonstrated that TR, PROTEIN and PROTEIN form a ternary complex
+313	Our findings showed that the same C-terminal portion of PROTEIN1 binds the N-terminal domains of both TR and PROTEIN and our in vivo studies demonstrated that TR, PROTEIN2 and PROTEIN form a ternary complex
+314	Our findings showed that the same C-terminal portion of PROTEIN1 binds the N-terminal domains of both TR and PROTEIN and our in vivo studies demonstrated that TR, PROTEIN and PROTEIN2 form a ternary complex
+315	Our findings showed that the same C-terminal portion of PROTEIN binds the N-terminal domains of both TR and PROTEIN1 and our in vivo studies demonstrated that TR, PROTEIN2 and PROTEIN form a ternary complex
+316	Our findings showed that the same C-terminal portion of PROTEIN binds the N-terminal domains of both TR and PROTEIN1 and our in vivo studies demonstrated that TR, PROTEIN and PROTEIN2 form a ternary complex
+317	Our findings showed that the same C-terminal portion of PROTEIN binds the N-terminal domains of both TR and PROTEIN and our in vivo studies demonstrated that TR, PROTEIN1 and PROTEIN2 form a ternary complex
+318	The human PROTEIN1 and PROTEIN proteins form a ternary complex with hMpp10, which only interacts with the U3 PROTEIN2 in 60-80S ribonucleoprotein complexes
+319	The human PROTEIN and PROTEIN1 proteins form a ternary complex with hMpp10, which only interacts with the U3 PROTEIN2 in 60-80S ribonucleoprotein complexes
+320	The human PROTEIN1 and PROTEIN2 proteins form a ternary complex with hMpp10, which only interacts with the U3 PROTEIN in 60-80S ribonucleoprotein complexes
+321	We have cloned cDNAs encoding the human and mouse homologs of the yeast U3 snoRNP-associated proteins PROTEIN1 and PROTEIN2 
+322	The results of complementation experiments show that, in contrast to mouse PROTEIN1 mouse PROTEIN can partially alleviate the growth defect of the corresponding yeast null strain, indicating that the role of PROTEIN2 in pre-rRNA processing is evolutionarily conserved
+323	The results of complementation experiments show that, in contrast to mouse PROTEIN1 mouse PROTEIN2 can partially alleviate the growth defect of the corresponding yeast null strain, indicating that the role of PROTEIN in pre-rRNA processing is evolutionarily conserved
+324	The results of complementation experiments show that, in contrast to mouse PROTEIN mouse PROTEIN1 can partially alleviate the growth defect of the corresponding yeast null strain, indicating that the role of PROTEIN2 in pre-rRNA processing is evolutionarily conserved
+325	The results of density gradient centrifugation experiments show that, in contrast to hU3-55K, the human PROTEIN1 and PROTEIN2 proteins predominantly interact with the U3 PROTEIN in 60-80S ribonucleoprotein complexes
+326	The results of density gradient centrifugation experiments show that, in contrast to hU3-55K, the human PROTEIN1 and PROTEIN proteins predominantly interact with the U3 PROTEIN2 in 60-80S ribonucleoprotein complexes
+327	The results of density gradient centrifugation experiments show that, in contrast to hU3-55K, the human PROTEIN and PROTEIN1 proteins predominantly interact with the U3 PROTEIN2 in 60-80S ribonucleoprotein complexes
+328	Transient expression of the full-length PROTEIN1 without RSRS in U1240MG glioblastoma cells resulted in repression of PROTEIN2 promoter activity
+329	These results suggest that the relative abundance of the two splice variants of PROTEIN1 in brain could be an important determinant for the expression of PROTEIN2 

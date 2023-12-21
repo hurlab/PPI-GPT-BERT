@@ -1,0 +1,11 @@
+Sentence ID	Sentence
+2	Therefore, the physiological role of PROTEIN1 dependent PROTEIN2 expression remains obscure.
+38	PROTEIN1 transcription also requires the DNA binding protein PROTEIN2 
+74	The PROTEIN1 regulon includes a penicillin binding protein ( PROTEIN2 and a co-transcribed amino acid racemase ( PROTEIN , homologues of signal peptide peptidase ( PROTEIN , flotillin ( PROTEIN , ABC transporters ( PROTEIN , non-haem bromoperoxidase ( PROTEIN , epoxide hydrolase ( PROTEIN and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+110	The first stage, which involves the phosphatase function of PROTEIN depends on the cell division protein PROTEIN1 and could correspond to the PROTEIN2 dependent assembly of PROTEIN into E-rings.
+146	The PROTEIN1 dependent promoter drives expression of PROTEIN under stress conditions and after glucose starvation, whereas a PROTEIN dependent promoter is responsible for PROTEIN2 transcription following amino acid limitation.
+182	Three new PROTEIN dependent genes ( PROTEIN1 PROTEIN and PROTEIN2 encoding proteins with still unknown functions were also described.
+218	Transcription of the PROTEIN1 PROTEIN and PROTEIN genes by final PROTEIN2 RNA polymerase is activated by a small, DNA-binding protein called PROTEIN 
+254	Taken together, the results support the idea that sequestration of PROTEIN1 protein into the prespore plays an important role in the control of PROTEIN2 activation and in coupling this activation to septation.
+290	The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; PROTEIN1 present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor PROTEIN PROTEIN which inhibits the sporulation-specific sigma factor, PROTEIN and PROTEIN of Bacillus subtilis; PROTEIN of B. subtilis, which inhibits stress response sigma factor PROTEIN and PROTEIN2 a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor PROTEIN 
+326	Our data demonstrate that the PROTEIN1 protein acts as a global repressor of the PROTEIN operon, as well as other class III heat shock genes, by preventing unstressed transcription from either the PROTEIN or PROTEIN2 dependent promoter and might be inactivated or dissociate under inducing stress conditions.

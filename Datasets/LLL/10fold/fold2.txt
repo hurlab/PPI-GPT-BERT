@@ -1,0 +1,7 @@
+Sentence ID	Sentence
+LLL.d12.s0	Northern blot and primer extension analyses indicated that yfhS is transcribed by E sigma E during sporulation.
+LLL.d12.s1	These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ, yfhR, sspE and yfhP.
+LLL.d22.s0	sigma X also contributes to the expression of CsbB, a putative membrane-bound glucosyl transferase that is partially controlled by the sigma B stress response sigma factor.
+LLL.d25.s0	The expression of the bkd operon was induced by the presence of isoleucine or valine in the growth medium and depended upon the presence of the sigma factor SigL, a member of the sigma 54 family.
+LLL.d32.s0	Transcriptional studies demonstrated that the expression from the araE promoter is induced by L-arabinose, repressed by glucose, and negatively regulated by AraR.
+LLL.d40.s0	Although spo0H is transcriptionally regulated by the key regulatory device that controls sporulation initiation, the Spo0 phosphorelay, there is considerable evidence implicating a mechanism of post-translational control that governs the activity and concentration of sigmaH.

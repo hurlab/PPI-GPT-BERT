@@ -1,0 +1,8 @@
+Sentence ID	Sentence
+LLL.d19.s0	sspG transcription also requires the DNA binding protein GerE.
+LLL.d19.s1	In contrast, sspJ is transcribed in the forespore compartment by RNA polymerase with the forespore-specific sigmaG and appears to give a monocistronic transcript.
+LLL.d23.s0	Transcriptional studies showed that nadE is strongly induced in response to heat, ethanol and salt stress or after starvation for glucose in a sigma B-dependent manner.
+LLL.d31.s0	The results indicate that PhoP~P is sufficient to repress the transcription of the tagA and tagD promoters and also to activate the transcription of the tuaA promoter.
+LLL.d33.s0	During endospore formation in Bacillus subtilis, the DNA binding protein GerE stimulates transcription from several promoters that are used by RNA polymerase containing sigmaK
+LLL.d33.s1	GerE binds to a site on one of these promoters, cotX, that overlaps its -35 region.
+LLL.d42.s0	Finally, we show that proper localization of SpoIVA required the expression of one or more genes which, like spoIVA, are under the control of the mother cell transcription factor sigmaE.

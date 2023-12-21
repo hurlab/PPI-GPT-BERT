@@ -1,0 +1,16 @@
+Sentence ID	Sentence
+HPRD50.d5.s0	Cytohesin-1 regulates beta-2 integrin-mediated adhesion through both ARF-GEF function and interaction with LFA-1
+HPRD50.d5.s1	Here we provide evidence of how cytohesin-1, an integrin-binding protein and guanine-nucleotide exchange factor (GEF) for ARF GTPases, regulates cell adhesion
+HPRD50.d5.s2	Mutational analyses of the beta-2 cytoplasmic domain revealed that the adhesive function of LFA-1 depends on its interaction with cytohesin-1, unless the integrin is activated by exogenous divalent cations
+HPRD50.d5.s3	Secondly, cytohesin-1 induces expression of an extracellular activation epitope of LFA-1, and the exchange factor function is not essential for this activity
+HPRD50.d5.s4	In contrast, LFA-1-mediated cell adhesion and spreading on intercellular cell adhesion molecule 1 is strongly inhibited by a cytohesin-1 mutant, which fails to catalyze ARF GDP-GTP exchange in vitro
+HPRD50.d5.s5	Thus, cytohesin-1 is involved in the activation of LFA-1, most probably through direct interaction with the integrin, and induces cell spreading by its ARF-GEF activity
+HPRD50.d8.s0	By constructing deletion mutants, we identified that amino acid residues 229-309 of Akt were involved in the binding to Hsp90 and amino acid residues 327-340 of Hsp90beta were involved in the binding to Akt
+HPRD50.d14.s0	Megalin and cubilin: multifunctional endocytic receptors
+HPRD50.d14.s1	Megalin and cubilin are two structurally different endocytic receptors that interact to serve such functions
+HPRD50.d35.s0	Assignment of Etfdh, Etfb, and Etfa to chromosomes 3, 7, and 13: the mouse homologs of genes responsible for glutaric acidemia type II in human
+HPRD50.d35.s1	We used cDNA probes for the Etfdh, Etfb, and Etfa genes to determine localization of these mouse genes to chromosomes 3, 7, and 13
+HPRD50.d28.s0	We report that MSH2 (MutS homolog 2) protein interacts with the ATR (ATM- and Rad3-related) kinase to form a signaling module and regulate the phosphorylation of Chk1 and SMC1 (structure maintenance of chromosome 1)
+HPRD50.d28.s1	We found that phosphorylation of Chk1 by ATR also requires checkpoint proteins Rad17 and replication protein A
+HPRD50.d28.s2	In contrast, phosphorylation of SMC1 by ATR is independent of Rad17 and replication protein A, suggesting that the signaling pathway leading to SMC1 phosphorylation is distinct from that mediated by the checkpoint proteins
+HPRD50.d28.s3	In addition, both MSH2 and Rad17 are required for the activation of the S-phase checkpoint to suppress DNA synthesis in response to MNNG, and phosphorylation of SMC1 is required for cellular survival

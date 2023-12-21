@@ -1,0 +1,288 @@
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes.
+'Interaction Type': The type of interaction identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes.
+'Interaction Type': The type of interaction identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes.
+'Interaction Type': The type of interaction identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes.
+'Interaction Type': The type of interaction identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The type of interaction identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The type of interaction identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The type of interaction identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The type of interaction identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The type of interaction identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The type of interaction identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The type of interaction identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The type of interaction identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes.
+'Interaction Type': The interaction type identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes.
+'Interaction Type': The interaction type identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes.
+'Interaction Type': The interaction type identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes.
+'Interaction Type': The interaction type identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The interaction type identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The interaction type identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The interaction type identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The interaction type identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The interaction type identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The interaction type identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The interaction type identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The interaction type identified between the protein entities (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes.
+'Interaction Type': The type of interaction identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes.
+'Interaction Type': The type of interaction identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes.
+'Interaction Type': The type of interaction identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes.
+'Interaction Type': The type of interaction identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The type of interaction identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The type of interaction identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The type of interaction identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The type of interaction identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The type of interaction identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The type of interaction identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The type of interaction identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The type of interaction identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes.
+'Interaction Type': The interaction type identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes.
+'Interaction Type': The interaction type identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes.
+'Interaction Type': The interaction type identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes.
+'Interaction Type': The interaction type identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The interaction type identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The interaction type identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The interaction type identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The interaction type identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The interaction type identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The interaction type identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The interaction type identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The interaction type identified between the protein pairs (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes.
+'Interaction Type': The type of interaction identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes.
+'Interaction Type': The type of interaction identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes.
+'Interaction Type': The type of interaction identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes.
+'Interaction Type': The type of interaction identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The type of interaction identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The type of interaction identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The type of interaction identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The type of interaction identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The type of interaction identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The type of interaction identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The type of interaction identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The type of interaction identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes.
+'Interaction Type': The interaction type identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes.
+'Interaction Type': The interaction type identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes.
+'Interaction Type': The interaction type identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes.
+'Interaction Type': The interaction type identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The interaction type identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The interaction type identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The interaction type identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The interaction type identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The interaction type identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The interaction type identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The interaction type identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').
+Output Column Specifications:
+'Sentence ID': The unique ID for each sentence.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes that form PPI.
+'Interaction Type': The interaction type identified between Protein1 and Protein2 (e.g., 'binds to', 'inhibit').

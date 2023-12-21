@@ -1,0 +1,47 @@
+Sentence ID	Sentence
+1	Suppression of rat thromboxane synthase gene transcription by PROTEIN1 in macrophages via an interaction with PROTEIN2 
+2	Deletion analysis showed that the element responsible for the PPARgamma effect is located in a region containing the nuclear factor E2 ( PROTEIN1 / PROTEIN2 site (-98/-88), which was indicated to be the major promoter of the TXS gene
+3	By electrophoretic mobility shift assay using the PROTEIN PROTEIN1 site and nuclear extracts from macrophages, we observed a specific protein-DNA complex formation, which was inhibited by a specific antibody against the transcription factor PROTEIN2 ( PROTEIN 
+4	By electrophoretic mobility shift assay using the PROTEIN PROTEIN site and nuclear extracts from macrophages, we observed a specific protein-DNA complex formation, which was inhibited by a specific antibody against the transcription factor PROTEIN1 ( PROTEIN2 
+5	By electrophoretic mobility shift assay using the PROTEIN1 PROTEIN site and nuclear extracts from macrophages, we observed a specific protein-DNA complex formation, which was inhibited by a specific antibody against the transcription factor PROTEIN2 ( PROTEIN 
+6	By electrophoretic mobility shift assay using the PROTEIN PROTEIN1 site and nuclear extracts from macrophages, we observed a specific protein-DNA complex formation, which was inhibited by a specific antibody against the transcription factor PROTEIN ( PROTEIN2 
+7	By electrophoretic mobility shift assay using the PROTEIN1 PROTEIN2 site and nuclear extracts from macrophages, we observed a specific protein-DNA complex formation, which was inhibited by a specific antibody against the transcription factor PROTEIN ( PROTEIN 
+8	By electrophoretic mobility shift assay using the PROTEIN1 PROTEIN site and nuclear extracts from macrophages, we observed a specific protein-DNA complex formation, which was inhibited by a specific antibody against the transcription factor PROTEIN ( PROTEIN2 
+9	Finally, a direct interaction between PPARgamma and PROTEIN1 was confirmed by PROTEIN2 pull-down assay
+10	Here, we cloned and characterized a mouse orthologue of human PROTEIN1 protein as an atypical PROTEIN2 (named PROTEIN 
+11	Here, we cloned and characterized a mouse orthologue of human PROTEIN protein as an atypical PROTEIN1 (named PROTEIN2 
+12	Here, we cloned and characterized a mouse orthologue of human PROTEIN1 protein as an atypical PROTEIN (named PROTEIN2 
+13	Subcellular fractionation and antibody-uptake experiments indicate that PROTEIN1 is indeed a type-I membrane protein, but, unlike other PROTEIN2 isoforms, lacks an N-terminal extracellular domain
+14	Direct interaction between the cytoplasmic tail of PROTEIN1 and the Src homology 3 domain of PROTEIN activates PROTEIN2 in C2C12 cells
+15	Direct interaction between the cytoplasmic tail of PROTEIN and the Src homology 3 domain of PROTEIN1 activates PROTEIN2 in C2C12 cells
+16	Direct interaction between the cytoplasmic tail of PROTEIN1 and the Src homology 3 domain of PROTEIN2 activates PROTEIN in C2C12 cells
+17	This suggests that transmembrane PROTEIN1 by providing docking sites for the Src homology 3 domain of PROTEIN2 activates PI 3-kinase by mediating its recruitment to the membrane
+18	Modification of de novo DNA methyltransferase 3a ( PROTEIN1 by PROTEIN2 modulates its interaction with histone deacetylases (HDACs) and its capacity to repress transcription
+19	Here we show that PROTEIN1 interacts with multiple components of the sumoylation machinery, namely the E2 sumo conjugating enzyme PROTEIN2 and the E3 sumo ligases PROTEIN and PROTEIN all of which are involved in conjugating the small ubiquitin-like modifier polypeptide, PROTEIN to its target proteins
+20	Here we show that PROTEIN interacts with multiple components of the sumoylation machinery, namely the E2 sumo conjugating enzyme PROTEIN1 and the E3 sumo ligases PROTEIN2 and PROTEIN all of which are involved in conjugating the small ubiquitin-like modifier polypeptide, PROTEIN to its target proteins
+21	Here we show that PROTEIN interacts with multiple components of the sumoylation machinery, namely the E2 sumo conjugating enzyme PROTEIN1 and the E3 sumo ligases PROTEIN and PROTEIN2 all of which are involved in conjugating the small ubiquitin-like modifier polypeptide, PROTEIN to its target proteins
+22	Here we show that PROTEIN interacts with multiple components of the sumoylation machinery, namely the E2 sumo conjugating enzyme PROTEIN1 and the E3 sumo ligases PROTEIN and PROTEIN all of which are involved in conjugating the small ubiquitin-like modifier polypeptide, PROTEIN2 to its target proteins
+23	Here we show that PROTEIN1 interacts with multiple components of the sumoylation machinery, namely the E2 sumo conjugating enzyme PROTEIN and the E3 sumo ligases PROTEIN2 and PROTEIN all of which are involved in conjugating the small ubiquitin-like modifier polypeptide, PROTEIN to its target proteins
+24	Here we show that PROTEIN1 interacts with multiple components of the sumoylation machinery, namely the E2 sumo conjugating enzyme PROTEIN and the E3 sumo ligases PROTEIN and PROTEIN2 all of which are involved in conjugating the small ubiquitin-like modifier polypeptide, PROTEIN to its target proteins
+25	Here we show that PROTEIN1 interacts with multiple components of the sumoylation machinery, namely the E2 sumo conjugating enzyme PROTEIN and the E3 sumo ligases PROTEIN and PROTEIN all of which are involved in conjugating the small ubiquitin-like modifier polypeptide, PROTEIN2 to its target proteins
+26	Here we show that PROTEIN interacts with multiple components of the sumoylation machinery, namely the E2 sumo conjugating enzyme PROTEIN and the E3 sumo ligases PROTEIN1 and PROTEIN2 all of which are involved in conjugating the small ubiquitin-like modifier polypeptide, PROTEIN to its target proteins
+27	Here we show that PROTEIN interacts with multiple components of the sumoylation machinery, namely the E2 sumo conjugating enzyme PROTEIN and the E3 sumo ligases PROTEIN1 and PROTEIN all of which are involved in conjugating the small ubiquitin-like modifier polypeptide, PROTEIN2 to its target proteins
+28	Here we show that PROTEIN interacts with multiple components of the sumoylation machinery, namely the E2 sumo conjugating enzyme PROTEIN and the E3 sumo ligases PROTEIN and PROTEIN1 all of which are involved in conjugating the small ubiquitin-like modifier polypeptide, PROTEIN2 to its target proteins
+29	 PROTEIN1 is modified by PROTEIN in vivo and in vitro and the region of PROTEIN2 responsible for interaction maps to the N-terminal regulatory domain
+30	 PROTEIN1 is modified by PROTEIN2 in vivo and in vitro and the region of PROTEIN responsible for interaction maps to the N-terminal regulatory domain
+31	 PROTEIN is modified by PROTEIN1 in vivo and in vitro and the region of PROTEIN2 responsible for interaction maps to the N-terminal regulatory domain
+32	Functionally, sumoylation of PROTEIN1 disrupts its ability to interact with histone deacetylases ( PROTEIN2 2), but not with another interaction partner, PROTEIN 
+33	Functionally, sumoylation of PROTEIN disrupts its ability to interact with histone deacetylases ( PROTEIN1 2), but not with another interaction partner, PROTEIN2 
+34	Functionally, sumoylation of PROTEIN1 disrupts its ability to interact with histone deacetylases ( PROTEIN 2), but not with another interaction partner, PROTEIN2 
+35	 PROTEIN1 associates with PROTEIN2 Syk, and phospholipase C-gamma(1) upon B cell activation
+36	These results suggest that tyrosyl-phosphorylated PROTEIN may be a substrate for PROTEIN1 regulates tyrosyl phosphorylation of PROTEIN2 
+37	These results suggest that tyrosyl-phosphorylated PROTEIN1 may be a substrate for PROTEIN regulates tyrosyl phosphorylation of PROTEIN2 
+38	These results suggest that tyrosyl-phosphorylated PROTEIN1 may be a substrate for PROTEIN2 regulates tyrosyl phosphorylation of PROTEIN 
+39	The association of PROTEIN1 with PROTEIN was mediated by the NH2-terminal Src homology 2 (SH2) domain of PROTEIN2 
+40	The association of PROTEIN1 with PROTEIN2 was mediated by the NH2-terminal Src homology 2 (SH2) domain of PROTEIN 
+41	The association of PROTEIN with PROTEIN1 was mediated by the NH2-terminal Src homology 2 (SH2) domain of PROTEIN2 
+42	Complexes of either PROTEIN1 PROTEIN2 Syk/PLC-gamma(1) could be isolated from B cells stimulated by BCR engagement or a mixture of hydrogen peroxidase and sodium orthovanadate, respectively
+43	Transient expression of PROTEIN1 and a null mutant of PROTEIN (PTP-1CM) in COS cells resulted in an increase in tyrosyl phosphorylation of PROTEIN2 and its interaction with PTP-1CM
+44	Transient expression of PROTEIN and a null mutant of PROTEIN1 (PTP-1CM) in COS cells resulted in an increase in tyrosyl phosphorylation of PROTEIN2 and its interaction with PTP-1CM
+45	Transient expression of PROTEIN1 and a null mutant of PROTEIN2 (PTP-1CM) in COS cells resulted in an increase in tyrosyl phosphorylation of PROTEIN and its interaction with PTP-1CM
+46	By contrast, PROTEIN1 was not tyrosyl phosphorylated or associated with PTP-1CM in the presence of wild-type PROTEIN2 

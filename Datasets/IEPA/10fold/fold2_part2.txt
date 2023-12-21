@@ -1,0 +1,17 @@
+Sentence ID	Sentence
+IEPA.d74.s178	While leptin maintains or favors energy-dissipating mechanisms (UCP1, UCP2, and UCP3), the latter are markedly depressed in pair-fed rats
+IEPA.d76.s182	Melatonin inhibits oxytocin response to insulin-induced hypoglycemia, but not to angiotensin II in normal men
+IEPA.d76.s183	In order to establish whether melatonin alters basal and/or stimulated oxytocin secretion, 18 normal men were treated (p.o.) with 6 or 12 mg melatonin or placebo in basal conditions (N-6 subjects) or concomitantly to the administration of insulin (O.15 IU/kg body weight in an i.v. bolus) (N-6 subjects) or angiotensin II (increasing doses of 4, 8 and 16 ng/kg/min, at intervals of 20 min)
+IEPA.d76.s184	In contrast, the oxytocin response to insulin-induced hypoglycemia was significantly reduced by melatonin treatment
+IEPA.d84.s199	Effect of residual endogenous insulin secretion on the abnormal oxytocin response to hypoglycaemia in insulin-dependent diabetics
+IEPA.d84.s200	Since previous studies showed that AVP secretion is influenced by the persistence of residual endogenous insulin secretion, we wondered whether this factor also regulates OT secretion
+IEPA.d84.s201	DESIGN: Case-control study: the OT response to insulin-induced hypoglycaemia was measured in normal and diabetic patients with or without residual endogenous insulin secretion
+IEPA.d84.s202	Blood samples for OT assay were taken just before the rapid injection of insulin (time 0) and at time 15, 30, 45 and 60 min
+IEPA.d84.s203	CONCLUSIONS: These data indicate that a residual endogenous insulin secretion exerts a partial protective action against the hypothalamic-pituitary disorder affecting the OT secretory system in IDDM
+IEPA.d87.s206	These findings led us to conclude that inositol trisphosphate [corrected] causes Ca2+ mobilization by muscarinic activation of PLC, leading to intracellular translocation of insulin granules to the ready-releasable pool in pancreatic beta-cells via Ca2+/calmodulin-dependent phosphorylation of myosin light chains
+IEPA.d90.s213	DNase1 footprints suggest the involvement of at least three types of transcription factors in the regulation of alpha-Amy2/A by gibberellin
+IEPA.d90.s214	The regulation of alpha-Amy2 genes by GA therefore involves an interplay of at least three different types of transcription factor
+IEPA.d112.s270	Analyses of hormone regulation of expression of mRNA for the aleurone RNase revealed that, like the pattern for alpha-amylase, mRNA levels increased in the presence of gibberellic acid, and its antagonist abscisic acid prevented this effect
+IEPA.d112.s271	Quantitative studies at early times demonstrated that cycloheximide treatment of aleurone layers increased mRNA levels 4-fold, whereas a combination of gibberellin plus cycloheximide treatment was required to increase alpha-amylase mRNA levels to the same extent
+IEPA.d156.s373	Leptin is a satiety factor which acts within the hypothalamus to decrease the levels of several neuropeptides stimulating food intake (among them, neuropeptide Y [NPY]), while increasing those that inhibit food intake
+IEPA.d175.s424	Although the above data are consistent with a direct ability of leptin to promote TRH biosynthesis through actions on TRH neurons, addition of a-MSH produced a 3.5 fold increase in TRH biosynthesis and release, whereas NPY treatment suppressed ~3 fold proTRH biosynthesis

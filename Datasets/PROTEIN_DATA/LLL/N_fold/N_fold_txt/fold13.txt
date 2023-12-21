@@ -1,0 +1,10 @@
+Sentence ID	Sentence
+13	We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both PROTEIN1 and PROTEIN holoenzymes recognize promoter elements within the PROTEIN PROTEIN2 control region.
+49	Finally, we show that proper localization of SpoIVA required the expression of one or more genes which, like PROTEIN1 are under the control of the mother cell transcription factor PROTEIN2 
+85	The PROTEIN1 and PROTEIN genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, PROTEIN2 the PROTEIN PROTEIN operon is recognized equally well by PROTEIN and the other forespore-specific sigma factor, PROTEIN 
+121	Most PROTEIN1 genes, and the PROTEIN2 gene, are transcribed by PROTEIN RNA polymerase.
+157	Therefore, PROTEIN1 is solely expressed during sporulation from a PROTEIN2 and PROTEIN controlled promoter that is located immediately upstream of ftsY inside the smc gene.
+193	The PROTEIN promoter, like the PROTEIN1 promoter, is believed to be recognized by PROTEIN2 RNA polymerase, suggesting that PROTEIN may inhibit PROTEIN activity late in sporulation.
+229	A low concentration of PROTEIN activated PROTEIN transcription by final PROTEIN RNA polymerase, whereas a higher concentration was needed to activate transcription of PROTEIN1 or PROTEIN2 
+265	The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; PROTEIN present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor PROTEIN PROTEIN1 which inhibits the sporulation-specific sigma factor, PROTEIN and PROTEIN of Bacillus subtilis; PROTEIN of B. subtilis, which inhibits stress response sigma factor PROTEIN2 and PROTEIN a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor PROTEIN 
+301	However, the mutant was unable to stimulate transcription by final PROTEIN1 RNA polymerase from the PROTEIN2 dependent PROTEIN operon promoter.

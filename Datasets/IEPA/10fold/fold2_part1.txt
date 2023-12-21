@@ -1,0 +1,15 @@
+Sentence ID	Sentence
+IEPA.d10.s22	Amyloid beta protein disruption of cholinergic and growth factor phospholipase C signals could underlie cognitive and neurodegerative aspects of Alzheimer's disease
+IEPA.d15.s32	The beta amyloid protein fragments had diverse effects on phosphoinositide-specific phospholipase C (PI-PLC) as assayed in rat cortical membranes
+IEPA.d22.s46	Once the abnormally phosphorylated abnormal prion protein isoform agent is initiated, any stress event ensuing in adult life induces a nerve growth factor-mediated synthesis of normal cellular prion protein isoform that aggregates to abnormally phosphorylated abnormal prion protein isoform, thereby becoming 'infected'/transformed into the same; due to the vicious circle of positive feedback invoked by the blocking of a prion protein-specific kinase
+IEPA.d25.s54	The responses of serum oxytocin (OT) and vasopressin (AVP) to the serotonergic HT1A agonist buspirone (15 mg p.o.) or the HTD1 agonist sumatriptan (6 mg injected subcutaneously) were evaluated in 7 normal men either in basal conditions or during an insulin (0.15 iu/kg as an i.v. bolus) tolerance test (ITT)
+IEPA.d25.s55	Stimulation of 5HT-1D receptors with sumatriptan was unable to change neither AVP nor OT response to insulin-induced hypoglycemia
+IEPA.d43.s108	Induction by leptin of uncoupling protein-2 and enzymes of fatty acid oxidation
+IEPA.d43.s109	Here we show that leptin alters in pancreatic islets the mRNA of the genes encoding enzymes of free fatty acid metabolism and uncoupling protein-2 (UCP-2)
+IEPA.d43.s110	Leptin overexpression increased UCP-2 mRNA by more than 10-fold in epididymal, retroperitoneal, and subcutaneous fat tissue of normal, but not of leptin-receptor-defective obese rats
+IEPA.d43.s111	By directly regulating the expression of enzymes of free fatty acid metabolism and of UCP-2, leptin controls intracellular triglyceride content of certain nonadipocytes, as well as adipocytes
+IEPA.d60.s155	The activity of the MAPKs, induced by AVP or PMA was inhibited by downregulation of protein kinase C (PKC), by the tyrosine kinase inhibitor genistein and by MAPK kinase (MEK) inhibitor, PD98059
+IEPA.d60.s156	We suggest that AVP activates the 42/44kDa MAPKs through a signal transduction pathway that involves stimulation of AVP-V1 receptor, tyrosine kinase, PKC and MEK
+IEPA.d72.s173	Treatment with (+)-trifluoro-ABA strongly inhibited the gibberellic acid-inducible expression of alpha-amylase I-1 encoded by RAmy1A in the aleurone layers of embryoless half-seeds at the levels of transcription, protein synthesis, and enzyme activity
+IEPA.d74.s176	Chronic central leptin infusion enhances insulin-stimulated glucose metabolism and favors the expression of uncoupling proteins
+IEPA.d74.s177	In marked contrast, intracerebroventricular leptin administration was accompanied by the maintenance of high UCP1, UCP2, and UCP3 expression in all these tissues

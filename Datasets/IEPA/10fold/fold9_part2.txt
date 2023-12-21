@@ -1,0 +1,16 @@
+Sentence ID	Sentence
+IEPA.d65.s165	These results argue that Ca(2+)-dependent PKC is involved in the action of AVP, and that of other agonists, which stimulate sodium transport
+IEPA.d118.s286	Phorbol myristate acetate (TPA), an activator of PKC, elicited an increase of MAPK activity, but did not further influence the level of AVP4-8-enhanced MAPK activity; Nevertheless, the extent of CaMKII activation was attenuated by TPA
+IEPA.d128.s303	A neurotoxic fragment of amyloid, Abeta 25-35, incubated in the presence of endogenous Ca2+, increased significantly the PI-PLC activity of normoxic brain
+IEPA.d128.s304	In its non-aggregated form, Abeta 25-35 activates PI-PLC but in the aggregated form the enzymatic activity decreased
+IEPA.d128.s305	Thus, Abeta 25-35 exerts a similar effect on the membrane-bound PI-PLC from normoxic brain or subjected to ischemia reperfusion injury
+IEPA.d128.s306	Ischemia-reperfusion injury had no effect on Abeta-evoked alterations of synaptic plasma membrane-bound PI-PLC
+IEPA.d130.s312	Amyloid beta peptide 25-35 modulates hydrolysis of phosphoinositides by membrane phospholipase(s) C of adult brain cortex
+IEPA.d130.s313	Fresh-water-soluble A beta 25-35 activated PI-PLC in SPM markedly by two- to threefold, but this effect was absent in the presence of 2 mM CaCl2
+IEPA.d130.s314	Moreover, A beta 25-35 had no effect on basal PIP2-PLC activity and cytosolic PI-PLC and PIP2-PLC
+IEPA.d130.s315	The aggregated form of A beta 25-35 significantly inhibited PIP2-PLC only in the presence of endogenous CaCl2
+IEPA.d144.s345	Hypothalamic neuropeptide Y and its neuroendocrine regulation by leptin
+IEPA.d151.s365	Relationship among leptin, neuropeptide Y, and galanin in young women and in postmenopausal women [see comments]
+IEPA.d151.s366	OBJECTIVE: To determine whether hormonal status may affect neuropeptide Y (NPY), galanin, and leptin release in postmenopausal women and in young women
+IEPA.d151.s367	CONCLUSIONS: Our results suggest that the differences is plasma leptin, NPY, and galanin between postmenopausal women and young women may be related to body mass index rather than to differences in hormonal status and that the higher NPY levels in both lean and obese postmenopausal women than in young women indicate that factors other than body mass index may be involved
+IEPA.d160.s385	Thus, highly expressed in human adipocytes, the Y(1) receptor sustains the strong antilipolytic effect of NPY and exerts a positive action on leptin secretion

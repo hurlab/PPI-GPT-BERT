@@ -1,0 +1,20 @@
+Sentence ID	Sentence
+IEPA.d34.s80	Immunohistochemical localization of leptin and uncoupling protein in white and brown adipose tissue
+IEPA.d34.s81	To establish the cell type expressing leptin, we also assessed the size and organization of lipid droplets, the ultrastructural features of mitochondria, and the presence or absence of uncoupling protein, a brown fat-specific marker
+IEPA.d34.s82	In brown adipose tissue of lean animals, multilocular uncoupling protein (UCP)-positive brown adipocytes had typical brown mitochondria and were leptin-negative, both in fed and fasted conditions
+IEPA.d34.s83	At the periphery of the interscapular brown adipose tissue depot, unilocular, UCP-negative adipocytes (mean diameter: 41.55 microns) with white-type mitochondria were observed, and these cells were leptin-positive
+IEPA.d34.s84	In obese (db/db) animals, brown fat was composed mainly of small unilocular, UCP-positive adipocytes (mean diameter: 40.08 microns), which were also leptin-positive
+IEPA.d34.s85	In summary, classical brown adipocytes differ from white adipocytes, not only by their morphology and UCP expression, but also by their apparent lack of detectable leptin expression
+IEPA.d66.s166	However, the AVP-dependent stimulation required activation of protein kinase C (PKC), whereas the inhibition was PKC independent, indicating that the NGF-induced signaling pathways leading to inhibition and stimulation of HCO3- absorption are distinct
+IEPA.d71.s172	HvSPY coexpression largely abolished GA3-induced activity of an alpha-amylase promoter.
+IEPA.d129.s307	Sympathetic inhibition, leptin, and uncoupling protein subtype expression in normal fasting rats
+IEPA.d129.s308	To further investigate neural effects on leptin and uncoupling proteins (UCPs), we studied in vivo perturbations intended to block adrenergic input to peripheral tissues
+IEPA.d129.s309	We examined plasma leptin, leptin mRNA, and adipose and muscle UCP subtype mRNA in rats treated with alpha-methyl-p-tyrosine methyl ester (AMPT-ME), which inhibits catecholamine synthesis and 6-hydroxydopamine (6HDA), which is toxic to catecholinergic nerve terminals but, unlike AMPT-ME, does not enter the central nervous system
+IEPA.d129.s310	Intraperitoneal 6HDA, 100 mg/kg, as a single dose at 1800, increased plasma leptin approximately twofold after 18-20 h, increased IBAT (but not epididymal fat) leptin mRNA by two- to threefold, and decreased IBAT UCP-3 mRNA to 30-40% of control
+IEPA.d129.s311	However, the in vivo modulation of leptin and UCPs appears complex and, beyond a causal effect of SNA per se, may depend on concurrent changes in plasma insulin, glucose, and circulatory hemodynamics
+IEPA.d149.s362	Furthermore, in SN-56/OBR cells both CNTF and leptin produce changes in neurotransmitter and neuropeptide phenotype characteristic of cholinergic neurons, such as an increase in choline acetyltransferase and vasoactive intestinal polypeptide, and a decrease in neuropeptide Y expression
+IEPA.d150.s363	Possible central nervous system (CNS) mechanisms could mediate these responses in that leptin receptors are located on hypothalamic neurons that coexpress neuropeptide-Y (NPY) or proopiomelanocortin (POMC) and both peptides that have been implicated as mediators of the CNS action of leptin.
+IEPA.d150.s364	Leptin has been demonstrated to decrease or down regulate NPY expression and increase POMC expression
+IEPA.d153.s369	Interestingly, both 5-HT and leptin modulate the action of NPY, which may form a part of a common output pathway for the expression of appetite
+IEPA.d157.s374	We have studied the effects of neomycin, a potent inhibitor of inositol phospholipid-specific phospholipase C (PLC), on the germination of rice seed and the gibberellin-induced expression of alpha-amylase in the aleurone layer and the scutellar tissues
+IEPA.d157.s375	It was shown that, in the absence of exogenous Ca2+, neomycin markedly reduced the germination speed and seedling growth of rice seeds and inhibited the gibberellin-induced expression of alpha-amylase in both secretory tissues

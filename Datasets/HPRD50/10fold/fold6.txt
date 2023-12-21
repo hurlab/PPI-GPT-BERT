@@ -1,0 +1,12 @@
+Sentence ID	Sentence
+HPRD50.d0.s0	Cloning and characterization of two evolutionarily conserved subunits (TFIIIC102 and TFIIIC63) of human TFIIIC and their involvement in functional interactions with TFIIIB and RNA polymerase III
+HPRD50.d16.s0	GADD45b and GADD45g are cdc2/cyclinB1 kinase inhibitors with a role in S and G2/M cell cycle checkpoints induced by genotoxic stress
+HPRD50.d16.s1	Gadd45a (Gadd45), Gadd45b (MyD118), and Gadd45g (CR6) constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis
+HPRD50.d16.s2	Recent evidence has implicated Gadd45a in inhibition of cdc2/cyclinB1 kinase and in G2/M cell cycle arrest
+HPRD50.d16.s3	Yet, whether Gadd45b and/or Gadd45g function as inhibitors of cdc2/cyclinB1 kinase and/or play a role in G2/M cell cycle arrest has not been fully established
+HPRD50.d16.s4	In this work, we show that Gadd45b and Gadd45g specifically interact with the Cdk1/CyclinB1 complex, but not with other Cdk/Cyclin complexes, in vitro and in vivo
+HPRD50.d16.s5	Data also has been obtained that Gadd45b and Gadd45g, as well as GADD45a, interact with both Cdk1 and cyclinB1, resulting in inhibition of the kinase activity of the Cdk1/cyclinB1 complex
+HPRD50.d16.s6	Inhibition of Cdk1/cyclinB1 kinase activity by Gadd45b and Gadd45a was found to involve disruption of the complex, whereas Gadd45g did not disrupt the complex
+HPRD50.d30.s0	The tyrosine kinase Tyk-2 is physically associated with the Type I interferon (IFN) receptor complex and is rapidly activated during IFN alpha stimulation
+HPRD50.d31.s0	Raf1 interaction with Cdc25 phosphatase ties mitogenic signal transduction to cell cycle activation
+HPRD50.d31.s1	We show here that Cdc25 phosphatase associates with raf1 in somatic mammalian cells and in meiotic frog oocytes

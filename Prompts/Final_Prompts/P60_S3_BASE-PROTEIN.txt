@@ -1,0 +1,8 @@
+Consider each sentence separately and infer Protein-Protein Interaction (PPI) for only the protein entity pairs PROTEIN1-PROTEIN2 from the provided sentences. Do not consider any other PROTEIN pairs. Here original protein names are masked using the terms PROTEIN, PROTEIN1 and PROTEIN2.
+Please, format your results in CSV (comma-separated values) format with the following two columns: 'Sentence ID' and 'PPI between PROTEIN1-PROTEIN2'. Ensure that no columns are left blank.
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'PPI between PROTEIN1-PROTEIN2': TRUE or FALSE. (If PROTEIN1 and PROTEIN2 interact: TRUE. If PROTEIN1 and PROTEIN2 do not interact FALSE)  
+If all sentences have been processed successfully, the last row should only contain the word 'Done'.
+Each input line contains a 'Sentence ID' and corresponding 'Sentence' that is needed to be analyzed for finding PPI. 
+Here are the sentences that you need to process:

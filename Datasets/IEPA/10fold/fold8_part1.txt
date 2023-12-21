@@ -1,0 +1,17 @@
+Sentence ID	Sentence
+IEPA.d0.s0	Oxytocin stimulates IP3 production in dose-dependent fashion as well
+IEPA.d3.s4	Inositol 1,4,5-trisphosphate and oxytocin binding in human myometrium
+IEPA.d16.s33	They are needed for the catabolism of cholesterol, bile acids, and steroid hormones; they hydrolyze a number of flavonoid glycosides to anticarcinogens; and they detoxify certain carcinogens
+IEPA.d73.s174	Furthermore, treatment of isolated rat diaphragms and adipocytes with PIG-P as well as with other agents exerting partially insulin-mimetic activity, such as PI-specific phospholipase C (PLC) and the sulfonylurea glimepiride, triggered tyrosine phosphorylation of the caveolar marker protein caveolin, which was apparently correlated with stimulation of lipogenesis
+IEPA.d73.s175	Strikingly, in adipocytes subjected to combined trypsin/salt treatment, PIG-P, PI-specific PLC, and glimepiride failed completely to provoke insulin-mimetic effects
+IEPA.d82.s195	Neural site of leptin influence on neuropeptide Y signaling pathways altering feeding and uncoupling protein
+IEPA.d82.s196	NPY in the PVN increases feeding and decreases uncoupling protein (UCP) activity in brown fat, whereas leptin decreases NPY biosynthesis in the Arc, which presumably decreases PVN NPY
+IEPA.d82.s197	Next, we determined that leptin decreases NPY and increases UCP gene expression
+IEPA.d83.s198	Furthermore, immunocytochemical studies showed the A beta-induced neuronal MAC expression on the SH-SY5Y cells after CD59 was removed by PIPLC or blocked by anti-CD59 antibody
+IEPA.d89.s209	UCP2, UCP3 and leptin gene expression: modulation by food restriction and leptin
+IEPA.d89.s210	To determine the effects of food restriction and leptin administration on several transcripts involved in energy homeostasis, we examined leptin, uncoupling proteins (UCP) 1, 2 and 3, lipoprotein lipase (LPL), beta3-adrenergic receptors (beta3AR) and hormone-sensitive lipase (HSL) mRNA levels in brown adipose tissue (BAT) and epididymal (EWAT) and perirenal (PWAT) white adipose tissue in three groups of rats
+IEPA.d89.s211	Leptin increased LPL mRNA by 80%, UCP1 mRNA twofold, and UCP3 mRNA levels by 62% in BAT, and increased UCP2 mRNA levels twofold in EWAT
+IEPA.d89.s212	The present study indicates that leptin increases the gene expression of UCP2 in EWAT and that of UCP1, UCP3 and LPL in BAT, whereas reduced food consumption but not leptin, decreases LPL expression in WAT
+IEPA.d94.s227	Oxytocin (OT) is more expressed in the TEC/TNC than vasopressin (VP); insulin-like growth factor 2 (IGF-2) thymic expression predominates over IGF-1, and much more over (pro)insulin
+IEPA.d94.s228	Thus, OT was proposed to be the self antigen of the neurohypophysial family, and IGF-2 the self antigen precursor of the insulin family
+IEPA.d98.s236	We observed that primary microglial cultures and the THP-1 monocytic cell line are stimulated by fibrillar beta-amyloid and prion peptides to activate identical tyrosine kinase-dependent inflammatory signal transduction cascades

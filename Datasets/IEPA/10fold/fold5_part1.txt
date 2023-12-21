@@ -1,0 +1,15 @@
+Sentence ID	Sentence
+IEPA.d17.s34	The aim of this study was to investigate the effects of hCG, hCG plus oxytocin and oxytocin on [3H] inositol phosphate (IP) formations in porcine myometrial cells obtained from ovariectomized and cyclic gilts
+IEPA.d17.s35	The highest production of total inositol phosphates (d.p.m.) was found in cells from ovariectomized gilts given in vivo estradiol benzoate and progesterone for five consecutive days and treated with 1000 mU hCG and 100 mU hCG plus 1 microM oxytocin (984 +/- 84 and 1063 +/- 131 vs 314 +/- 36, respectively)
+IEPA.d17.s36	There was also a very significant increase of IP1 after the addition of 1000 mU hCG (p < 0.001) and IP1 and IP3 when 1000 mU hCG plus oxytocin were added (p < 0.001 and p < 0.01, respectively)
+IEPA.d17.s37	Only oxytocin alone increased the formation of IPs in cells from ovariectomized pigs treated with estradiol in vivo (p < 0.01)
+IEPA.d17.s38	The highest dose of hCG plus The highest dose of hCG plus oxytocin provoked accumulation of total [3H]inositol phosphate (p < 0.05) 53% over the basal level on days 21/1 of the estrous cycle
+IEPA.d17.s39	The present study demonstrates that hCG and oxytocin can increase the accumulation of inositol phosphates in porcine myometrial cells
+IEPA.d28.s60	In HVSMC both oxytocin and AVP increased inositol 1,4,5-trisphosphate (IP3) production and [Ca2+]i response, but the efficacy of the responses was greater for oxytocin than AVP
+IEPA.d32.s66	Gamma-aminobutyric acid mediation of the inhibitory effect of nitric oxide on the arginine vasopressin and oxytocin responses to insulin-induced hypoglycemia
+IEPA.d32.s67	Previous studies have demonstrated that the nitric oxide (NO) synthase inhibitor L-NAME exerts positive effects on the arginine vasopressin (AVP) and oxytocin (OT) responses to insulin-induced hypoglycemia, suggesting inhibitory actions of NO
+IEPA.d32.s68	AVP and OT secretory patterns during insulin (0.15 IU/kg, i.v.)-tolerance tests (ITT) were examined in seven normal male subjects with (experimental tests) and without (control test) concomitant treatment with L-NAME (40 micrograms/kg injected plus 50 micrograms/kg infused, i.v.), the GABAergic agent sodium valproate (600 mg in three divided doses orally) or the combination of L-NAME and sodium valproate
+IEPA.d32.s69	Insulin-induced hypoglycemia increased by 2-fold (peak vs. baseline) plasma AVP and OT levels
+IEPA.d32.s70	These data indicate a GABAergic mediation of the inhibitory modulation by NO of the AVP and OT responses to insulin-induced hypoglycemia
+IEPA.d67.s167	Association of the insulin receptor with phospholipase C-gamma (PLCgamma) in 3T3-L1 adipocytes suggests a role for PLCgamma in metabolic signaling by insulin
+IEPA.d67.s168	To determine the functional significance of the interaction of PLCgamma and the IR, we used a specific inhibitor of PLC, U73122, or microinjection of SH2 domain glutathione S-transferase fusion proteins derived from PLCgamma to block insulin-stimulated GLUT4 translocation

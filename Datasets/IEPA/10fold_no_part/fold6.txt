@@ -1,0 +1,52 @@
+Sentence_ID	Sentence
+IEPA.d1.s1	Phosphoinositide hydrolysis, resulting in inositol trisphosphate (IP3) and diacylglycerol (DG) formation, has been implicated in oxytocin-stimulated pulsatile secretion of prostaglandin F2 alpha (PGF2 alpha) from uterine endometrium of sheep and other mammals
+IEPA.d4.s5	The effects of prostaglandin F2 alpha (PGF2 alpha) on intracellular Ca2+ concentration ([Ca2+]i) and inositol phosphate (IP) generation in human myometrial cells were evaluated and compared to the effects of oxytocin
+IEPA.d4.s6	In contrast, the potencies of oxytocin to raise IP and [Ca2+]i were similar and independent of extracellular Ca2+, and could be suppressed by pertussis toxin and phorbol ester, but not by verapamil
+IEPA.d4.s7	The action of PGF2 alpha depends on extracellular Ca2+, whereas oxytocin activates the G-protein-dependent phospholipase-C-IP3-Ca2+ signal-transducing pathway, complemented by the influx of extracellular Ca2+
+IEPA.d14.s31	This indicates that the calcium response to OT application was principally associated with activation of the IP3-sensitive calcium stores
+IEPA.d39.s93	Homogeneous liposome immunoassay for insulin using phospholipase C from Clostridium perfringens
+IEPA.d39.s94	Insulin was conjugated to phospholipase C by a three-step procedure with hetero-bifunctional crosslinking reagents, succinimidyl 4-(N-maleimidomethyl)cyclohexane-1-carboxylate and 3-(2-pyridyldithio)propionic acid N-hydroxysuccinimide ester
+IEPA.d39.s95	Both p-nitrophenylphosphatidylcholine hydrolytic activity and liposome lytic activity of insulin-phospholipase C conjugate were inhibited in the presence of insulin antiserum
+IEPA.d63.s160	However, in brown fat, we observed a 2-3-fold increase in the expression of UCP1 in response to dietary fat challenge, which may be related to diet-induced elevations in plasma leptin levels
+IEPA.d79.s189	OT evokes the release of Ca2+ from IP3-sensitive intracellular stores
+IEPA.d85.s204	A barley gene encoding a novel DNA-binding protein (HRT) was identified by southwestern screening with baits containing a gibberellin phytohormone response element from an alpha-amylase promoter
+IEPA.d91.s215	Oxytocin-stimulated insulin release in a clonal beta-cell line RINm5F: involvement of phospholipase C-dependent and -independent pathways.
+IEPA.d91.s216	CONCLUSION: Oxy increases insulin release through both PLC and non-PLC mediated signal transduction mechanisms.
+IEPA.d91.s217	In addition, U-73122 diminished the Oxy-induced increase in intracellular concentration of inositol 1, 4, 5-triphosphate (IP3)
+IEPA.d91.s218	U-73122 at 8 mumol.L-1 totally abolished the Oxy-induced increases in [Ca2+]i and IP3; however it reduced the Oxy-induced increase in insulin release only by 36% and 63% in the monolayer and suspended cell preparations, respectively
+IEPA.d91.s219	Oxytocin-stimulated insulin release in a clonal beta-cell line RINm5F: involvement of phospholipase C-dependent and -independent pathways
+IEPA.d91.s220	AIM: To study the mechanisms underlying oxytocin (Oxy)-induced insulin release
+IEPA.d91.s221	RESULTS: Oxy increased insulin release and [Ca2+]i in a concentration-dependent manner
+IEPA.d91.s222	Oxy-induced insulin release was not altered by pretreatment with pertussis toxin (PT)
+IEPA.d91.s223	U-73122 at 8 mumol.L-1 totally abolished the Oxy-induced increases in [Ca2+]i and IP3; however it reduced the Oxy-induced increase in insulin release only by 36% and 63% in the monolayer and suspended cell preparations, respectively
+IEPA.d91.s224	CONCLUSION: Oxy increases insulin release through both PLC and non-PLC mediated signal transduction mechanisms
+IEPA.d92.s225	In isolated adipocytes, the loss of almost half the 18S RNA content over a 24-hour incubation was prevented in the presence of insulin but not oxytocin or epidermal growth factor (EGF)
+IEPA.d93.s226	Further investigation suggested that activation of protein kinase C (PKC), which is part of the AVP-induced intracellular signalling pathway, is necessary and sufficient for the generation of the synergistic response, although it is not obligatory for AVP-induced ACTH release
+IEPA.d104.s243	In addition, abscisic acid-mediated inhibition of gibberellin-stimulated responses seems to depend on the activation of a phospholipase D during induction of alpha-amylase in barley aleurone cells as well as on a putative acetyltransferase involved in elongation growth.
+IEPA.d122.s290	Effects of intravenously infused leptin on insulin sensitivity and on the expression of uncoupling proteins in brown adipose tissue
+IEPA.d122.s291	Centrally administered leptin has been shown to increase insulin-stimulated glucose utilization and to favor the expression of uncoupling proteins (UCPs)
+IEPA.d122.s292	To study if leptin also has direct peripherally mediated effects on these processes, this hormone (1 mg/day) or its vehicle was infused i.v. for 4 days to lean rats and insulin-stimulated glucose utilization in skeletal muscle and adipose tissue as well as the expression of UCP messenger RNAs (mRNAs) in brown adipose tissue were measured
+IEPA.d122.s293	I.v. leptin infusion also favored the expression of UCPs in brown adipose tissue, either by increasing their expression or preventing the fall occurring during the pair-feeding regimen.
+IEPA.d122.s294	Relative UCP expression levels were 100, 104, and 33 for UCP1, 100, 191, and 125 for UCP2 and 100, 107, and 29 for UCP3 in ad libitum fed control rats, in leptin-treated rats and in pair-fed control rats, respectively
+IEPA.d122.s295	These results suggest that the overall effect of leptin on glucose utilization and on the expression of UCPs may be mediated through central mechanism
+IEPA.d148.s359	In vivo effects of CGP-12177 on the expression of leptin and uncoupling protein genes in mouse brown and white adipose tissues
+IEPA.d148.s360	OBJECTIVE: To assess the effect of chronic treatment with CGP-12177 a beta3-adrenergic receptor (AR) agonist with beta2/beta1-AR antagonist action, on the expression of the leptin gene and of genes coding for uncoupling proteins (ucp1, ucp2 and ucp3) in brown and white adipose tissues
+IEPA.d148.s361	CONCLUSION: The results reveal that simultaneous stimulation of the expression of certain ucp genes and the leptin gene can be achieved, and suggest that adrenergic regulation of the leptin gene and of genes of the ucp family in adipose tissues is the result of complex interactions between the different beta-AR pathways
+IEPA.d155.s372	However, neither progesterone nor insulin increased phosphotyrosine on PLCgamma
+IEPA.d158.s377	NPY-leptin: opposing effects on appetitive and consummatory ingestive behavior and sexual behavior
+IEPA.d158.s378	Many studies have indicated that neuropeptide Y (NPY) stimulates and leptin inhibits food intake
+IEPA.d158.s379	In line with this, intracerebroventricular injection of NPY (10 microg) stimulated and leptin (10 microg) inhibited intake of a sucrose solution when female rats were required to obtain the solution from a bottle
+IEPA.d158.s380	However, NPY inhibited and leptin stimulated intake if the solution was infused intraorally
+IEPA.d158.s381	Thus NPY stimulates the responses used to obtain food but inhibits those used to consume food, and leptin has the opposite effects
+IEPA.d188.s451	We also determined whether well known hypothalamic neuropeptide targets, e.g. neuropeptide Y (NPY), proopiomelanocortin (POMC), agouti-related peptide (AGRP) and cocaine and amphetamine-regulated transcript (CART) were regulated in a pattern consistent with their presumed roles as mediators of leptin action
+IEPA.d188.s452	In contrast, leptin decreased body weight and adiposity, increased CART and suppressed NPY and AGRP mRNA expression in adult mice
+IEPA.d50.s127	Insulin secretion is regulated by changes in blood glucose, as well as by peptides from the gastrointestinal tract and neurotransmitters that activate the pancreatic islet adenylyl cyclase (e.g., glucagon-like peptide-1) and phospholipase C (PLC) (e.g., acetylcholine) signaling pathways to further potentiate glucose-induced insulin secretion
+IEPA.d50.s128	However, leptin did constrain the enhanced PLC-mediated insulin secretion characteristic of islets from ob/ob mice, without influencing release from islets of lean mice
+IEPA.d50.s129	A specific enhancement in PLC-mediated insulin secretion is the earliest reported developmental alteration in insulin secretion from islets of ob/ob mice, and thus a logical target for leptin action
+IEPA.d50.s130	This action of leptin on PLC-mediated insulin secretion was dose-dependent, rapid-onset (i.e., within 3 min), and reversible
+IEPA.d50.s131	Leptin was equally effective in constraining the enhanced insulin release from islets of ob/ob mice caused by protein kinase C (PKC) activation, a downstream mediator of the PLC signal pathway
+IEPA.d50.s132	One function of leptin in control of body composition is thus to target a PKC-regulated component of the PLC-PKC signaling system within islets to prevent hypersecretion of insulin
+IEPA.d103.s242	The bovine ovarian granulosa cell model is a primary culture system where under stimulation by insulin or IGF-I and LH the endogenous oxytocin gene is massively upregulated
+IEPA.d123.s296	The activity of catalase was found to be significantly enhanced in the tissues of normal and cholesterol fed rats administered 1 mg flavonoid from brinjal/100 g BW/day
+IEPA.d142.s341	METHODS: We have therefore studied possible associations of the Gln27Glu and the Gly16Arg polymorphisms in the beta2AR with BMI, plasma leptin and UCP-1 mRNA expression in the intraperitoneal adipose tissue in a population of Caucasian women
+IEPA.d142.s342	Furthermore, no association was found between the Gln27Glu or the Gly16Arg polymorphisms and plasma leptin or adipose tissue UCP-1 gene expression in either group

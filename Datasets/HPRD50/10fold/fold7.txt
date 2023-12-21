@@ -1,0 +1,12 @@
+Sentence ID	Sentence
+HPRD50.d1.s0	Identification of residues in the monocyte chemotactic protein-1 that contact the MCP-1 receptor, CCR2
+HPRD50.d1.s1	The receptor binding site of MCP-1 also is significantly different from the binding sites of RANTES and IL-8, providing insight into the issue of receptor specificity
+HPRD50.d1.s2	It was previously shown that the N-terminus of CCR2 is critical for binding MCP-1
+HPRD50.d1.s3	To identify the regions of MCP-1 that contact its receptor, CCR2, we substituted all surface-exposed residues with alanine
+HPRD50.d3.s0	Interleukin-6 activates phosphatidylinositol-3 kinase, which inhibits apoptosis in human prostate cancer cell lines
+HPRD50.d3.s1	RESULTS: Tyrosine phosphorylation of p85 is upregulated by IL-6 in both LNCaP and PC-3
+HPRD50.d3.s2	IL-6 promotes coprecipitation of p85 with gp130, the signal-transducing component of the IL-6 receptor
+HPRD50.d27.s0	Pinin/DRS/memA interacts with SRp75, SRm300 and SRrp130 in corneal epithelial cells
+HPRD50.d27.s1	Three SR-rich proteins were identified that interact with the C-terminus of Pnn: SRp75 and SRm300, known components of spliceosome machinery, and a novel 130-kDa nuclear protein, SRrp130
+HPRD50.d38.s0	Subsequent amino acid sequencing revealed many peptides involving involucrin cross-linked either to itself or to a variety of other known CE protein components, including cystatin alpha, desmoplakin, elafin, keratins, members of the small proline-rich superfamily, loricrin, and unknown proteins related to the desmoplakin family
+HPRD50.d38.s1	Specific glutamines or lysines of involucrin were used to cross-link the different proteins, such as glutamines 495 and 496 to desmoplakin, glutamine 288 to keratins, and lysines 468, 485, and 508 and glutamines 465 and 489 for interchain involucrin cross-links

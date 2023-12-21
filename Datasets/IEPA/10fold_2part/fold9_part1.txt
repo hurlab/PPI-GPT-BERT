@@ -1,0 +1,20 @@
+Sentence_ID	Sentence
+IEPA.d19.s41	Granulosa cells were isolated from bovine preovulatory follicles and cultured for 3 days with or without OT in medium supplemented with either insulin (1 microgram/ml) + 1% fetal calf serum (FCS), which maintains basal estradiol secretion, or low doses of FSH (1 and 2 ng/ml) + 1% FCS, a culture condition that maximizes effects of FSH on estradiol secretion
+IEPA.d36.s87	Wortmannin converts insulin but not oxytocin from an antilipolytic to a lipolytic agent in the presence of forskolin
+IEPA.d36.s88	The present studies compared the effects of insulin in rat adipocytes with the effects of oxytocin and peroxovanadate, which mimic some effects of insulin
+IEPA.d36.s89	The antilipolytic effects of peroxovanadate and oxytocin were unaffected by 500 nmol/L wortmannin, which blocked the antilipolytic action of insulin
+IEPA.d36.s90	The data provide additional support for the hypothesis that oxytocin and peroxovanadate affect adipose tissue metabolism by mechanisms distinctly different from those involved in insulin action
+IEPA.d54.s138	This effect is maximal at 10(-8) M AVP (a concentration clearly above the normal physiological range of AVP concentrations) and involves the V2 receptor pathway, while activation of protein kinase C or changes in intracellular calcium are ineffective
+IEPA.d57.s146	Activation of EGFR overexpressing 3T3-L1 adipocytes leads to a 3.4 +/- 1.2-fold stimulation of PLC activity over basal levels vs. only 1.06 +/- 0.01-fold stimulation by insulin.
+IEPA.d57.s147	Despite the low levels of insulin-induced PLC activity, insulin-stimulated glucose transport activity was similarly inhibited by U73122 (55.9 +/- 13.1% inhibition)
+IEPA.d57.s148	Inhibition of PLC activation did not impair either EGF- or insulin-induced activation of glycogen synthase or incorporation of glucose into lipid, supporting the hypothesis that both EGF- and insulin-induced glucose disposal can be independent of GLUT4-mediated glucose transport.
+IEPA.d57.s149	The diminution of glucose transport secondary to inhibition of PLC activity was reflected by a decrease in GLUT4 translocation to the plasma membrane upon either EGF or insulin stimulation
+IEPA.d62.s159	Oxytocin-treated male rats had increased circulating levels of cholecystokinin, a tendency to increased plasma levels of insulin (p = 0.066), and relatively more adipose tissue in the thigh and interscapular region, compared with controls
+IEPA.d65.s163	Vasopressin-induced activation of protein kinase C in renal epithelial cells
+IEPA.d65.s164	AVP induced a biphasic increase in diacylglycerol generation, characterized by an initial rapid rise and then a sustained elevation, and PKC activation, reflected by phosphorylation of a specific 80 kDa myristoylated alanine-rich PKC substrate (MARCKS)
+IEPA.d65.s165	These results argue that Ca(2+)-dependent PKC is involved in the action of AVP, and that of other agonists, which stimulate sodium transport
+IEPA.d118.s286	Phorbol myristate acetate (TPA), an activator of PKC, elicited an increase of MAPK activity, but did not further influence the level of AVP4-8-enhanced MAPK activity; Nevertheless, the extent of CaMKII activation was attenuated by TPA
+IEPA.d128.s303	A neurotoxic fragment of amyloid, Abeta 25-35, incubated in the presence of endogenous Ca2+, increased significantly the PI-PLC activity of normoxic brain
+IEPA.d128.s304	In its non-aggregated form, Abeta 25-35 activates PI-PLC but in the aggregated form the enzymatic activity decreased
+IEPA.d128.s305	Thus, Abeta 25-35 exerts a similar effect on the membrane-bound PI-PLC from normoxic brain or subjected to ischemia reperfusion injury
+IEPA.d128.s306	Ischemia-reperfusion injury had no effect on Abeta-evoked alterations of synaptic plasma membrane-bound PI-PLC

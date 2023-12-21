@@ -1,0 +1,22 @@
+Sentence ID	Sentence
+4	By electrophoretic mobility shift assay using the PROTEIN PROTEIN site and nuclear extracts from macrophages, we observed a specific protein-DNA complex formation, which was inhibited by a specific antibody against the transcription factor PROTEIN1 ( PROTEIN2 
+25	Here we show that PROTEIN1 interacts with multiple components of the sumoylation machinery, namely the E2 sumo conjugating enzyme PROTEIN and the E3 sumo ligases PROTEIN and PROTEIN all of which are involved in conjugating the small ubiquitin-like modifier polypeptide, PROTEIN2 to its target proteins
+46	By contrast, PROTEIN1 was not tyrosyl phosphorylated or associated with PTP-1CM in the presence of wild-type PROTEIN2 
+67	Several distinct mutations in exon 2 of PROTEIN disrupt binding of PROTEIN1 to PROTEIN2 
+88	However, cytokines, in particular PROTEIN and PROTEIN1 potentiated the DNA synthesis induced by cross-linking of PROTEIN2 
+109	Assignment of PROTEIN1 PROTEIN2 and Etfa to chromosomes 3, 7, and 13: the mouse homologs of genes responsible for glutaric acidemia type II in human
+130	Differential binding of vascular cell-derived proteoglycans ( PROTEIN PROTEIN1 PROTEIN2 and PROTEIN to the beta-amyloid protein of Alzheimer's disease
+151	Characterization of EC and PROTEIN PROTEIN bound to A beta (1-28) revealed strong binding by PROTEIN1 weak binding by PROTEIN2 and PROTEIN two dermatan sulfate proteoglycans, and lack of binding by PROTEIN PROTEIN a large chondroitin sulfate proteoglycan
+172	Herein, we show that a distinct IkappaB protein PROTEIN1 also interacts with RXR, as shown in the yeast two-hybrid tests and PROTEIN2 pull-down assays
+193	BACKGROUND: Both PROTEIN1 (AR) and orphan receptor PROTEIN2 ( PROTEIN belong to the steroid nuclear receptor superfamily and are expressed in prostate cancer tissue and cell lines
+214	 PROTEIN1 ( PROTEIN , PROTEIN2 ( PROTEIN , and PROTEIN ( PROTEIN constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis
+235	Data also has been obtained that PROTEIN1 and PROTEIN as well as PROTEIN interact with both PROTEIN2 and cyclinB1, resulting in inhibition of the kinase activity of the PROTEIN cyclinB1 complex
+256	Identification of residues in the PROTEIN1 that contact the MCP-1 receptor, PROTEIN2 
+277	Subsequent amino acid sequencing revealed many peptides involving PROTEIN cross-linked either to itself or to a variety of other known CE protein components, including PROTEIN1 PROTEIN PROTEIN keratins, members of the small proline-rich superfamily, PROTEIN2 and unknown proteins related to the PROTEIN family
+298	 PROTEIN1 also interacted with other members of the catenin gene family including PROTEIN2 and gamma-catenin
+319	The human PROTEIN and PROTEIN1 proteins form a ternary complex with hMpp10, which only interacts with the U3 PROTEIN2 in 60-80S ribonucleoprotein complexes
+340	In the present study, we observed evidence of cross-talk between the cannabinoid receptor PROTEIN and the PROTEIN1 ( PROTEIN2 using a heterologous system
+361	In addition, PROTEIN1 contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length PROTEIN2 in vitro
+382	The sterol-independent regulatory element (SIRE) of the PROTEIN ( PROTEIN1 promoter mediates PROTEIN (OM)-induced transcription of the PROTEIN2 gene through a cholesterol-independent pathway
+403	Downregulation of PROTEIN by RNA interference results in multiple mitotic defects, including multinucleation and cells arrested at the midbody stage, which are rescued by ectopic expression of wild-type PROTEIN1 but not by PROTEIN2 with mutations in the PROTEIN phosphorylation sites
+424	The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins PROTEIN1 and PROTEIN ( PROTEIN2 , respectively

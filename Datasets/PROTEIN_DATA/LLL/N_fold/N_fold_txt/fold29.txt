@@ -1,0 +1,10 @@
+Sentence ID	Sentence
+29	These results suggest that PROTEIN1 may act as a negative regulator for the transcription of PROTEIN PROTEIN PROTEIN and PROTEIN2 
+65	The PROTEIN1 regulon includes a penicillin binding protein ( PROTEIN and a co-transcribed amino acid racemase ( PROTEIN2 , homologues of signal peptide peptidase ( PROTEIN , flotillin ( PROTEIN , ABC transporters ( PROTEIN , non-haem bromoperoxidase ( PROTEIN , epoxide hydrolase ( PROTEIN and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+101	The PROTEIN and PROTEIN1 genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, PROTEIN the PROTEIN PROTEIN2 operon is recognized equally well by PROTEIN and the other forespore-specific sigma factor, PROTEIN 
+137	A low level of PROTEIN activated transcription of PROTEIN1 by PROTEIN RNA polymerase in vitro, but a higher level of PROTEIN repressed PROTEIN2 transcription.
+173	Expression of the PROTEIN1 dependent PROTEIN gene depended on PROTEIN2 
+209	We have shown previously that the transcription of PROTEIN1 is driven by an alternative sigma factor, PROTEIN2 
+245	The addition of PROTEIN to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but PROTEIN1 RNAP was observed to be more sensitive to PROTEIN dependent stimulation than PROTEIN2 RNAP.
+281	The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; PROTEIN present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor PROTEIN1 PROTEIN which inhibits the sporulation-specific sigma factor, PROTEIN2 and PROTEIN of Bacillus subtilis; PROTEIN of B. subtilis, which inhibits stress response sigma factor PROTEIN and PROTEIN a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor PROTEIN 
+317	PROTEIN negatively controls the transcription of PROTEIN1 by stimulating the transcription of PROTEIN PROTEIN2 thereby increasing the production of the PROTEIN antisigma factor that inhibits PROTEIN activity.

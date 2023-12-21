@@ -1,0 +1,10 @@
+Sentence ID	Sentence
+18	Modification of de novo DNA methyltransferase 3a ( PROTEIN1 by PROTEIN2 modulates its interaction with histone deacetylases (HDACs) and its capacity to repress transcription
+39	The association of PROTEIN1 with PROTEIN was mediated by the NH2-terminal Src homology 2 (SH2) domain of PROTEIN2 
+60	 PROTEIN associates with the beta-domain of PROTEIN and complexes with PROTEIN1 and PROTEIN2 in vivo
+81	Thus, the ability of PROTEIN1 to degrade PROTEIN depends in part on its interaction with PROTEIN and suggests a new mechanism for PROTEIN stabilization in some PROTEIN2 deficient tumors
+102	Mutational analyses of the beta-2 cytoplasmic domain revealed that the adhesive function of PROTEIN1 depends on its interaction with PROTEIN2 unless the integrin is activated by exogenous divalent cations
+123	Overexpression of PROTEIN1 results in a zinc finger-dependent localization of a PROTEIN isoform and dynactin to MT bundles, raising the possibility that PROTEIN and PROTEIN2 regulate dynein/dynactin binding to MTs
+144	In the present investigation, the differential binding of previously characterized endothelial cell (EC)- and smooth muscle cell ( PROTEIN1 -derived PROTEIN to A beta was examined to determine whether the accumulation of A beta in cerebrovascular PROTEIN deposits may be due to its interactions with PROTEIN2 
+165	Characterization of EC and PROTEIN PROTEIN1 bound to A beta (1-28) revealed strong binding by PROTEIN weak binding by PROTEIN and PROTEIN two dermatan sulfate proteoglycans, and lack of binding by PROTEIN2 PROTEIN a large chondroitin sulfate proteoglycan
+186	Immobilized PROTEIN also bound PROTEIN1 besides PROTEIN and PROTEIN2 

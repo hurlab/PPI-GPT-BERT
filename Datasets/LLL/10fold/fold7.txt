@@ -1,0 +1,9 @@
+Sentence ID	Sentence
+LLL.d0.s0	In vivo studies of the activity of four of the kinases, KinA, KinC, KinD (ykvD) and KinE (ykrQ), using abrB transcription as an indicator of Spo0A~P level, revealed that KinC and KinD were responsible for Spo0A~P production during the exponential phase of growth in the absence of KinA and KinB.
+LLL.d7.s0	Expression of the sigma(K)-dependent cwlH gene depended on gerE.
+LLL.d16.s0	(i) The finding that the bmrUR operon is under sigmaB control indicates that the elimination of multidrug compounds might be a new function in multiple stress resistance.
+LLL.d16.s1	The ydaP gene might belong to the increasing number of sigmaB-dependent genes whose orthologues are under the control of sigmas in Escherichia coli, indicating that both regulons may fulfil similar functions.
+LLL.d16.s2	Three new sigmaB-dependent genes (ydaE, ydaG and yfkM) encoding proteins with still unknown functions were also described.
+LLL.d13.s0	Production of sigmaK about 1 h earlier than normal does affect Spo0A, which when phosphorylated is an activator of sigE transcription.
+LLL.d13.s1	The ald promoter, like the sigE promoter, is believed to be recognized by sigmaA RNA polymerase, suggesting that sigmaK may inhibit sigmaA activity late in sporulation.
+LLL.d13.s2	In the mother cell compartment of sporulating cells, expression of the sigE gene, encoding the earlier-acting sigma factor, sigmaE, is negatively regulated by the later-acting sigma factor, sigmaK.

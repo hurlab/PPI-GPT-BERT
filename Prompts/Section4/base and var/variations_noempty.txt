@@ -1,0 +1,72 @@
+Please format the results in CSV (comma-separated values) with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please return the results in CSV (comma-separated values) format with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please organize the results in CSV (comma-separated values) format with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please format the output in CSV (comma-separated values) with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please return the output in CSV (comma-separated values) format with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please organize the output in CSV (comma-separated values) format with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please format the results in CSV with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please return the results in CSV format with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please organize the results in CSV format with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please format the output in CSV with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please return the output in CSV format with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please organize the output in CSV format with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please format the results in CSV (comma-separated values) with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please return the results in CSV (comma-separated values) format with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please organize the results in CSV (comma-separated values) format with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please format the output in CSV (comma-separated values) with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please return the output in CSV (comma-separated values) format with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please organize the output in CSV (comma-separated values) format with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please format the results in CSV with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please return the results in CSV format with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please organize the results in CSV format with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please format the output in CSV with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please return the output in CSV format with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please organize the output in CSV format with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please format the results in CSV (comma-separated values) with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please return the results in CSV (comma-separated values) format with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please organize the results in CSV (comma-separated values) format with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please format the output in CSV (comma-separated values) with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please return the output in CSV (comma-separated values) format with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please organize the output in CSV (comma-separated values) format with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please format the results in CSV with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please return the results in CSV format with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please organize the results in CSV format with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please format the output in CSV with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please return the output in CSV format with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please organize the output in CSV format with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Please format the results in CSV (comma-separated values) with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please return the results in CSV (comma-separated values) format with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please organize the results in CSV (comma-separated values) format with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please format the output in CSV (comma-separated values) with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please return the output in CSV (comma-separated values) format with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please organize the output in CSV (comma-separated values) format with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please format the results in CSV with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please return the results in CSV format with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please organize the results in CSV format with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please format the output in CSV with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please return the output in CSV format with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please organize the output in CSV format with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please format the results in CSV (comma-separated values) with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please return the results in CSV (comma-separated values) format with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please organize the results in CSV (comma-separated values) format with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please format the output in CSV (comma-separated values) with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please return the output in CSV (comma-separated values) format with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please organize the output in CSV (comma-separated values) format with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please format the results in CSV with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please return the results in CSV format with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please organize the results in CSV format with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please format the output in CSV with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please return the output in CSV format with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please organize the output in CSV format with exactly four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please format the results in CSV (comma-separated values) with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please return the results in CSV (comma-separated values) format with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please organize the results in CSV (comma-separated values) format with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please format the output in CSV (comma-separated values) with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please return the output in CSV (comma-separated values) format with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please Organize the output in CSV (comma-separated values) format with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please format the results in CSV with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please return the results in CSV format with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please organize the results in CSV format with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please format the output in CSV with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please Return the output in CSV format with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.
+Please organize the output in CSV format with four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left empty.

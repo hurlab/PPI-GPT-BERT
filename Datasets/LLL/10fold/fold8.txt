@@ -1,0 +1,12 @@
+Sentence ID	Sentence
+LLL.d2.s0	Transcription of ydhD was dependent on SigE, and the mRNA was detectable from 2 h after the cessation of logarithmic growth (T2 of sporulation).
+LLL.d2.s1	ykuD was transcribed by SigK RNA polymerase from T4 of sporulation.
+LLL.d2.s2	Both SigK and GerE were essential for ykvP expression, and this gene was transcribed from T5 of sporulation.
+LLL.d26.s0	From these results we conclude that ComK negatively regulates degR expression by preventing sigmaD-driven transcription of degR, possibly through interaction with the control region.
+LLL.d26.s1	We have shown previously that the transcription of degR is driven by an alternative sigma factor, sigmaD.
+LLL.d27.s0	DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB.
+LLL.d27.s1	Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE.
+LLL.d27.s2	In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID.
+LLL.d27.s3	A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC.
+LLL.d27.s4	SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+LLL.d39.s0	The addition of ClpX to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but sigmaH-RNAP was observed to be more sensitive to ClpX-dependent stimulation than sigmaA-RNAP.

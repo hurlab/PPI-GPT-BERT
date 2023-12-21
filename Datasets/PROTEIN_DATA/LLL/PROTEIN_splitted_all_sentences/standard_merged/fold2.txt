@@ -1,0 +1,18 @@
+Sentence ID	Sentence	isValid
+21	Northern blot and primer extension analyses indicated that PROTEIN1 is transcribed by PROTEIN2 during sporulation.	True
+22	These results suggest that PROTEIN may act as a negative regulator for the transcription of PROTEIN PROTEIN1 PROTEIN2 and PROTEIN 	False
+23	These results suggest that PROTEIN1 may act as a negative regulator for the transcription of PROTEIN PROTEIN2 PROTEIN and PROTEIN 	True
+24	These results suggest that PROTEIN may act as a negative regulator for the transcription of PROTEIN PROTEIN1 PROTEIN and PROTEIN2 	False
+25	These results suggest that PROTEIN may act as a negative regulator for the transcription of PROTEIN1 PROTEIN2 PROTEIN and PROTEIN 	False
+26	These results suggest that PROTEIN1 may act as a negative regulator for the transcription of PROTEIN PROTEIN PROTEIN2 and PROTEIN 	True
+27	These results suggest that PROTEIN may act as a negative regulator for the transcription of PROTEIN PROTEIN PROTEIN1 and PROTEIN2 	False
+28	These results suggest that PROTEIN may act as a negative regulator for the transcription of PROTEIN1 PROTEIN PROTEIN2 and PROTEIN 	False
+29	These results suggest that PROTEIN1 may act as a negative regulator for the transcription of PROTEIN PROTEIN PROTEIN and PROTEIN2 	True
+30	These results suggest that PROTEIN1 may act as a negative regulator for the transcription of PROTEIN2 PROTEIN PROTEIN and PROTEIN 	True
+31	These results suggest that PROTEIN may act as a negative regulator for the transcription of PROTEIN1 PROTEIN PROTEIN and PROTEIN2 	False
+32	PROTEIN1 also contributes to the expression of PROTEIN2 a putative membrane-bound glucosyl transferase that is partially controlled by the PROTEIN stress response sigma factor.	True
+33	PROTEIN also contributes to the expression of PROTEIN1 a putative membrane-bound glucosyl transferase that is partially controlled by the PROTEIN2 stress response sigma factor.	True
+34	PROTEIN1 also contributes to the expression of PROTEIN a putative membrane-bound glucosyl transferase that is partially controlled by the PROTEIN2 stress response sigma factor.	False
+35	The expression of the PROTEIN1 operon was induced by the presence of isoleucine or valine in the growth medium and depended upon the presence of the sigma factor PROTEIN2 a member of the sigma 54 family.	True
+36	Transcriptional studies demonstrated that the expression from the PROTEIN1 promoter is induced by L-arabinose, repressed by glucose, and negatively regulated by PROTEIN2 	True
+37	Although PROTEIN1 is transcriptionally regulated by the key regulatory device that controls sporulation initiation, the PROTEIN2 phosphorelay, there is considerable evidence implicating a mechanism of post-translational control that governs the activity and concentration of sigmaH.	True

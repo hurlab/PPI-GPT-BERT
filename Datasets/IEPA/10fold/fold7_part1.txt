@@ -1,0 +1,15 @@
+Sentence ID	Sentence
+IEPA.d11.s23	Amyloid beta protein (25-35) stimulation of phospholipases A, C and D activities of LA-N-2 cells
+IEPA.d11.s24	[3H]Inositol prelabeled LA-N-2 cells were exposed to varying concentrations of A beta P, from 20 to 125 micrograms/ml, and phospholipase C activation was measured
+IEPA.d11.s25	The effects of adrenergic, metabotropic amino acid and bombesin antagonists on the A beta P mediated stimulation of phospholipase C activity was investigated
+IEPA.d11.s26	Propranolol, a beta adrenergic antagonist, 7-chloro-kynurenic acid, a metabotropic amino acid antagonist, and [Tyr4-D-Phe12]bombesin, a bombesin antagonist, blunted the A beta P stimulation of phospholipase C activity in [3H]inositol prelabeled LA-N-2 cells
+IEPA.d11.s27	This suggests that amyloid beta protein activation of phospholipase C may be receptor mediated
+IEPA.d11.s28	The phospholipase C inhibitor U 71322 prevented the activation of phospholipase C by A beta P
+IEPA.d12.s29	These results suggest that APP-S secretion and A beta production in NT2N neurons are regulated by the muscarinic/phospholipase C signal transduction pathway
+IEPA.d13.s30	Current interest in reducing heart disease risks by diet involves attention to total fat; saturated, monounsaturated, polyunsaturated and trans fatty acids, as well as dietary cholesterol, soluble fiber, salt, alcohol, antioxidants, dietary alterations causing homocysteinemia and other dietary constituents, such as flavonoid compounds in some soy products
+IEPA.d21.s45	These data suggest that cAMP-dependent phosphorylation at a step involving GTP-binding protein/PLC coupling can exert a negative effect on the stimulation of IP3 formation by oxytocin and thereby affect contraction/relaxation in the myometrium
+IEPA.d40.s96	Roles of GTP and phospholipase C in the potentiation of Ca(2+)-induced insulin secretion by glucose in rat pancreatic islets
+IEPA.d40.s97	There was a 98% greater augmentation of insulin secretion by 16.7 mM glucose (in the presence of diazoxide and 40 mM K+) in primed islets; however, the ability of high glucose to augment PLC activity bore no relationship to the secretory response
+IEPA.d40.s98	MPA markedly inhibited PLC in both conditions; however, insulin secretion was only inhibited (by 46%) in primed islets
+IEPA.d40.s99	These data indicate that an adequate level of GTP is critical for glucose's potentiation of Ca(2+)-induced insulin secretion in primed islets but that PLC activation can clearly be dissociated from insulin secretion and therefore cannot be the major cause of glucose's augmentation of Ca(2+)-induced insulin secretion
+IEPA.d41.s100	Regulation of insulin secretion via ATP-sensitive K+ channel independent mechanisms: role of phospholipase C

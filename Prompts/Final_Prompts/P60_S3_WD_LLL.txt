@@ -1,0 +1,14 @@
+Consider each sentence separately and infer every pair of Protein-Protein Interaction from the provided sentences. 
+For this task, consider Proteins and Genes as interchangeable terms. 
+Provide each pair in a separate row whenever a sentence contains multiple Protein-Protein interaction pairs. 
+Please, format your results in CSV (comma-separated values) format with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Output Column Specifications:
+'Sentence ID': The unique identifier for each sentence.
+'Protein 1' and 'Protein 2': The entities in the sentence, representing the proteins or genes.
+'Interaction Type': The type of interaction identified between the protein entities (e.g., 'binds to', 'inhibits').
+If all sentences have been processed successfully, the last row should only contain the word 'Done'.
+Each input line contains a 'Sentence ID' and corresponding 'Sentence' that is needed to be analyzed for finding PPI. 
+
+Here are the protein names for your reference : [['KinC' 'KinD' 'sigma(A)' 'Spo0A' 'SigE' 'SigK' 'GerE' 'sigma(F)' 'sigma(G)' 'SpoIIE' 'FtsZ' 'sigma(H)' 'sigma(K)' 'gerE' 'EsigmaF' 'sigmaB' 'sigmaF' 'SpoIIAB' 'SpoIIAA' 'SigL' 'RocR' 'sigma(54)' 'E sigma E' 'YfhP' 'SpoIIAA-P' 'sigmaK' 'sigmaG' 'ComK' 'FlgM' 'sigma X' 'sigma B' 'sigma(B)' 'sigmaD' 'SpoIIID' 'sigmaW' 'PhoP~P' 'AraR' 'sigmaH' 'yvyD' 'ClpX' 'Spo0' 'RbsW' 'DnaK' 'sigmaE' 'sigma W' 'sigmaA' 'sigma(X)' 'CtsR' 'Spo0A~P' 'spoIIG' 'ydhD' 'ykuD' 'ykvP' 'ywhE' 'spo0A' 'spoVG' 'rsfA' 'cwlH' 'KatX' 'katX' 'rocG' 'yfhS' 'yfhQ' 'yfhR' 'sspE' 'yfhP' 'bmrUR' 'ydaP' 'ydaE' 'ydaG' 'yfkM' 'sigma F' 'cot' 'sigK' 'cotD' 'sspG' 'sspJ' 'hag' 'comF' 'flgM' 'ykzA' 'CsbB' 'nadE' 'YtxH' 'YvyD' 'bkd' 'degR' 'cotC' 'cotX' 'cotB' 'sigW' 'tagA' 'tagD' 'tuaA' 'araE' 'sigmaL' 'spo0H' 'sigma G' 'sigma 28' 'sigma 32' 'spoIVA' 'PBP4*' 'RacX' 'YteI' 'YuaG' 'YknXYZ' 'YdjP' 'YfhM' 'phrC' 'sigE' 'ald' 'kdgR' 'sigX' 'ypuN' 'clpC' 'ftsY' 'gsiB' 'sigB' 'sspH' 'sspL' 'sspN' 'tlp']]
+
+Here are the sentences that you need to process:

@@ -1,0 +1,63 @@
+Sentence ID	Sentence
+663	Granulosa cells were isolated from bovine preovulatory follicles and cultured for 3 days with or without PROTEIN1 in medium supplemented with either PROTEIN2 (1 microgram/ml) + 1% fetal calf serum (FCS), which maintains basal estradiol secretion, or low doses of FSH (1 and 2 ng/ml) + 1% FCS, a culture condition that maximizes effects of FSH on estradiol secretion
+664	Wortmannin converts PROTEIN1 but not PROTEIN2 from an antilipolytic to a lipolytic agent in the presence of forskolin
+665	The present studies compared the effects of PROTEIN1 in rat adipocytes with the effects of PROTEIN and peroxovanadate, which mimic some effects of PROTEIN2 
+666	The present studies compared the effects of PROTEIN1 in rat adipocytes with the effects of PROTEIN2 and peroxovanadate, which mimic some effects of PROTEIN 
+667	The present studies compared the effects of PROTEIN in rat adipocytes with the effects of PROTEIN1 and peroxovanadate, which mimic some effects of PROTEIN2 
+668	The antilipolytic effects of peroxovanadate and PROTEIN1 were unaffected by 500 nmol/L wortmannin, which blocked the antilipolytic action of PROTEIN2 
+669	The data provide additional support for the hypothesis that PROTEIN1 and peroxovanadate affect adipose tissue metabolism by mechanisms distinctly different from those involved in PROTEIN2 action
+670	This effect is maximal at 10(-8) M PROTEIN (a concentration clearly above the normal physiological range of PROTEIN1 concentrations) and involves the V2 receptor pathway, while activation of PROTEIN2 or changes in intracellular calcium are ineffective
+671	This effect is maximal at 10(-8) M PROTEIN1 (a concentration clearly above the normal physiological range of PROTEIN2 concentrations) and involves the V2 receptor pathway, while activation of PROTEIN or changes in intracellular calcium are ineffective
+672	This effect is maximal at 10(-8) M PROTEIN1 (a concentration clearly above the normal physiological range of PROTEIN concentrations) and involves the V2 receptor pathway, while activation of PROTEIN2 or changes in intracellular calcium are ineffective
+673	Activation of EGFR overexpressing 3T3-L1 adipocytes leads to a 3.4 +/- 1.2-fold stimulation of PROTEIN1 activity over basal levels vs. only 1.06 +/- 0.01-fold stimulation by PROTEIN2 
+674	Despite the low levels of PROTEIN1 induced PROTEIN2 activity, PROTEIN stimulated glucose transport activity was similarly inhibited by U73122 (55.9 +/- 13.1% inhibition)
+675	Despite the low levels of PROTEIN1 induced PROTEIN activity, PROTEIN2 stimulated glucose transport activity was similarly inhibited by U73122 (55.9 +/- 13.1% inhibition)
+676	Despite the low levels of PROTEIN induced PROTEIN1 activity, PROTEIN2 stimulated glucose transport activity was similarly inhibited by U73122 (55.9 +/- 13.1% inhibition)
+677	Inhibition of PROTEIN1 activation did not impair either EGF- or PROTEIN2 induced activation of glycogen synthase or incorporation of glucose into lipid, supporting the hypothesis that both EGF- and PROTEIN induced glucose disposal can be independent of GLUT4-mediated glucose transport.
+678	Inhibition of PROTEIN1 activation did not impair either EGF- or PROTEIN induced activation of glycogen synthase or incorporation of glucose into lipid, supporting the hypothesis that both EGF- and PROTEIN2 induced glucose disposal can be independent of GLUT4-mediated glucose transport.
+679	Inhibition of PROTEIN activation did not impair either EGF- or PROTEIN1 induced activation of glycogen synthase or incorporation of glucose into lipid, supporting the hypothesis that both EGF- and PROTEIN2 induced glucose disposal can be independent of GLUT4-mediated glucose transport.
+680	The diminution of glucose transport secondary to inhibition of PROTEIN1 activity was reflected by a decrease in GLUT4 translocation to the plasma membrane upon either EGF or PROTEIN2 stimulation
+681	 PROTEIN1 treated male rats had increased circulating levels of cholecystokinin, a tendency to increased plasma levels of PROTEIN2 (p = 0.066), and relatively more adipose tissue in the thigh and interscapular region, compared with controls
+682	 PROTEIN1 induced activation of PROTEIN2 in renal epithelial cells
+683	 PROTEIN1 induced a biphasic increase in diacylglycerol generation, characterized by an initial rapid rise and then a sustained elevation, and PROTEIN2 activation, reflected by phosphorylation of a specific 80 kDa myristoylated alanine-rich PKC substrate (MARCKS)
+684	These results argue that Ca(2+)-dependent PROTEIN1 is involved in the action of PROTEIN2 and that of other agonists, which stimulate sodium transport
+685	Phorbol myristate acetate (TPA), an activator of PROTEIN1 elicited an increase of MAPK activity, but did not further influence the level of PROTEIN2 -8-enhanced MAPK activity; Nevertheless, the extent of CaMKII activation was attenuated by TPA
+686	A neurotoxic fragment of PROTEIN1 Abeta 25-35, incubated in the presence of endogenous Ca2+, increased significantly the PROTEIN2 activity of normoxic brain
+687	In its non-aggregated form, PROTEIN1 activates PROTEIN2 but in the aggregated form the enzymatic activity decreased
+688	Thus, PROTEIN1 exerts a similar effect on the membrane-bound PROTEIN2 from normoxic brain or subjected to ischemia reperfusion injury
+689	Ischemia-reperfusion injury had no effect on PROTEIN1 evoked alterations of synaptic plasma membrane-bound PROTEIN2 
+690	 PROTEIN1 beta peptide 25-35 modulates hydrolysis of phosphoinositides by membrane PROTEIN2 of adult brain cortex
+691	Fresh-water-soluble PROTEIN1 25-35 activated PROTEIN2 in SPM markedly by two- to threefold, but this effect was absent in the presence of 2 mM CaCl2
+692	Moreover, PROTEIN1 25-35 had no effect on basal PROTEIN activity and cytosolic PROTEIN and PROTEIN2 
+693	Moreover, PROTEIN 25-35 had no effect on basal PROTEIN activity and cytosolic PROTEIN1 and PROTEIN2 
+694	Moreover, PROTEIN 25-35 had no effect on basal PROTEIN1 activity and cytosolic PROTEIN and PROTEIN2 
+695	Moreover, PROTEIN1 25-35 had no effect on basal PROTEIN activity and cytosolic PROTEIN2 and PROTEIN 
+696	Moreover, PROTEIN1 25-35 had no effect on basal PROTEIN2 activity and cytosolic PROTEIN and PROTEIN 
+697	Moreover, PROTEIN 25-35 had no effect on basal PROTEIN1 activity and cytosolic PROTEIN2 and PROTEIN 
+698	The aggregated form of PROTEIN1 25-35 significantly inhibited PROTEIN2 only in the presence of endogenous CaCl2
+699	Hypothalamic PROTEIN1 and its neuroendocrine regulation by PROTEIN2 
+700	Relationship among PROTEIN1 PROTEIN2 and galanin in young women and in postmenopausal women [see comments]
+701	OBJECTIVE: To determine whether hormonal status may affect PROTEIN1 (NPY), galanin, and PROTEIN2 release in postmenopausal women and in young women
+702	CONCLUSIONS: Our results suggest that the differences is plasma PROTEIN1 PROTEIN and galanin between postmenopausal women and young women may be related to body mass index rather than to differences in hormonal status and that the higher PROTEIN2 levels in both lean and obese postmenopausal women than in young women indicate that factors other than body mass index may be involved
+703	CONCLUSIONS: Our results suggest that the differences is plasma PROTEIN PROTEIN1 and galanin between postmenopausal women and young women may be related to body mass index rather than to differences in hormonal status and that the higher PROTEIN2 levels in both lean and obese postmenopausal women than in young women indicate that factors other than body mass index may be involved
+704	CONCLUSIONS: Our results suggest that the differences is plasma PROTEIN1 PROTEIN2 and galanin between postmenopausal women and young women may be related to body mass index rather than to differences in hormonal status and that the higher PROTEIN levels in both lean and obese postmenopausal women than in young women indicate that factors other than body mass index may be involved
+705	Thus, highly expressed in human adipocytes, the Y(1) receptor sustains the strong antilipolytic effect of PROTEIN1 and exerts a positive action on PROTEIN2 secretion
+706	As expected, in fusion of PROTEIN1 alone (18 microg/day) augmented food intake (191.6% over the initial control, P < 0.05) and produced a 25.1% weight gain in conjunction with a 10-fold increase in serum PROTEIN2 concentrations at the end of the 7-day period
+707	Interestingly, coinfusion of this regimen of PROTEIN with the highly effective anorectic and body reducing effects of CNTF (5.0 microg/day) not only prevented the CNTF-induced anorexia and weight loss, but also normalized serum PROTEIN1 concentrations and hypothalamic PROTEIN2 gene expression
+708	Interestingly, coinfusion of this regimen of PROTEIN1 with the highly effective anorectic and body reducing effects of CNTF (5.0 microg/day) not only prevented the CNTF-induced anorexia and weight loss, but also normalized serum PROTEIN2 concentrations and hypothalamic PROTEIN gene expression
+709	Interestingly, coinfusion of this regimen of PROTEIN1 with the highly effective anorectic and body reducing effects of CNTF (5.0 microg/day) not only prevented the CNTF-induced anorexia and weight loss, but also normalized serum PROTEIN concentrations and hypothalamic PROTEIN2 gene expression
+710	These results demonstrate that chronic central infusion to produce a persistent elevation of the cytokine at pathophysiological levels (a situation that may normally manifest during infection, injury and inflammation) produced severe anorexia and weight loss in conjunction with reduction in both serum PROTEIN1 concentrations and hypothalamic PROTEIN2 gene expression
+711	The ARC PROTEIN1 neurones are stimulated by starvation, probably mediated by falls in circulating PROTEIN2 and insulin (which both inhibit these neurones), and contribute to the increased hunger in this and other conditions of energy deficit
+712	ARC PROTEIN neurones also mediate hyperphagia and obesity in the ob/ob and db/db mice and fa/fa rat, in which PROTEIN1 inhibition is lost through mutations affecting PROTEIN2 or its receptor
+713	ARC PROTEIN1 neurones also mediate hyperphagia and obesity in the ob/ob and db/db mice and fa/fa rat, in which PROTEIN2 inhibition is lost through mutations affecting PROTEIN or its receptor
+714	ARC PROTEIN1 neurones also mediate hyperphagia and obesity in the ob/ob and db/db mice and fa/fa rat, in which PROTEIN inhibition is lost through mutations affecting PROTEIN2 or its receptor
+715	Both receive information about the nutritional status and the level of energy storage through insulin and PROTEIN1 signaling mediated by specific receptors located on POMC and PROTEIN2 neurons present predominantly in the arcuate nucleus (ARC).
+716	When PROTEIN1 signaling is defective, through a defect in either the receptor (Zucker fa/fa rat, cp/cp rat, and db/db mouse) or in the peptide itself (ob/ob mouse), the PROTEIN2 system is upregulated as shown by mRNA overexpression and increased peptide release, whereas the content and/or release of some inhibitory peptides (neurotensin, cholecystokinin) are diminished.
+717	During wk 6, milk yield and dry matter intake (DMI) were recorded daily, and plasma concentrations of glucose, nonesterified fatty acids, urea, protein, growth hormone, PROTEIN1 insulin-like growth factor I, PROTEIN2 and prolactin were determined
+718	Concurrent decrease of PROTEIN1 and PROTEIN2 immunoreactivity during the light phase in the vole suprachiasmatic nucleus
+719	Mean numbers of PROTEIN1 and PROTEIN2 immunoreactive neurons were determined in the suprachiasmatic nucleus of common voles, entrained to a 12:12 h light-dark (LD) cycle, at the beginning of the light period (zeitgeber time zero) and 6 h later (zeitgeber time six)
+720	At zeitgeber time zero, mean numbers of PROTEIN1 and PROTEIN2 immunoreactive neurons were 2194 and 9897, respectively
+721	The distribution of PROTEIN1 (AVP) cells in the SCN overlapped with that of PROTEIN2 in both species
+722	Species differences in the location of the Ca2+-dependent PROTEIN1 isoforms suggest differences in function such as the relaying of photic or non-photic information to the clock mechanism, or the synchronization of PROTEIN2 neurons and their subsequent output signals
+723	The two groups were similar in their morning thyroxin, triiodothyronine, TSH, estradiol, cortisol, gastrin, cholecystokinin, somatostatin, PROTEIN1 PROTEIN2 and IGF-1 levels
+724	The deduced consensus closely resembled PROTEIN1 response elements in PROTEIN2 promoters

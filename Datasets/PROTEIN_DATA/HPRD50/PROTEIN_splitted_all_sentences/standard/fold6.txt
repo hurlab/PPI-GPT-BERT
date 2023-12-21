@@ -1,0 +1,50 @@
+Sentence ID	Sentence	isValid
+207	Cloning and characterization of two evolutionarily conserved subunits ( PROTEIN1 and PROTEIN2 of human PROTEIN and their involvement in functional interactions with TFIIIB and RNA polymerase III	False
+208	Cloning and characterization of two evolutionarily conserved subunits ( PROTEIN and PROTEIN1 of human PROTEIN2 and their involvement in functional interactions with TFIIIB and RNA polymerase III	False
+209	Cloning and characterization of two evolutionarily conserved subunits ( PROTEIN1 and PROTEIN of human PROTEIN2 and their involvement in functional interactions with TFIIIB and RNA polymerase III	False
+210	 PROTEIN1 and PROTEIN are PROTEIN2 cyclinB1 kinase inhibitors with a role in S and G2/M cell cycle checkpoints induced by genotoxic stress	True
+211	 PROTEIN1 and PROTEIN2 are PROTEIN cyclinB1 kinase inhibitors with a role in S and G2/M cell cycle checkpoints induced by genotoxic stress	False
+212	 PROTEIN and PROTEIN1 are PROTEIN2 cyclinB1 kinase inhibitors with a role in S and G2/M cell cycle checkpoints induced by genotoxic stress	True
+213	 PROTEIN1 ( PROTEIN , PROTEIN ( PROTEIN , and PROTEIN ( PROTEIN2 constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis	False
+214	 PROTEIN1 ( PROTEIN , PROTEIN2 ( PROTEIN , and PROTEIN ( PROTEIN constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis	False
+215	 PROTEIN1 ( PROTEIN2 , PROTEIN ( PROTEIN , and PROTEIN ( PROTEIN constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis	False
+216	 PROTEIN1 ( PROTEIN , PROTEIN ( PROTEIN2 , and PROTEIN ( PROTEIN constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis	False
+217	 PROTEIN1 ( PROTEIN , PROTEIN ( PROTEIN , and PROTEIN2 ( PROTEIN constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis	False
+218	 PROTEIN ( PROTEIN , PROTEIN1 ( PROTEIN , and PROTEIN ( PROTEIN2 constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis	False
+219	 PROTEIN ( PROTEIN1 , PROTEIN ( PROTEIN , and PROTEIN ( PROTEIN2 constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis	False
+220	 PROTEIN ( PROTEIN , PROTEIN ( PROTEIN1 , and PROTEIN ( PROTEIN2 constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis	False
+221	 PROTEIN ( PROTEIN , PROTEIN ( PROTEIN , and PROTEIN1 ( PROTEIN2 constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis	False
+222	 PROTEIN ( PROTEIN1 , PROTEIN2 ( PROTEIN , and PROTEIN ( PROTEIN constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis	False
+223	 PROTEIN ( PROTEIN , PROTEIN1 ( PROTEIN2 , and PROTEIN ( PROTEIN constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis	False
+224	 PROTEIN ( PROTEIN , PROTEIN1 ( PROTEIN , and PROTEIN2 ( PROTEIN constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis	False
+225	 PROTEIN ( PROTEIN1 , PROTEIN ( PROTEIN2 , and PROTEIN ( PROTEIN constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis	False
+226	 PROTEIN ( PROTEIN1 , PROTEIN ( PROTEIN , and PROTEIN2 ( PROTEIN constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis	False
+227	 PROTEIN ( PROTEIN , PROTEIN ( PROTEIN1 , and PROTEIN2 ( PROTEIN constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis	False
+228	Recent evidence has implicated PROTEIN1 in inhibition of PROTEIN2 cyclinB1 kinase and in G2/M cell cycle arrest	True
+229	Yet, whether PROTEIN1 and/or PROTEIN function as inhibitors of PROTEIN2 cyclinB1 kinase and/or play a role in G2/M cell cycle arrest has not been fully established	True
+230	Yet, whether PROTEIN and/or PROTEIN1 function as inhibitors of PROTEIN2 cyclinB1 kinase and/or play a role in G2/M cell cycle arrest has not been fully established	True
+231	Yet, whether PROTEIN1 and/or PROTEIN2 function as inhibitors of PROTEIN cyclinB1 kinase and/or play a role in G2/M cell cycle arrest has not been fully established	False
+232	In this work, we show that PROTEIN1 and PROTEIN2 specifically interact with the PROTEIN CyclinB1 complex, but not with other Cdk/Cyclin complexes, in vitro and in vivo	False
+233	In this work, we show that PROTEIN1 and PROTEIN specifically interact with the PROTEIN2 CyclinB1 complex, but not with other Cdk/Cyclin complexes, in vitro and in vivo	True
+234	In this work, we show that PROTEIN and PROTEIN1 specifically interact with the PROTEIN2 CyclinB1 complex, but not with other Cdk/Cyclin complexes, in vitro and in vivo	True
+235	Data also has been obtained that PROTEIN1 and PROTEIN as well as PROTEIN interact with both PROTEIN2 and cyclinB1, resulting in inhibition of the kinase activity of the PROTEIN cyclinB1 complex	True
+236	Data also has been obtained that PROTEIN and PROTEIN1 as well as PROTEIN interact with both PROTEIN2 and cyclinB1, resulting in inhibition of the kinase activity of the PROTEIN cyclinB1 complex	True
+237	Data also has been obtained that PROTEIN and PROTEIN as well as PROTEIN1 interact with both PROTEIN2 and cyclinB1, resulting in inhibition of the kinase activity of the PROTEIN cyclinB1 complex	True
+238	Data also has been obtained that PROTEIN and PROTEIN as well as PROTEIN interact with both PROTEIN1 and cyclinB1, resulting in inhibition of the kinase activity of the PROTEIN2 cyclinB1 complex	False
+239	Data also has been obtained that PROTEIN1 and PROTEIN2 as well as PROTEIN interact with both PROTEIN and cyclinB1, resulting in inhibition of the kinase activity of the PROTEIN cyclinB1 complex	False
+240	Data also has been obtained that PROTEIN1 and PROTEIN as well as PROTEIN2 interact with both PROTEIN and cyclinB1, resulting in inhibition of the kinase activity of the PROTEIN cyclinB1 complex	False
+241	Data also has been obtained that PROTEIN1 and PROTEIN as well as PROTEIN interact with both PROTEIN and cyclinB1, resulting in inhibition of the kinase activity of the PROTEIN2 cyclinB1 complex	True
+242	Data also has been obtained that PROTEIN and PROTEIN1 as well as PROTEIN2 interact with both PROTEIN and cyclinB1, resulting in inhibition of the kinase activity of the PROTEIN cyclinB1 complex	False
+243	Data also has been obtained that PROTEIN and PROTEIN1 as well as PROTEIN interact with both PROTEIN and cyclinB1, resulting in inhibition of the kinase activity of the PROTEIN2 cyclinB1 complex	True
+244	Data also has been obtained that PROTEIN and PROTEIN as well as PROTEIN1 interact with both PROTEIN and cyclinB1, resulting in inhibition of the kinase activity of the PROTEIN2 cyclinB1 complex	True
+245	Inhibition of PROTEIN cyclinB1 kinase activity by PROTEIN1 and PROTEIN was found to involve disruption of the complex, whereas PROTEIN2 did not disrupt the complex	False
+246	Inhibition of PROTEIN cyclinB1 kinase activity by PROTEIN1 and PROTEIN2 was found to involve disruption of the complex, whereas PROTEIN did not disrupt the complex	False
+247	Inhibition of PROTEIN1 cyclinB1 kinase activity by PROTEIN2 and PROTEIN was found to involve disruption of the complex, whereas PROTEIN did not disrupt the complex	True
+248	Inhibition of PROTEIN cyclinB1 kinase activity by PROTEIN and PROTEIN1 was found to involve disruption of the complex, whereas PROTEIN2 did not disrupt the complex	False
+249	Inhibition of PROTEIN1 cyclinB1 kinase activity by PROTEIN and PROTEIN was found to involve disruption of the complex, whereas PROTEIN2 did not disrupt the complex	False
+250	Inhibition of PROTEIN1 cyclinB1 kinase activity by PROTEIN and PROTEIN2 was found to involve disruption of the complex, whereas PROTEIN did not disrupt the complex	True
+251	The tyrosine kinase PROTEIN1 is physically associated with the Type I interferon ( PROTEIN receptor complex and is rapidly activated during PROTEIN2 stimulation	True
+252	The tyrosine kinase PROTEIN is physically associated with the Type I interferon ( PROTEIN1 receptor complex and is rapidly activated during PROTEIN2 stimulation	False
+253	The tyrosine kinase PROTEIN1 is physically associated with the Type I interferon ( PROTEIN2 receptor complex and is rapidly activated during PROTEIN stimulation	True
+254	 PROTEIN1 interaction with PROTEIN2 phosphatase ties mitogenic signal transduction to cell cycle activation	True
+255	We show here that PROTEIN1 phosphatase associates with PROTEIN2 in somatic mammalian cells and in meiotic frog oocytes	True

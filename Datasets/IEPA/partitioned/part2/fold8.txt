@@ -1,0 +1,30 @@
+Sentence_ID	Sentence
+IEPA.d131.s316	Vasopressin stimulates tyrosine phosphorylation by activation of PKC in the rat smooth muscle cell line, A-10
+IEPA.d131.s317	The protein kinase C (PKC) inhibitors: staurosporine, H7 and GF109203X are able to block the AVP-stimulated phosphorylation
+IEPA.d131.s318	These results indicate that PKC is upstream of the phosphorylation, a motion which is supported by the fact that the AVP-stimulated phosphorylation was downregulated by phorbol esters
+IEPA.d147.s357	Ten protein kinases have been assayed for their ability to phosphorylate in vitro the recombinant bovine PrP (25-242) (rbPrP)
+IEPA.d147.s358	With regard to CK2, phosphorylation occurs at Ser 154 with a stoichiometry of about 0.1 mol phosphate/mol rbPrP, which is doubled by mild heat treatment of rbPrP
+IEPA.d159.s382	In the fasting state UCP-2 expression correlated inversely with body mass index (r = -0.45; P = 0.026), percent body fat (r = -0.41; P = 0.05), plasma insulin (r = -0.47; P = 0.02), epigastric venous fatty acids (r = -0.45; P = 0.04), and leptin (r = -0.50; P = 0.018)
+IEPA.d159.s383	UCP-2 expression remained inversely related with plasma leptin after controlling for percent body (r = -0.45; P = 0.038)
+IEPA.d159.s384	In conclusion, 1) UCP-2 messenger ribonucleic acid expression in sc adipose tissue is inversely related to adiposity and independently linked to local plasma leptin levels; and 2) UCP-2 expression is not acutely regulated by food intake, insulin, or fatty acids
+IEPA.d180.s431	A loop system exists between hypothalamic neuropeptide Y (NPY) and peripheral adipose tissue leptin to maintain normal body homeostasis
+IEPA.d180.s432	When infused i.c.v. to normal rats to mimic its central effects, leptin decreases NPY levels, thus food intake and body weight
+IEPA.d180.s433	Circadian fluctuations of NPY and leptin levels maintain normal body homeostasis
+IEPA.d180.s434	Leptin increases the expression of uncoupling proteins (UCP-1, -2, -3) and thus energy dissipation
+IEPA.d192.s460	Compared with the wild type, GA induction of alpha-amylase activity in aleurone cells of d1 was greatly reduced
+IEPA.d192.s461	Relative to the wild type, the GA(3)-treated aleurone layer of d1 had lower expression of Ramy1A, which encodes alpha-amylase, and OsGAMYB, which encodes a GA-inducible transcriptional factor, and no increase in expression of Ca(2 +)-ATPase
+IEPA.d192.s462	However, in the presence of high GA concentrations, alpha-amylase induction occurred even in d1
+IEPA.d192.s463	All these results suggest that d1 affects a part of the GA-signaling pathway, namely the induction of alpha-amylase in the aleurone layer and internode elongation
+IEPA.d198.s483	Arcuate nucleus NPY mRNA increased in rats given protein-free diet, correlating with leptin rather than decreased feeding
+IEPA.d6.s11	Carbachol and oxytocin stimulate the generation of inositol phosphates in the guinea pig myometrium
+IEPA.d6.s12	In the guinea pig myometrium prelabelled with myo-[2-3H]inositol, carbachol and oxytocin enhanced a concentration-dependent and rapid release of IP3 which preceded that of IP2 and IP1
+IEPA.d145.s346	Aggregated beta amyloid peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic phospholipase C in brain cortex
+IEPA.d145.s347	The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific phospholipase C (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats
+IEPA.d145.s348	Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of PLC
+IEPA.d145.s349	This additionally supports the inhibitory effect of A(beta) on membrane-bound and cytosolic PLC
+IEPA.d145.s350	Moreover, A(beta) (1-40) significantly decreased the basal activity of the PIP2-PLC in SPM and the enzyme activity regulated through cholinergic receptors
+IEPA.d170.s410	Influence of obesity and menopausal status on serum leptin, cholecystokinin, galanin and neuropeptide Y levels
+IEPA.d170.s411	Obesity occurs in 60% of women after menopause and is characterized by an excess of adipose tissue that depends on several orexigenic (neuropeptide Y (NPY) stimulates carbohydrate ingestion, galanin stimulates fat intake) and anorectic (leptin, cholecystokinin (CCK)) factors
+IEPA.d170.s412	Both leptin and insulin can reduce hypothalamic NPY production and secretion
+IEPA.d170.s413	We investigated basal levels of serum leptin, CCK, galanin and NPY in 16 non-obese premenopausal women, in 15 obese premenopausal women (body mass index (BMI) 34.6 +/- 1.3 SD) and in ten obese postmenopausal women (BMI 34.7 +/- 1.5 SD) to determine the relationship between obesity, menopause and these neuropeptides
+IEPA.d170.s414	Significantly increased leptin and galanin levels in postmenopausal obese women coupled with decreased NPY levels revealed some changes in the neuropeptides regulating eating behavior, which may be the reason for the onset of postmenopausal obesity

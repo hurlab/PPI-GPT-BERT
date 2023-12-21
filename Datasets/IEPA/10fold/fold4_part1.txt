@@ -1,0 +1,20 @@
+Sentence ID	Sentence
+IEPA.d18.s40	The relative risks between highest and lowest quarters of flavonoid intake adjusted for age, smoking, serum cholesterol concentration, blood pressure, and body mass index were 0.69 (95% confidence interval 0.53 to 0.90) and 0.54 (0.33 to 0.87) for total and coronary mortality, respectively
+IEPA.d33.s71	Correlation between the stimulatory effect of oxytocin on the formation of inositol phosphates and the oxytocin receptor level in the pregnant rabbit myometrium
+IEPA.d33.s72	OBJECTIVE: In order to elucidate the roles of inositol trisphosphate (IP3) and oxytocin (OT) receptors in rabbit parturition, the concentration of IP3 induced by OT and the OT receptor levels were determined in rabbit myometria before and after parturition
+IEPA.d33.s73	METHODS: The effects of OT on IP3 formation and OT receptor levels were determined in the myometria of non-pregnant rabbits, Days 26, 28 and 30 of pregnancy rabbits, postpartum rabbits within 12 hours and steroid-treated ovariectomized rabbits
+IEPA.d33.s74	RESULTS: OT receptors were not detectable in the myometria of non-pregnant rabbits, and OT had no effect on the formation of inositol phosphates (IPs)
+IEPA.d33.s75	On Day 28 of pregnancy, OT receptors became detectable, and then OT could induce the formation of IPs
+IEPA.d33.s76	Thereafter, the stimulatory effects of OT on IPs formation and the OT receptor levels dramatically increased toward the end of pregnancy and reduced rapidly after parturition
+IEPA.d33.s77	When the ovariectomized pregnant rabbits were treated with estrogen, OT receptors in the myometrium were induced, and OT acquired the ability to stimulate IP3 formation
+IEPA.d33.s78	In addition, an OT receptor antagonist inhibited the stimulatory effects of OT on IP3 formation
+IEPA.d33.s79	CONCLUSIONS: These results suggest that the formation of IPs by OT, the OT receptor levels in the myometrium, and the production of PGF2 in the decidua might play crucial roles in parturition
+IEPA.d70.s171	Inhibition of 5-HT3 serotonergic receptors with ondansetron (4 or 8 mg) did not modify the basal secretion of AVP and OT and the OT response to insulin-induced hypoglycemia
+IEPA.d80.s190	To explore the possible roles of the hypothalamic melanocortin system in leptin action, we examined the effects of intracerebroventricular (i.c.v.) injection of leptin with or without SHU9119, a potent antagonist of alpha-melanocyte stimulating hormone, on food intake, body weight, and mitochondrial uncoupling protein-1 (UCP-1) mRNA expression in the brown adipose tissue (BAT) in rats
+IEPA.d80.s191	A single i.c.v. injection of leptin decreased cumulative food intake and body weight gain, and increased UCP-1 mRNA expression during 3 h at the onset of the dark phase
+IEPA.d80.s192	Co-injection of SHU9119 also inhibited completely the leptin-induced increase in UCP-1 mRNA expression in the BAT
+IEPA.d81.s193	It has been established that amyloid beta peptide (AbetaP) activates phospholipase A2, phospholipase C and phospholipase D of LA-N-2 cells and other cell types
+IEPA.d81.s194	(-)Nicotine did not blunt the AbetaP activation of phospholipase C
+IEPA.d97.s234	The specific protein kinase C (PKC) inhibitor chelerythrine (5 micrometers) inhibited PTH-, AVP-, PGE2-, and adenosine-stimulated Ca2+ reabsorption by 77%, 67%, 79%, and 100%, respectively
+IEPA.d97.s235	CONCLUSION: PTH, AVP, PGE2, and adenosine stimulate Ca2+ reabsorption via a pathway that is independent of cAMP and that involves a phorbol ester-insensitive PKC isotype
+IEPA.d113.s272	The experiments were concluded by taking blood samples for later analysis of plasma glucose and plasma levels of the following hormones: insulin, gastrin, CCK, glucagon, somatostatin, oxytocin and corticosterone

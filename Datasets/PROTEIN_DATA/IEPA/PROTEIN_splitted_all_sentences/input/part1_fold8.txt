@@ -1,0 +1,41 @@
+Sentence ID	Sentence
+582	 PROTEIN1 stimulates PROTEIN2 production in dose-dependent fashion as well
+583	 PROTEIN1 and PROTEIN2 binding in human myometrium
+584	They are needed for the catabolism of PROTEIN1 bile acids, and steroid hormones; they hydrolyze a number of PROTEIN2 glycosides to anticarcinogens; and they detoxify certain carcinogens
+585	Furthermore, treatment of isolated rat diaphragms and adipocytes with PIG-P as well as with other agents exerting partially PROTEIN1 mimetic activity, such as PI-specific PROTEIN2 (PLC) and the sulfonylurea glimepiride, triggered tyrosine phosphorylation of the caveolar marker protein caveolin, which was apparently correlated with stimulation of lipogenesis
+586	Strikingly, in adipocytes subjected to combined trypsin/salt treatment, PIG-P, PI-specific PROTEIN1 and glimepiride failed completely to provoke PROTEIN2 mimetic effects
+587	Neural site of PROTEIN1 influence on neuropeptide Y signaling pathways altering feeding and PROTEIN2 
+588	NPY in the PVN increases feeding and decreases PROTEIN1 (UCP) activity in brown fat, whereas PROTEIN2 decreases NPY biosynthesis in the Arc, which presumably decreases PVN NPY
+589	Next, we determined that PROTEIN1 decreases NPY and increases PROTEIN2 gene expression
+590	Furthermore, immunocytochemical studies showed the PROTEIN1 induced neuronal MAC expression on the SH-SY5Y cells after CD59 was removed by PROTEIN2 or blocked by anti-CD59 antibody
+591	 PROTEIN1 PROTEIN2 and PROTEIN gene expression: modulation by food restriction and PROTEIN 
+592	 PROTEIN1 PROTEIN and PROTEIN gene expression: modulation by food restriction and PROTEIN2 
+593	 PROTEIN1 PROTEIN and PROTEIN2 gene expression: modulation by food restriction and PROTEIN 
+594	 PROTEIN PROTEIN1 and PROTEIN gene expression: modulation by food restriction and PROTEIN2 
+595	 PROTEIN PROTEIN1 and PROTEIN2 gene expression: modulation by food restriction and PROTEIN 
+596	 PROTEIN PROTEIN and PROTEIN1 gene expression: modulation by food restriction and PROTEIN2 
+597	To determine the effects of food restriction and PROTEIN1 administration on several transcripts involved in energy homeostasis, we examined PROTEIN2 PROTEIN (UCP) 1, 2 and 3, lipoprotein lipase (LPL), beta3-adrenergic receptors (beta3AR) and hormone-sensitive lipase (HSL) mRNA levels in brown adipose tissue (BAT) and epididymal (EWAT) and perirenal (PWAT) white adipose tissue in three groups of rats
+598	To determine the effects of food restriction and PROTEIN1 administration on several transcripts involved in energy homeostasis, we examined PROTEIN PROTEIN2 (UCP) 1, 2 and 3, lipoprotein lipase (LPL), beta3-adrenergic receptors (beta3AR) and hormone-sensitive lipase (HSL) mRNA levels in brown adipose tissue (BAT) and epididymal (EWAT) and perirenal (PWAT) white adipose tissue in three groups of rats
+599	To determine the effects of food restriction and PROTEIN administration on several transcripts involved in energy homeostasis, we examined PROTEIN1 PROTEIN2 (UCP) 1, 2 and 3, lipoprotein lipase (LPL), beta3-adrenergic receptors (beta3AR) and hormone-sensitive lipase (HSL) mRNA levels in brown adipose tissue (BAT) and epididymal (EWAT) and perirenal (PWAT) white adipose tissue in three groups of rats
+600	 PROTEIN1 increased LPL mRNA by 80%, PROTEIN mRNA twofold, and PROTEIN mRNA levels by 62% in BAT, and increased PROTEIN2 mRNA levels twofold in EWAT
+601	 PROTEIN increased LPL mRNA by 80%, PROTEIN1 mRNA twofold, and PROTEIN mRNA levels by 62% in BAT, and increased PROTEIN2 mRNA levels twofold in EWAT
+602	 PROTEIN increased LPL mRNA by 80%, PROTEIN mRNA twofold, and PROTEIN1 mRNA levels by 62% in BAT, and increased PROTEIN2 mRNA levels twofold in EWAT
+603	 PROTEIN1 increased LPL mRNA by 80%, PROTEIN2 mRNA twofold, and PROTEIN mRNA levels by 62% in BAT, and increased PROTEIN mRNA levels twofold in EWAT
+604	 PROTEIN1 increased LPL mRNA by 80%, PROTEIN mRNA twofold, and PROTEIN2 mRNA levels by 62% in BAT, and increased PROTEIN mRNA levels twofold in EWAT
+605	 PROTEIN increased LPL mRNA by 80%, PROTEIN1 mRNA twofold, and PROTEIN2 mRNA levels by 62% in BAT, and increased PROTEIN mRNA levels twofold in EWAT
+606	The present study indicates that PROTEIN increases the gene expression of PROTEIN in EWAT and that of PROTEIN1 PROTEIN2 and LPL in BAT, whereas reduced food consumption but not leptin, decreases LPL expression in WAT
+607	The present study indicates that PROTEIN1 increases the gene expression of PROTEIN in EWAT and that of PROTEIN PROTEIN2 and LPL in BAT, whereas reduced food consumption but not leptin, decreases LPL expression in WAT
+608	The present study indicates that PROTEIN increases the gene expression of PROTEIN1 in EWAT and that of PROTEIN PROTEIN2 and LPL in BAT, whereas reduced food consumption but not leptin, decreases LPL expression in WAT
+609	The present study indicates that PROTEIN1 increases the gene expression of PROTEIN in EWAT and that of PROTEIN2 PROTEIN and LPL in BAT, whereas reduced food consumption but not leptin, decreases LPL expression in WAT
+610	The present study indicates that PROTEIN increases the gene expression of PROTEIN1 in EWAT and that of PROTEIN2 PROTEIN and LPL in BAT, whereas reduced food consumption but not leptin, decreases LPL expression in WAT
+611	The present study indicates that PROTEIN1 increases the gene expression of PROTEIN2 in EWAT and that of PROTEIN PROTEIN and LPL in BAT, whereas reduced food consumption but not leptin, decreases LPL expression in WAT
+612	 PROTEIN1 (OT) is more expressed in the TEC/TNC than vasopressin (VP); insulin-like growth factor 2 (IGF-2) thymic expression predominates over IGF-1, and much more over PROTEIN2 
+613	Thus, PROTEIN1 was proposed to be the self antigen of the neurohypophysial family, and IGF-2 the self antigen precursor of the PROTEIN2 family
+614	We observed that primary microglial cultures and the THP-1 monocytic cell line are stimulated by fibrillar beta-amyloid and PROTEIN1 peptides to activate identical PROTEIN2 dependent inflammatory signal transduction cascades
+615	Molecular characterization of catalytic-subunit cDNA sequences encoding protein phosphatases 1 and 2A and study of their roles in the PROTEIN1 dependent PROTEIN2 expression in rice
+616	To understand the molecular mechanism of PROTEIN1 dependent gene regulation, the effect of three phosphatase inhibitors on the germination of rice seeds and the expression of a target gene, the PROTEIN2 gene, Osamy-c, were measured
+617	To further understand the possible role of protein phosphatases 1 and 2A in the PROTEIN1 dependent expression of PROTEIN2 we isolated cDNA clones encoding protein phosphatase 1 and protein phosphatase 2A from a rice aleurone cDNA library
+618	Taken together, our results suggest that protein phosphatases PP1 or PP2A are involved in the PROTEIN1 dependent expression of the rice PROTEIN2 gene, though the PP1 or/and PP2A enzymatic activities as well as mRNA levels do not increase upon GA3 treatment
+619	 PROTEIN1 treatment of fetal guinea pig brain cultures substantially reduced the amount of PROTEIN and PROTEIN2 in the medium but had no effect on sAPPalpha
+620	 PROTEIN1 treatment of fetal guinea pig brain cultures substantially reduced the amount of PROTEIN2 and PROTEIN in the medium but had no effect on sAPPalpha
+621	 PROTEIN treatment of fetal guinea pig brain cultures substantially reduced the amount of PROTEIN1 and PROTEIN2 in the medium but had no effect on sAPPalpha

@@ -1,0 +1,54 @@
+Sentence ID	Sentence	isValid
+106	The first stage, which involves the phosphatase function of PROTEIN depends on the cell division protein PROTEIN1 and could correspond to the PROTEIN dependent assembly of PROTEIN2 into E-rings.	False
+107	The first stage, which involves the phosphatase function of PROTEIN1 depends on the cell division protein PROTEIN and could correspond to the PROTEIN dependent assembly of PROTEIN2 into E-rings.	False
+108	The first stage, which involves the phosphatase function of PROTEIN depends on the cell division protein PROTEIN and could correspond to the PROTEIN1 dependent assembly of PROTEIN2 into E-rings.	True
+109	The first stage, which involves the phosphatase function of PROTEIN1 depends on the cell division protein PROTEIN2 and could correspond to the PROTEIN dependent assembly of PROTEIN into E-rings.	True
+110	The first stage, which involves the phosphatase function of PROTEIN depends on the cell division protein PROTEIN1 and could correspond to the PROTEIN2 dependent assembly of PROTEIN into E-rings.	False
+111	The first stage, which involves the phosphatase function of PROTEIN1 depends on the cell division protein PROTEIN and could correspond to the PROTEIN2 dependent assembly of PROTEIN into E-rings.	False
+112	Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that PROTEIN1 blocks the capacity of unphosphorylated PROTEIN2 to activate PROTEIN until formation of the polar septum is completed.	True
+113	Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that PROTEIN blocks the capacity of unphosphorylated PROTEIN1 to activate PROTEIN2 until formation of the polar septum is completed.	True
+114	Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that PROTEIN1 blocks the capacity of unphosphorylated PROTEIN to activate PROTEIN2 until formation of the polar septum is completed.	False
+115	Cell-specific activation of transcription factor PROTEIN1 during sporulation in Bacillus subtilis requires the formation of the polar septum and the activity of a serine phosphatase ( PROTEIN2 located in the septum.	True
+116	The PROTEIN1 phosphatase indirectly activates PROTEIN by dephosphorylating a protein ( PROTEIN2 in the pathway that controls the activity of the transcription factor.	True
+117	The PROTEIN phosphatase indirectly activates PROTEIN1 by dephosphorylating a protein ( PROTEIN2 in the pathway that controls the activity of the transcription factor.	True
+118	The PROTEIN1 phosphatase indirectly activates PROTEIN2 by dephosphorylating a protein ( PROTEIN in the pathway that controls the activity of the transcription factor.	True
+119	Most PROTEIN genes, and the PROTEIN1 gene, are transcribed by PROTEIN2 RNA polymerase.	True
+120	Most PROTEIN1 genes, and the PROTEIN gene, are transcribed by PROTEIN2 RNA polymerase.	True
+121	Most PROTEIN1 genes, and the PROTEIN2 gene, are transcribed by PROTEIN RNA polymerase.	False
+122	Previously, it was shown that the PROTEIN1 protein inhibits transcription in vitro of the PROTEIN2 gene encoding sigmaK.	True
+123	These results demonstrate that PROTEIN1 dependent transcription of PROTEIN initiates a negative feedback loop in which PROTEIN2 acts as a repressor to limit production of PROTEIN 	False
+124	These results demonstrate that PROTEIN1 dependent transcription of PROTEIN2 initiates a negative feedback loop in which PROTEIN acts as a repressor to limit production of PROTEIN 	True
+125	These results demonstrate that PROTEIN1 dependent transcription of PROTEIN initiates a negative feedback loop in which PROTEIN acts as a repressor to limit production of PROTEIN2 	False
+126	These results demonstrate that PROTEIN dependent transcription of PROTEIN1 initiates a negative feedback loop in which PROTEIN2 acts as a repressor to limit production of PROTEIN 	False
+127	These results demonstrate that PROTEIN dependent transcription of PROTEIN initiates a negative feedback loop in which PROTEIN1 acts as a repressor to limit production of PROTEIN2 	True
+128	These results demonstrate that PROTEIN dependent transcription of PROTEIN1 initiates a negative feedback loop in which PROTEIN acts as a repressor to limit production of PROTEIN2 	False
+129	A low level of PROTEIN1 activated transcription of PROTEIN by PROTEIN2 RNA polymerase in vitro, but a higher level of PROTEIN repressed PROTEIN transcription.	True
+130	A low level of PROTEIN1 activated transcription of PROTEIN by PROTEIN RNA polymerase in vitro, but a higher level of PROTEIN repressed PROTEIN2 transcription.	False
+131	A low level of PROTEIN1 activated transcription of PROTEIN by PROTEIN RNA polymerase in vitro, but a higher level of PROTEIN2 repressed PROTEIN transcription.	False
+132	A low level of PROTEIN1 activated transcription of PROTEIN2 by PROTEIN RNA polymerase in vitro, but a higher level of PROTEIN repressed PROTEIN transcription.	True
+133	A low level of PROTEIN activated transcription of PROTEIN by PROTEIN1 RNA polymerase in vitro, but a higher level of PROTEIN repressed PROTEIN2 transcription.	False
+134	A low level of PROTEIN activated transcription of PROTEIN by PROTEIN1 RNA polymerase in vitro, but a higher level of PROTEIN2 repressed PROTEIN transcription.	False
+135	A low level of PROTEIN activated transcription of PROTEIN1 by PROTEIN2 RNA polymerase in vitro, but a higher level of PROTEIN repressed PROTEIN transcription.	True
+136	A low level of PROTEIN activated transcription of PROTEIN by PROTEIN RNA polymerase in vitro, but a higher level of PROTEIN1 repressed PROTEIN2 transcription.	True
+137	A low level of PROTEIN activated transcription of PROTEIN1 by PROTEIN RNA polymerase in vitro, but a higher level of PROTEIN repressed PROTEIN2 transcription.	False
+138	A low level of PROTEIN activated transcription of PROTEIN1 by PROTEIN RNA polymerase in vitro, but a higher level of PROTEIN2 repressed PROTEIN transcription.	False
+139	Here, we show that PROTEIN1 binds near the PROTEIN2 transcriptional start site, to act as a repressor.	True
+140	We show that PROTEIN1 binds to two sites that span the -35 region of the PROTEIN2 promoter.	True
+141	These results suggest that a rising level of PROTEIN1 in sporulating cells may first activate PROTEIN2 transcription from the upstream site then repress transcription as the downstream site becomes occupied.	True
+142	A PROTEIN1 dependent promoter (PW) precedes PROTEIN2 demonstrating that this transcription factor is positively autoregulated.	True
+143	The PROTEIN1 dependent promoter drives expression of PROTEIN2 under stress conditions and after glucose starvation, whereas a PROTEIN dependent promoter is responsible for PROTEIN transcription following amino acid limitation.	True
+144	The PROTEIN dependent promoter drives expression of PROTEIN1 under stress conditions and after glucose starvation, whereas a PROTEIN dependent promoter is responsible for PROTEIN2 transcription following amino acid limitation.	False
+145	The PROTEIN dependent promoter drives expression of PROTEIN1 under stress conditions and after glucose starvation, whereas a PROTEIN2 dependent promoter is responsible for PROTEIN transcription following amino acid limitation.	False
+146	The PROTEIN1 dependent promoter drives expression of PROTEIN under stress conditions and after glucose starvation, whereas a PROTEIN dependent promoter is responsible for PROTEIN2 transcription following amino acid limitation.	False
+147	The PROTEIN1 dependent promoter drives expression of PROTEIN under stress conditions and after glucose starvation, whereas a PROTEIN2 dependent promoter is responsible for PROTEIN transcription following amino acid limitation.	False
+148	The PROTEIN dependent promoter drives expression of PROTEIN under stress conditions and after glucose starvation, whereas a PROTEIN1 dependent promoter is responsible for PROTEIN2 transcription following amino acid limitation.	True
+149	This indicates that the PROTEIN gene product, being a member of both the PROTEIN1 and PROTEIN2 regulons, might negatively regulate the activity of the PROTEIN regulon.	False
+150	This indicates that the PROTEIN gene product, being a member of both the PROTEIN1 and PROTEIN regulons, might negatively regulate the activity of the PROTEIN2 regulon.	False
+151	This indicates that the PROTEIN1 gene product, being a member of both the PROTEIN2 and PROTEIN regulons, might negatively regulate the activity of the PROTEIN regulon.	True
+152	This indicates that the PROTEIN gene product, being a member of both the PROTEIN and PROTEIN1 regulons, might negatively regulate the activity of the PROTEIN2 regulon.	False
+153	This indicates that the PROTEIN1 gene product, being a member of both the PROTEIN and PROTEIN2 regulons, might negatively regulate the activity of the PROTEIN regulon.	True
+154	This indicates that the PROTEIN1 gene product, being a member of both the PROTEIN and PROTEIN regulons, might negatively regulate the activity of the PROTEIN2 regulon.	True
+155	In addition to the typical PROTEIN1 dependent, stress- and starvation-inducible pattern, PROTEIN2 is also induced in response to amino acid depletion.	True
+156	Therefore, PROTEIN1 is solely expressed during sporulation from a PROTEIN and PROTEIN2 controlled promoter that is located immediately upstream of ftsY inside the smc gene.	True
+157	Therefore, PROTEIN1 is solely expressed during sporulation from a PROTEIN2 and PROTEIN controlled promoter that is located immediately upstream of ftsY inside the smc gene.	True
+158	Therefore, PROTEIN is solely expressed during sporulation from a PROTEIN1 and PROTEIN2 controlled promoter that is located immediately upstream of ftsY inside the smc gene.	False

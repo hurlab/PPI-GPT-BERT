@@ -1,0 +1,10 @@
+Sentence ID	Sentence
+LLL.d8.s0	Our results indicate that the level of KatX level in outgrowing spores depends mainly on EsigmaF, because sigB mutants show normal KatX activity in dormant and outgrowing spores.
+LLL.d8.s1	Therefore, the physiological role of sigmaB-dependent katX expression remains obscure.
+LLL.d8.s2	The -10 and -35 sequences of the sigmaB- and sigmaF-dependent promoters of katX overlap, and the transcriptional start points used by EsigmaB and EsigmaF differ by only one nucleotide.
+LLL.d8.s3	We demonstrated that katX is also a sigmaB-dependent general stress gene, since it is strongly induced by heat, salt and ethanol stress, as well as by energy depletion.
+LLL.d10.s0	The rocG gene of Bacillus subtilis, encoding a catabolic glutamate dehydrogenase, is transcribed by SigL-containing RNA polymerase and requires for its expression RocR, a member of the NtrC/NifA family of proteins that bind to enhancer-like elements, called upstream activating sequences (UAS).
+LLL.d10.s1	Unlike the case for other sigma(54)-dependent genes, rocG has no UAS; instead, its expression depends on a sequence located 1.5 kilobases downstream of the rocG promoter, beyond the end of the rocG coding region.
+LLL.d11.s0	In addition to controlling transcription of phrC, sigmaH appears to control expression of at least one other gene required for production of CSF.
+LLL.d30.s0	We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both sigma(A) and sigma(X) holoenzymes recognize promoter elements within the sigX-ypuN control region.
+LLL.d38.s0	In that respect sigB is similar to the previously described gene gsiB which is also a member of the sigmaB regulon.

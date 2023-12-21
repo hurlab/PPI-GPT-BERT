@@ -1,0 +1,12 @@
+Sentence ID	Sentence	isValid
+159	The expression of PROTEIN is under the control of both PROTEIN1 and PROTEIN2 	FALSE
+160	The expression of PROTEIN1 is under the control of both PROTEIN and PROTEIN2 	TRUE
+161	The expression of PROTEIN1 is under the control of both PROTEIN2 and PROTEIN 	TRUE
+162	Dephosphorylation of PROTEIN1 by PROTEIN2 is strictly dependent on the presence of the bivalent metal ions Mn2+ or Mg2+.	TRUE
+163	This stress-induced increase in PROTEIN1 expression is absolutely dependent on the alternative sigma factor PROTEIN2 which controls a large stationary-phase and stress regulon.	TRUE
+164	Furthermore, PROTEIN1 and PROTEIN seemed to be induced after phosphate starvation in the wild type in a PROTEIN2 dependent manner and in the sigB mutant probably via PROTEIN 	TRUE
+165	Furthermore, PROTEIN1 and PROTEIN seemed to be induced after phosphate starvation in the wild type in a PROTEIN dependent manner and in the sigB mutant probably via PROTEIN2 	TRUE
+166	Furthermore, PROTEIN1 and PROTEIN2 seemed to be induced after phosphate starvation in the wild type in a PROTEIN dependent manner and in the sigB mutant probably via PROTEIN 	FALSE
+167	Furthermore, PROTEIN and PROTEIN seemed to be induced after phosphate starvation in the wild type in a PROTEIN1 dependent manner and in the sigB mutant probably via PROTEIN2 	FALSE
+168	Furthermore, PROTEIN and PROTEIN1 seemed to be induced after phosphate starvation in the wild type in a PROTEIN2 dependent manner and in the sigB mutant probably via PROTEIN 	TRUE
+169	Furthermore, PROTEIN and PROTEIN1 seemed to be induced after phosphate starvation in the wild type in a PROTEIN dependent manner and in the sigB mutant probably via PROTEIN2 	TRUE

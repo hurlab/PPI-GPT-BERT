@@ -1,0 +1,21 @@
+Sentence ID,Sentence,isValid
+1,Our results indicate that the level of PROTEIN1 level in outgrowing spores depends mainly on PROTEIN2 because sigB mutants show normal KatX activity in dormant and outgrowing spores.,TRUE
+2,"Therefore, the physiological role of PROTEIN1 dependent PROTEIN2 expression remains obscure.",TRUE
+3,"The -10 and -35 sequences of the PROTEIN1 and PROTEIN2 dependent promoters of PROTEIN overlap, and the transcriptional start points used by EsigmaB and EsigmaF differ by only one nucleotide.",FALSE
+4,"The -10 and -35 sequences of the PROTEIN and PROTEIN1 dependent promoters of PROTEIN2 overlap, and the transcriptional start points used by EsigmaB and EsigmaF differ by only one nucleotide.",TRUE
+5,"The -10 and -35 sequences of the PROTEIN1 and PROTEIN dependent promoters of PROTEIN2 overlap, and the transcriptional start points used by EsigmaB and EsigmaF differ by only one nucleotide.",TRUE
+6,"We demonstrated that PROTEIN1 is also a PROTEIN2 dependent general stress gene, since it is strongly induced by heat, salt and ethanol stress, as well as by energy depletion.",TRUE
+7,"The PROTEIN gene of Bacillus subtilis, encoding a catabolic glutamate dehydrogenase, is transcribed by PROTEIN1 containing RNA polymerase and requires for its expression PROTEIN2 a member of the NtrC/NifA family of proteins that bind to enhancer-like elements, called upstream activating sequences (UAS).",FALSE
+8,"The PROTEIN1 gene of Bacillus subtilis, encoding a catabolic glutamate dehydrogenase, is transcribed by PROTEIN2 containing RNA polymerase and requires for its expression PROTEIN a member of the NtrC/NifA family of proteins that bind to enhancer-like elements, called upstream activating sequences (UAS).",TRUE
+9,"The PROTEIN1 gene of Bacillus subtilis, encoding a catabolic glutamate dehydrogenase, is transcribed by PROTEIN containing RNA polymerase and requires for its expression PROTEIN2 a member of the NtrC/NifA family of proteins that bind to enhancer-like elements, called upstream activating sequences (UAS).",TRUE
+10,"Unlike the case for other PROTEIN1 dependent genes, PROTEIN2 has no UAS; instead, its expression depends on a sequence located 1.5 kilobases downstream of the rocG promoter, beyond the end of the rocG coding region.",TRUE
+11,In addition to controlling transcription of PROTEIN1 PROTEIN2 appears to control expression of at least one other gene required for production of CSF.,TRUE
+12,"We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both PROTEIN and PROTEIN1 holoenzymes recognize promoter elements within the PROTEIN PROTEIN2 control region.",TRUE
+13,"We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both PROTEIN1 and PROTEIN holoenzymes recognize promoter elements within the PROTEIN PROTEIN2 control region.",TRUE
+14,"We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both PROTEIN and PROTEIN holoenzymes recognize promoter elements within the PROTEIN1 PROTEIN2 control region.",FALSE
+15,"We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both PROTEIN1 and PROTEIN2 holoenzymes recognize promoter elements within the PROTEIN PROTEIN control region.",FALSE
+16,"We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both PROTEIN and PROTEIN1 holoenzymes recognize promoter elements within the PROTEIN2 PROTEIN control region.",TRUE
+17,"We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both PROTEIN1 and PROTEIN holoenzymes recognize promoter elements within the PROTEIN2 PROTEIN control region.",TRUE
+18,In that respect PROTEIN1 is similar to the previously described gene PROTEIN which is also a member of the PROTEIN2 regulon.,TRUE
+19,In that respect PROTEIN1 is similar to the previously described gene PROTEIN2 which is also a member of the PROTEIN regulon.,FALSE
+20,In that respect PROTEIN is similar to the previously described gene PROTEIN1 which is also a member of the PROTEIN2 regulon.,TRUE

@@ -1,0 +1,25 @@
+Sentence ID	Sentence
+183	In solution, FGFR4ed formed complexes with PROTEIN1 and PROTEIN2 both in the presence and absence of heparin
+184	Immobilized PROTEIN also bound PROTEIN1 besides PROTEIN2 and PROTEIN 
+185	Immobilized PROTEIN1 also bound PROTEIN2 besides PROTEIN and PROTEIN 
+186	Immobilized PROTEIN also bound PROTEIN1 besides PROTEIN and PROTEIN2 
+187	Immobilized PROTEIN1 also bound PROTEIN besides PROTEIN2 and PROTEIN 
+188	Immobilized PROTEIN also bound PROTEIN besides PROTEIN1 and PROTEIN2 
+189	Immobilized PROTEIN1 also bound PROTEIN besides PROTEIN and PROTEIN2 
+190	 PROTEIN orphan receptor functions as negative modulator for PROTEIN1 in prostate cancer cells PROTEIN2 
+191	 PROTEIN1 orphan receptor functions as negative modulator for PROTEIN2 in prostate cancer cells PROTEIN 
+192	 PROTEIN1 orphan receptor functions as negative modulator for PROTEIN in prostate cancer cells PROTEIN2 
+193	BACKGROUND: Both PROTEIN1 (AR) and orphan receptor PROTEIN2 ( PROTEIN belong to the steroid nuclear receptor superfamily and are expressed in prostate cancer tissue and cell lines
+194	BACKGROUND: Both PROTEIN1 (AR) and orphan receptor PROTEIN ( PROTEIN2 belong to the steroid nuclear receptor superfamily and are expressed in prostate cancer tissue and cell lines
+195	BACKGROUND: Both PROTEIN (AR) and orphan receptor PROTEIN1 ( PROTEIN2 belong to the steroid nuclear receptor superfamily and are expressed in prostate cancer tissue and cell lines
+196	The interaction between AR and PROTEIN1 was assessed by PROTEIN ( PROTEIN2 pull-down assay and mammalian two-hybrid system assay
+197	The interaction between AR and PROTEIN1 was assessed by PROTEIN2 ( PROTEIN pull-down assay and mammalian two-hybrid system assay
+198	The interaction between AR and PROTEIN was assessed by PROTEIN1 ( PROTEIN2 pull-down assay and mammalian two-hybrid system assay
+199	Physical association of PROTEIN1 with PROTEIN2 a novel glycosylphosphatidylinositol-anchored protein with potential for regulating adhesion and migration
+200	To clarify the mechanisms by which PROTEIN1 functions on leukocytes, we explored the possibility of its physical association with PROTEIN2 which is important for leukocyte adherence, locomotion, and extravasation
+201	 PROTEIN1 detected by anti-CD18 mAb, was coprecipitated with PROTEIN2 from human neutrophil lysates by a mAb to PROTEIN 
+202	 PROTEIN1 detected by anti-CD18 mAb, was coprecipitated with PROTEIN from human neutrophil lysates by a mAb to PROTEIN2 
+203	 PROTEIN detected by anti-CD18 mAb, was coprecipitated with PROTEIN1 from human neutrophil lysates by a mAb to PROTEIN2 
+204	In addition, PROTEIN1 was immunoprecipitated from human neutrophil lysates by anti-human PROTEIN2 mAb
+205	These results clearly show that PROTEIN1 is physically associated with PROTEIN2 in human neutrophils
+206	We report here that PLZF, and a structurally similar transcriptional repressor, PROTEIN1 can interact with a variety of corepressor proteins in addition to SMRT, including the mSin3A protein and (for PLZF) PROTEIN2 

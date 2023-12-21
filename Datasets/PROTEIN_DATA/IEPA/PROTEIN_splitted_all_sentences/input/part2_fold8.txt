@@ -1,0 +1,42 @@
+Sentence ID	Sentence
+622	When this parental line was treated with PROTEIN1 PROTEIN PROTEIN and sAPPbeta decreased to levels similar to those observed in the mutant line, and the mutant line was resistant to these effects of PROTEIN2 
+623	When this parental line was treated with PROTEIN PROTEIN1 PROTEIN and sAPPbeta decreased to levels similar to those observed in the mutant line, and the mutant line was resistant to these effects of PROTEIN2 
+624	When this parental line was treated with PROTEIN PROTEIN PROTEIN1 and sAPPbeta decreased to levels similar to those observed in the mutant line, and the mutant line was resistant to these effects of PROTEIN2 
+625	When this parental line was treated with PROTEIN1 PROTEIN2 PROTEIN and sAPPbeta decreased to levels similar to those observed in the mutant line, and the mutant line was resistant to these effects of PROTEIN 
+626	When this parental line was treated with PROTEIN1 PROTEIN PROTEIN2 and sAPPbeta decreased to levels similar to those observed in the mutant line, and the mutant line was resistant to these effects of PROTEIN 
+627	When this parental line was treated with PROTEIN PROTEIN1 PROTEIN2 and sAPPbeta decreased to levels similar to those observed in the mutant line, and the mutant line was resistant to these effects of PROTEIN 
+628	 PROTEIN1 stimulates tyrosine phosphorylation by activation of PROTEIN2 in the rat smooth muscle cell line, A-10
+629	The PROTEIN1 (PKC) inhibitors: staurosporine, H7 and GF109203X are able to block the PROTEIN2 stimulated phosphorylation
+630	These results indicate that PROTEIN1 is upstream of the phosphorylation, a motion which is supported by the fact that the PROTEIN2 stimulated phosphorylation was downregulated by phorbol esters
+631	Ten PROTEIN1 have been assayed for their ability to phosphorylate in vitro the PROTEIN2 (25-242) (rbPrP)
+632	With regard to PROTEIN1 phosphorylation occurs at Ser 154 with a stoichiometry of about 0.1 mol phosphate/mol PROTEIN2 which is doubled by mild heat treatment of PROTEIN 
+633	With regard to PROTEIN phosphorylation occurs at Ser 154 with a stoichiometry of about 0.1 mol phosphate/mol PROTEIN1 which is doubled by mild heat treatment of PROTEIN2 
+634	With regard to PROTEIN1 phosphorylation occurs at Ser 154 with a stoichiometry of about 0.1 mol phosphate/mol PROTEIN which is doubled by mild heat treatment of PROTEIN2 
+635	In the fasting state PROTEIN1 expression correlated inversely with body mass index (r = -0.45; P = 0.026), percent body fat (r = -0.41; P = 0.05), plasma insulin (r = -0.47; P = 0.02), epigastric venous fatty acids (r = -0.45; P = 0.04), and PROTEIN2 (r = -0.50; P = 0.018)
+636	 PROTEIN1 expression remained inversely related with plasma PROTEIN2 after controlling for percent body (r = -0.45; P = 0.038)
+637	In conclusion, 1) PROTEIN1 messenger ribonucleic acid expression in sc adipose tissue is inversely related to adiposity and independently linked to local plasma PROTEIN2 levels; and 2) PROTEIN expression is not acutely regulated by food intake, insulin, or fatty acids
+638	In conclusion, 1) PROTEIN messenger ribonucleic acid expression in sc adipose tissue is inversely related to adiposity and independently linked to local plasma PROTEIN1 levels; and 2) PROTEIN2 expression is not acutely regulated by food intake, insulin, or fatty acids
+639	In conclusion, 1) PROTEIN1 messenger ribonucleic acid expression in sc adipose tissue is inversely related to adiposity and independently linked to local plasma PROTEIN levels; and 2) PROTEIN2 expression is not acutely regulated by food intake, insulin, or fatty acids
+640	A loop system exists between hypothalamic PROTEIN1 (NPY) and peripheral adipose tissue PROTEIN2 to maintain normal body homeostasis
+641	When infused i.c.v. to normal rats to mimic its central effects, PROTEIN1 decreases PROTEIN2 levels, thus food intake and body weight
+642	Circadian fluctuations of PROTEIN1 and PROTEIN2 levels maintain normal body homeostasis
+643	 PROTEIN1 increases the expression of PROTEIN2 (UCP-1, -2, -3) and thus energy dissipation
+644	Compared with the wild type, PROTEIN1 induction of PROTEIN2 activity in aleurone cells of d1 was greatly reduced
+645	Relative to the wild type, the PROTEIN1 3)-treated aleurone layer of d1 had lower expression of Ramy1A, which encodes PROTEIN2 and OsGAMYB, which encodes a PROTEIN inducible transcriptional factor, and no increase in expression of Ca(2 +)-ATPase
+646	Relative to the wild type, the PROTEIN1 3)-treated aleurone layer of d1 had lower expression of Ramy1A, which encodes PROTEIN and OsGAMYB, which encodes a PROTEIN2 inducible transcriptional factor, and no increase in expression of Ca(2 +)-ATPase
+647	Relative to the wild type, the PROTEIN 3)-treated aleurone layer of d1 had lower expression of Ramy1A, which encodes PROTEIN1 and OsGAMYB, which encodes a PROTEIN2 inducible transcriptional factor, and no increase in expression of Ca(2 +)-ATPase
+648	However, in the presence of high PROTEIN1 concentrations, PROTEIN2 induction occurred even in d1
+649	All these results suggest that d1 affects a part of the PROTEIN1 signaling pathway, namely the induction of PROTEIN2 in the aleurone layer and internode elongation
+650	Arcuate nucleus PROTEIN1 mRNA increased in rats given protein-free diet, correlating with PROTEIN2 rather than decreased feeding
+651	Carbachol and PROTEIN1 stimulate the generation of PROTEIN2 in the guinea pig myometrium
+652	In the guinea pig myometrium prelabelled with myo-[2-3H]inositol, carbachol and PROTEIN1 enhanced a concentration-dependent and rapid release of PROTEIN2 which preceded that of IP2 and IP1
+653	Aggregated beta PROTEIN1 peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic PROTEIN2 in brain cortex
+654	The effects of full-length PROTEIN1 beta protein, A(beta) (1-40), on phosphoinositide-specific PROTEIN2 (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats
+655	Aggregated PROTEIN1 also decreased significantly the level of diacylglycerol, the product of PROTEIN2 
+656	This additionally supports the inhibitory effect of PROTEIN1 on membrane-bound and cytosolic PROTEIN2 
+657	Moreover, PROTEIN1 significantly decreased the basal activity of the PROTEIN2 in SPM and the enzyme activity regulated through cholinergic receptors
+658	Influence of obesity and menopausal status on serum PROTEIN1 cholecystokinin, galanin and PROTEIN2 levels
+659	Obesity occurs in 60% of women after menopause and is characterized by an excess of adipose tissue that depends on several orexigenic ( PROTEIN1 (NPY) stimulates carbohydrate ingestion, galanin stimulates fat intake) and anorectic ( PROTEIN2 cholecystokinin (CCK)) factors
+660	Both PROTEIN1 and insulin can reduce hypothalamic PROTEIN2 production and secretion
+661	We investigated basal levels of serum PROTEIN1 CCK, galanin and PROTEIN2 in 16 non-obese premenopausal women, in 15 obese premenopausal women (body mass index (BMI) 34.6 +/- 1.3 SD) and in ten obese postmenopausal women (BMI 34.7 +/- 1.5 SD) to determine the relationship between obesity, menopause and these neuropeptides
+662	Significantly increased PROTEIN1 and galanin levels in postmenopausal obese women coupled with decreased PROTEIN2 levels revealed some changes in the neuropeptides regulating eating behavior, which may be the reason for the onset of postmenopausal obesity

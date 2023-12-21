@@ -1,0 +1,50 @@
+Sentence ID	Sentence	isValid
+385	A role for PROTEIN1 phosphorylation of PROTEIN2 in cytokinesis	TRUE
+386	Here, we characterize the interaction between PROTEIN1 and PROTEIN show that PROTEIN phosphorylates PROTEIN2 at conserved S274 and S326 residues in vitro, and present evidence that PROTEIN is also a substrate for PROTEIN in vivo	FALSE
+387	Here, we characterize the interaction between PROTEIN and PROTEIN show that PROTEIN phosphorylates PROTEIN1 at conserved S274 and S326 residues in vitro, and present evidence that PROTEIN2 is also a substrate for PROTEIN in vivo	FALSE
+388	Here, we characterize the interaction between PROTEIN and PROTEIN show that PROTEIN phosphorylates PROTEIN1 at conserved S274 and S326 residues in vitro, and present evidence that PROTEIN is also a substrate for PROTEIN2 in vivo	FALSE
+389	Here, we characterize the interaction between PROTEIN and PROTEIN1 show that PROTEIN phosphorylates PROTEIN2 at conserved S274 and S326 residues in vitro, and present evidence that PROTEIN is also a substrate for PROTEIN in vivo	FALSE
+390	Here, we characterize the interaction between PROTEIN and PROTEIN show that PROTEIN1 phosphorylates PROTEIN2 at conserved S274 and S326 residues in vitro, and present evidence that PROTEIN is also a substrate for PROTEIN in vivo	TRUE
+391	Here, we characterize the interaction between PROTEIN1 and PROTEIN show that PROTEIN phosphorylates PROTEIN at conserved S274 and S326 residues in vitro, and present evidence that PROTEIN2 is also a substrate for PROTEIN in vivo	FALSE
+392	Here, we characterize the interaction between PROTEIN1 and PROTEIN show that PROTEIN phosphorylates PROTEIN at conserved S274 and S326 residues in vitro, and present evidence that PROTEIN is also a substrate for PROTEIN2 in vivo	FALSE
+393	Here, we characterize the interaction between PROTEIN1 and PROTEIN2 show that PROTEIN phosphorylates PROTEIN at conserved S274 and S326 residues in vitro, and present evidence that PROTEIN is also a substrate for PROTEIN in vivo	TRUE
+394	Here, we characterize the interaction between PROTEIN1 and PROTEIN show that PROTEIN2 phosphorylates PROTEIN at conserved S274 and S326 residues in vitro, and present evidence that PROTEIN is also a substrate for PROTEIN in vivo	FALSE
+395	Here, we characterize the interaction between PROTEIN and PROTEIN show that PROTEIN phosphorylates PROTEIN at conserved S274 and S326 residues in vitro, and present evidence that PROTEIN1 is also a substrate for PROTEIN2 in vivo	TRUE
+396	Here, we characterize the interaction between PROTEIN and PROTEIN1 show that PROTEIN phosphorylates PROTEIN at conserved S274 and S326 residues in vitro, and present evidence that PROTEIN2 is also a substrate for PROTEIN in vivo	FALSE
+397	Here, we characterize the interaction between PROTEIN and PROTEIN show that PROTEIN1 phosphorylates PROTEIN at conserved S274 and S326 residues in vitro, and present evidence that PROTEIN2 is also a substrate for PROTEIN in vivo	FALSE
+398	Here, we characterize the interaction between PROTEIN and PROTEIN1 show that PROTEIN phosphorylates PROTEIN at conserved S274 and S326 residues in vitro, and present evidence that PROTEIN is also a substrate for PROTEIN2 in vivo	FALSE
+399	Here, we characterize the interaction between PROTEIN and PROTEIN show that PROTEIN1 phosphorylates PROTEIN at conserved S274 and S326 residues in vitro, and present evidence that PROTEIN is also a substrate for PROTEIN2 in vivo	FALSE
+400	Here, we characterize the interaction between PROTEIN and PROTEIN1 show that PROTEIN2 phosphorylates PROTEIN at conserved S274 and S326 residues in vitro, and present evidence that PROTEIN is also a substrate for PROTEIN in vivo	FALSE
+401	Downregulation of PROTEIN by RNA interference results in multiple mitotic defects, including multinucleation and cells arrested at the midbody stage, which are rescued by ectopic expression of wild-type PROTEIN1 but not by PROTEIN with mutations in the PROTEIN2 phosphorylation sites	FALSE
+402	Downregulation of PROTEIN1 by RNA interference results in multiple mitotic defects, including multinucleation and cells arrested at the midbody stage, which are rescued by ectopic expression of wild-type PROTEIN2 but not by PROTEIN with mutations in the PROTEIN phosphorylation sites	FALSE
+403	Downregulation of PROTEIN by RNA interference results in multiple mitotic defects, including multinucleation and cells arrested at the midbody stage, which are rescued by ectopic expression of wild-type PROTEIN1 but not by PROTEIN2 with mutations in the PROTEIN phosphorylation sites	FALSE
+404	Downregulation of PROTEIN1 by RNA interference results in multiple mitotic defects, including multinucleation and cells arrested at the midbody stage, which are rescued by ectopic expression of wild-type PROTEIN but not by PROTEIN with mutations in the PROTEIN2 phosphorylation sites	FALSE
+405	Downregulation of PROTEIN by RNA interference results in multiple mitotic defects, including multinucleation and cells arrested at the midbody stage, which are rescued by ectopic expression of wild-type PROTEIN but not by PROTEIN1 with mutations in the PROTEIN2 phosphorylation sites	FALSE
+406	Downregulation of PROTEIN1 by RNA interference results in multiple mitotic defects, including multinucleation and cells arrested at the midbody stage, which are rescued by ectopic expression of wild-type PROTEIN but not by PROTEIN2 with mutations in the PROTEIN phosphorylation sites	FALSE
+407	These results suggest that PROTEIN1 phosphorylation of PROTEIN2 may influence cytokinesis	TRUE
+408	A prominent isolate, designated PROTEIN PROTEIN1 specifically interacts with the PROTEIN2 not only in vivo but also in vitro	TRUE
+409	A prominent isolate, designated PROTEIN1 PROTEIN2 specifically interacts with the PROTEIN not only in vivo but also in vitro	FALSE
+410	A prominent isolate, designated PROTEIN1 PROTEIN specifically interacts with the PROTEIN2 not only in vivo but also in vitro	TRUE
+411	PROTEIN1 is a nuclear protein with a characteristic distribution in large irregularly shaped nuclear speckles and co-localizes perfectly with the SR domain-containing PROTEIN2	FALSE
+412	Regulation of neutrophil adhesion by pituitary growth hormone accompanies tyrosine phosphorylation of PROTEIN1 p125FAK, and PROTEIN2	FALSE
+413	These results suggest that pituitary GH modulates neutrophil adhesion through tyrosine phosphorylation of PROTEIN1 p125FAK, and PROTEIN2 and actin polymerization	FALSE
+414	Pituitary GH triggered the tyrosine phosphorylation of PROTEIN1 ( PROTEIN2 and PROTEIN in neutrophils	FALSE
+415	Pituitary GH triggered the tyrosine phosphorylation of PROTEIN1 ( PROTEIN and PROTEIN2 in neutrophils	FALSE
+416	Pituitary GH triggered the tyrosine phosphorylation of PROTEIN ( PROTEIN1 and PROTEIN2 in neutrophils	FALSE
+417	Preincubation with genistein, a tyrosine kinase inhibitor, blocked the GH-stimulated adhesion and PROTEIN1 PROTEIN p125FAK, and PROTEIN2 phosphorylation	FALSE
+418	Preincubation with genistein, a tyrosine kinase inhibitor, blocked the GH-stimulated adhesion and PROTEIN1 PROTEIN2 p125FAK, and PROTEIN phosphorylation	FALSE
+419	Preincubation with genistein, a tyrosine kinase inhibitor, blocked the GH-stimulated adhesion and PROTEIN PROTEIN1 p125FAK, and PROTEIN2 phosphorylation	FALSE
+420	Immunoprecipitation experiments revealed a physical association of PROTEIN1 with p125FAK via PROTEIN2 in vivo	TRUE
+421	Cutting edge: PROTEIN1 functions as a T cell counterreceptor for the macrophage adhesion receptor PROTEIN2 ( PROTEIN	TRUE
+422	Cutting edge: PROTEIN functions as a T cell counterreceptor for the macrophage adhesion receptor PROTEIN1 ( PROTEIN2	FALSE
+423	Cutting edge: PROTEIN1 functions as a T cell counterreceptor for the macrophage adhesion receptor PROTEIN ( PROTEIN2	TRUE
+424	The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins PROTEIN1 and PROTEIN ( PROTEIN2 , respectively	FALSE
+425	The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins PROTEIN1 and PROTEIN2 ( PROTEIN , respectively	FALSE
+426	The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins PROTEIN and PROTEIN1 ( PROTEIN2 , respectively	FALSE
+427	PROTEIN1 expressed in COS cells supported increased binding to immobilized PROTEIN2	TRUE
+428	Finally, PROTEIN1 bound different glycoforms of PROTEIN2 expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on PROTEIN in resting and activated T cells, respectively	TRUE
+429	Finally, PROTEIN bound different glycoforms of PROTEIN1 expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on PROTEIN2 in resting and activated T cells, respectively	FALSE
+430	Finally, PROTEIN1 bound different glycoforms of PROTEIN expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on PROTEIN2 in resting and activated T cells, respectively	FALSE
+431	These results identify PROTEIN as a T cell counterreceptor for PROTEIN1 and suggest that in addition to its anti-adhesive role PROTEIN2 may promote cell-cell interactions	FALSE
+432	These results identify PROTEIN1 as a T cell counterreceptor for PROTEIN and suggest that in addition to its anti-adhesive role PROTEIN2 may promote cell-cell interactions	FALSE
+433	These results identify PROTEIN1 as a T cell counterreceptor for PROTEIN2 and suggest that in addition to its anti-adhesive role PROTEIN may promote cell-cell interactions	TRUE

@@ -1,0 +1,33 @@
+Sentence_ID	Sentence
+IEPA.d162.s390	We previously reported that adiposity and serum leptin levels increase with age in male F-344xBN rats and that when physiological levels of serum leptin are manipulated by fasting, there is a corresponding reciprocal change in hypothalamic neuropeptide Y (NPY) mRNA in young rats, but there are no changes in older rats
+IEPA.d162.s391	These findings suggest that the regulation of hypothalamic NPY mRNA by leptin may be impaired with age
+IEPA.d162.s392	We examined daily food consumption, body weight, whole-body oxygen consumption, serum leptin, and NPY mRNA in the hypothalamus
+IEPA.d162.s393	Leptin infusion diminished hypothalamic NPY levels by nearly 50% compared with pair-fed young rats, whereas there were no changes in the hypothalamic NPY mRNA levels in senescent rats
+IEPA.d162.s394	These diminished responses to leptin were associated with and may be the result of an impaired suppression of hypothalamic NPY mRNA levels
+IEPA.d166.s402	The protein kinase C specific inhibitor Go-6983 further enhanced the inhibitory effect of VACM-1 on AVP-stimulated cAMP production
+IEPA.d168.s404	Involvement of thyroid hormones in the effect of intracerebroventricular leptin infusion on uncoupling protein-3 expression in rat muscle
+IEPA.d168.s405	A reduction of food intake imposed on control rats (pair-feeding), aimed at mimicking leptin-induced hyperphagia, produced a marked decrease in the expression of muscle uncoupling protein-3 (UCP-3), whereas ICV infusion of leptin prevented such a decrease in UCP-3
+IEPA.d168.s406	To further substantiate an involvement of thyroid hormones in the effect of leptin on muscle UCP-3 expression, hypothyroid rats were ICV infused with leptin or vehicle
+IEPA.d168.s407	It was observed that in hypothyroid rats, ICV leptin was unable to maintain muscle UCP-3 expression at values measured in ad libitum fed controls
+IEPA.d168.s408	These results suggest that central leptin stimulates T3 production via an activation of T4 to T3 conversion, and that this stimulation could be responsible for the effect of leptin on muscle UCP-3 expression
+IEPA.d182.s436	The effect of leptin in adult rats appears to be exerted at hypothalamic level by regulating growth hormone releasing hormone (GHRH), somatostatin and neuropeptide Y (NPY)-producing neurones
+IEPA.d186.s444	Insulin secretion, inositol phosphate levels, and phospholipase C isozymes in rodent pancreatic islets
+IEPA.d186.s445	These findings are consistent with the concept that the underexpression of the nutrient-activated PLC isozyme may account for the minimal inositol phosphate (IP) and second-phase insulin secretory response from mouse islets
+IEPA.d187.s446	Gibbestatin B inhibits the GA-induced expression of alpha-amylase expression in cereal seeds [In Process Citation]
+IEPA.d187.s447	The expression of alpha-amylase in aleurone layers of barley is known to be induced by gibberellin A3 (GA).
+IEPA.d187.s448	In the present study, gibbestatin B (GNB) was isolated from Streptomyces sp. C-39 as an inhibitor of the GA-induced expression of alpha-amylase in barley and rice, with IC50 values of 125 and 70 microM, respectively.
+IEPA.d187.s449	GNB suppressed accumulation of GA-induced barley high-pI type B and rice RAmylA alpha-amylase transcripts.
+IEPA.d187.s450	These analyses indicate that GNB inhibits the GA-induced expression of alpha-amylase by regulating one of the steps involved in ABA signaling, but not by acting as a weak ABA analog.
+IEPA.d194.s465	Insulin-induced phospholipase D1 and phospholipase D2 activity in human embryonic kidney-293 cells mediated by the phospholipase Cgamma and protein kinase Calpha signalling cascade.
+IEPA.d194.s466	Co-expression of PLD1 with phospholipase C (PLC)gamma has the same effect, while co-expression of PLD2 with PLCgamma allows PLD2 activity to be stimulated in an insulin-dependent manner.
+IEPA.d194.s467	The PKC-specific inhibitors bisindolylmaleimide and Go 6976 abolish insulin-induced PLD2 activation in HEK-293 cells co-expressing the insulin receptor, PLCgamma and PLD2, confirming that not only PLD1, but PLD2 as well, is regulated in a PKC-dependent manner.
+IEPA.d194.s468	In summary, we demonstrate that insulin treatment results in activation of both PLD1 and PLD2 in appropriate cell types when the appropriate upstream intermediate signalling components, i.e. PKCalpha and PLCgamma, are expressed at sufficient levels.
+IEPA.d49.s126	Leptin upregulates the expression of uncoupling protein-2 (UCP-2) mRNA in islets of normal rats, but has no effect in islets of obese Zucker Diabetic Fatty (ZDF) rats with mutated leptin receptors
+IEPA.d115.s277	Overexpression of G11alpha and isoforms of phospholipase C in islet  beta-cells reveals a lack of correlation between inositol phosphate  accumulation and insulin secretion.
+IEPA.d115.s278	It has been suggested that insulin secretion from pancreatic islets may be  mediated in part by activation of phospholipases C (PLCs) and  phosphoinositide hydrolysis.
+IEPA.d115.s279	The purpose of this study was to determine  whether the relatively modest fuel-stimulated insulin secretion responses  of rodent beta-cell lines might be explained by inadequate expression or  activation of PLC isoforms.
+IEPA.d115.s280	Adenovirus-mediated overexpression of PLC-delta1, -beta1, or  -beta3 in INS-1 or betaG 40/110 cells results in little or no enhancement  in inositol phosphate (IP) accumulation and no improvement in insulin  secretion when the cells are stimulated with glucose or carbachol, despite  the fact that the overexpressed proteins are fully active in cell  extracts.
+IEPA.d115.s281	Overexpression of PLC-beta1 or -beta3 in normal rat islets  elicits a larger increase in IP accumulation but, again, has no effect on  insulin secretion.
+IEPA.d115.s282	Because the effect of carbachol on insulin secretion is  thought to be mediated through muscarinic receptors that link to the Gq/11  class of heterotrimeric G proteins, we also overexpressed G11alpha in  INS-1 cells, either alone or in concert with overexpression of PLC-beta1  or -beta3.
+IEPA.d115.s283	Overexpression of G11alpha enhances IP accumulation, an effect  slightly potentiated by co-overexpression of PLC-beta1 or -beta3, but  these maneuvers do not affect glucose or carbachol-stimulated insulin  secretion.
+IEPA.d135.s323	These results suggest that, in isolated white adipocytes, the released adenosine acts as a helper and/or a positive regulator for insulin in the release of leptin via an activation of adenosine A1 receptors that involves the PLC-PKC pathway.

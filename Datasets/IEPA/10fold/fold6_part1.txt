@@ -1,0 +1,17 @@
+Sentence ID	Sentence
+IEPA.d1.s1	Phosphoinositide hydrolysis, resulting in inositol trisphosphate (IP3) and diacylglycerol (DG) formation, has been implicated in oxytocin-stimulated pulsatile secretion of prostaglandin F2 alpha (PGF2 alpha) from uterine endometrium of sheep and other mammals
+IEPA.d4.s5	The effects of prostaglandin F2 alpha (PGF2 alpha) on intracellular Ca2+ concentration ([Ca2+]i) and inositol phosphate (IP) generation in human myometrial cells were evaluated and compared to the effects of oxytocin
+IEPA.d4.s6	In contrast, the potencies of oxytocin to raise IP and [Ca2+]i were similar and independent of extracellular Ca2+, and could be suppressed by pertussis toxin and phorbol ester, but not by verapamil
+IEPA.d4.s7	The action of PGF2 alpha depends on extracellular Ca2+, whereas oxytocin activates the G-protein-dependent phospholipase-C-IP3-Ca2+ signal-transducing pathway, complemented by the influx of extracellular Ca2+
+IEPA.d14.s31	This indicates that the calcium response to OT application was principally associated with activation of the IP3-sensitive calcium stores
+IEPA.d39.s93	Homogeneous liposome immunoassay for insulin using phospholipase C from Clostridium perfringens
+IEPA.d39.s94	Insulin was conjugated to phospholipase C by a three-step procedure with hetero-bifunctional crosslinking reagents, succinimidyl 4-(N-maleimidomethyl)cyclohexane-1-carboxylate and 3-(2-pyridyldithio)propionic acid N-hydroxysuccinimide ester
+IEPA.d39.s95	Both p-nitrophenylphosphatidylcholine hydrolytic activity and liposome lytic activity of insulin-phospholipase C conjugate were inhibited in the presence of insulin antiserum
+IEPA.d63.s160	However, in brown fat, we observed a 2-3-fold increase in the expression of UCP1 in response to dietary fat challenge, which may be related to diet-induced elevations in plasma leptin levels
+IEPA.d79.s189	OT evokes the release of Ca2+ from IP3-sensitive intracellular stores
+IEPA.d85.s204	A barley gene encoding a novel DNA-binding protein (HRT) was identified by southwestern screening with baits containing a gibberellin phytohormone response element from an alpha-amylase promoter
+IEPA.d91.s215	Oxytocin-stimulated insulin release in a clonal beta-cell line RINm5F: involvement of phospholipase C-dependent and -independent pathways.
+IEPA.d91.s216	CONCLUSION: Oxy increases insulin release through both PLC and non-PLC mediated signal transduction mechanisms.
+IEPA.d91.s217	In addition, U-73122 diminished the Oxy-induced increase in intracellular concentration of inositol 1, 4, 5-triphosphate (IP3)
+IEPA.d91.s218	U-73122 at 8 mumol.L-1 totally abolished the Oxy-induced increases in [Ca2+]i and IP3; however it reduced the Oxy-induced increase in insulin release only by 36% and 63% in the monolayer and suspended cell preparations, respectively
+IEPA.d91.s219	Oxytocin-stimulated insulin release in a clonal beta-cell line RINm5F: involvement of phospholipase C-dependent and -independent pathways

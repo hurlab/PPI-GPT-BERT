@@ -1,0 +1,10 @@
+Sentence ID	Sentence
+18	In that respect PROTEIN1 is similar to the previously described gene PROTEIN which is also a member of the PROTEIN2 regulon.
+54	In the shaA mutant, PROTEIN1 dependent expression of PROTEIN2 and PROTEIN at an early stage of sporulation was sensitive to external NaCl.
+90	The PROTEIN and PROTEIN genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, PROTEIN1 the PROTEIN PROTEIN operon is recognized equally well by PROTEIN and the other forespore-specific sigma factor, PROTEIN2 
+126	These results demonstrate that PROTEIN dependent transcription of PROTEIN1 initiates a negative feedback loop in which PROTEIN2 acts as a repressor to limit production of PROTEIN 
+162	Dephosphorylation of PROTEIN1 by PROTEIN2 is strictly dependent on the presence of the bivalent metal ions Mn2+ or Mg2+.
+198	Transcription of PROTEIN1 was dependent on PROTEIN2 and the mRNA was detectable from 2 h after the cessation of logarithmic growth (T2 of sporulation).
+234	A low concentration of PROTEIN1 activated PROTEIN transcription by final PROTEIN RNA polymerase, whereas a higher concentration was needed to activate transcription of PROTEIN or PROTEIN2 
+270	The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; PROTEIN present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor PROTEIN PROTEIN1 which inhibits the sporulation-specific sigma factor, PROTEIN and PROTEIN of Bacillus subtilis; PROTEIN2 of B. subtilis, which inhibits stress response sigma factor PROTEIN and PROTEIN a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor PROTEIN 
+306	Cell specificity is first established in the forespore under the control of the PROTEIN1 factor, which is itself activated through the action of the PROTEIN2 serine phosphatase, an enzyme targeted to the septum between the two cells.

@@ -1,0 +1,10 @@
+Sentence ID	Sentence
+15	We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both PROTEIN1 and PROTEIN2 holoenzymes recognize promoter elements within the PROTEIN PROTEIN control region.
+51	In this mutant, expression of the PROTEIN1 gene, whose transcription depends on both PROTEIN and the phosphorylated PROTEIN2 protein, Spo0A~P, a major transcription factor during early stages of sporulation, was greatly reduced at 43 degrees C.
+87	The PROTEIN and PROTEIN genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, PROTEIN1 the PROTEIN PROTEIN2 operon is recognized equally well by PROTEIN and the other forespore-specific sigma factor, PROTEIN 
+123	These results demonstrate that PROTEIN1 dependent transcription of PROTEIN initiates a negative feedback loop in which PROTEIN2 acts as a repressor to limit production of PROTEIN 
+159	The expression of PROTEIN is under the control of both PROTEIN1 and PROTEIN2 
+195	The PROTEIN1 promoter, like the PROTEIN2 promoter, is believed to be recognized by PROTEIN RNA polymerase, suggesting that PROTEIN may inhibit PROTEIN activity late in sporulation.
+231	A low concentration of PROTEIN1 activated PROTEIN transcription by final PROTEIN RNA polymerase, whereas a higher concentration was needed to activate transcription of PROTEIN2 or PROTEIN 
+267	The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; PROTEIN present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor PROTEIN PROTEIN1 which inhibits the sporulation-specific sigma factor, PROTEIN and PROTEIN of Bacillus subtilis; PROTEIN of B. subtilis, which inhibits stress response sigma factor PROTEIN and PROTEIN2 a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor PROTEIN 
+303	However, the mutant was unable to stimulate transcription by final PROTEIN1 RNA polymerase from the PROTEIN dependent PROTEIN2 operon promoter.

@@ -1,0 +1,96 @@
+List each pair on a distinct row if a sentence contains multiple PPI pairs. 
+Provide each pair on a distinct row if a sentence contains multiple PPI pairs. 
+List each pair in a separate row if a sentence contains multiple PPI pairs. 
+Provide each pair in a separate row if a sentence contains multiple PPI pairs. 
+List each pair on a distinct row in case a sentence contains multiple PPI pairs. 
+Provide each pair on a distinct row in case a sentence contains multiple PPI pairs. 
+List each pair in a separate row in case a sentence contains multiple PPI pairs. 
+Provide each pair in a separate row in case a sentence contains multiple PPI pairs. 
+List each pair on a distinct row whenever a sentence contains multiple PPI pairs. 
+Provide each pair on a distinct row whenever a sentence contains multiple PPI pairs. 
+List each pair in a separate row whenever a sentence contains multiple PPI pairs. 
+Provide each pair in a separate row whenever a sentence contains multiple PPI pairs. 
+List each pair on a distinct row if a sentence indicates multiple PPI pairs. 
+Provide each pair on a distinct row if a sentence indicates multiple PPI pairs. 
+List each pair in a separate row if a sentence indicates multiple PPI pairs. 
+Provide each pair in a separate row if a sentence indicates multiple PPI pairs. 
+List each pair on a distinct row in case a sentence indicates multiple PPI pairs. 
+Provide each pair on a distinct row in case a sentence indicates multiple PPI pairs. 
+List each pair in a separate row in case a sentence indicates multiple PPI pairs. 
+Provide each pair in a separate row in case a sentence indicates multiple PPI pairs. 
+List each pair on a distinct row whenever a sentence indicates multiple PPI pairs. 
+Provide each pair on a distinct row whenever a sentence indicates multiple PPI pairs. 
+List each pair in a separate row whenever a sentence indicates multiple PPI pairs. 
+Provide each pair in a separate row whenever a sentence indicates multiple PPI pairs. 
+List each pair on a distinct row if a sentence contains more than one PPI pair. 
+Provide each pair on a distinct row if a sentence contains more than one PPI pair. 
+List each pair in a separate row if a sentence contains more than one PPI pair. 
+Provide each pair in a separate row if a sentence contains more than one PPI pair. 
+List each pair on a distinct row in case a sentence contains more than one PPI pair. 
+Provide each pair on a distinct row in case a sentence contains more than one PPI pair. 
+List each pair in a separate row in case a sentence contains more than one PPI pair. 
+Provide each pair in a separate row in case a sentence contains more than one PPI pair. 
+List each pair on a distinct row whenever a sentence contains more than one PPI pair. 
+Provide each pair on a distinct row whenever a sentence contains more than one PPI pair. 
+List each pair in a separate row whenever a sentence contains more than one PPI pair. 
+Provide each pair in a separate row whenever a sentence contains more than one PPI pair. 
+List each pair on a distinct row if a sentence indicates more than one PPI pair. 
+Provide each pair on a distinct row if a sentence indicates more than one PPI pair. 
+List each pair in a separate row if a sentence indicates more than one PPI pair. 
+Provide each pair in a separate row if a sentence indicates more than one PPI pair. 
+List each pair on a distinct row in case a sentence indicates more than one PPI pair. 
+Provide each pair on a distinct row in case a sentence indicates more than one PPI pair. 
+List each pair in a separate row in case a sentence indicates more than one PPI pair. 
+Provide each pair in a separate row in case a sentence indicates more than one PPI pair. 
+List each pair on a distinct row whenever a sentence indicates more than one PPI pair. 
+Provide each pair on a distinct row whenever a sentence indicates more than one PPI pair. 
+List each pair in a separate row whenever a sentence indicates more than one PPI pair. 
+Provide each pair in a separate row whenever a sentence indicates more than one PPI pair. 
+List each pair on a distinct row if a sentence contains multiple Protein-Protein interaction pairs. 
+Provide each pair on a distinct row if a sentence contains multiple Protein-Protein interaction pairs. 
+List each pair in a separate row if a sentence contains multiple Protein-Protein interaction pairs. 
+Provide each pair in a separate row if a sentence contains multiple Protein-Protein interaction pairs. 
+List each pair on a distinct row in case a sentence contains multiple Protein-Protein interaction pairs. 
+Provide each pair on a distinct row in case a sentence contains multiple Protein-Protein interaction pairs. 
+List each pair in a separate row in case a sentence contains multiple Protein-Protein interaction pairs. 
+Provide each pair in a separate row in case a sentence contains multiple Protein-Protein interaction pairs. 
+List each pair on a distinct row whenever a sentence contains multiple Protein-Protein interaction pairs. 
+Provide each pair on a distinct row whenever a sentence contains multiple Protein-Protein interaction pairs. 
+List each pair in a separate row whenever a sentence contains multiple Protein-Protein interaction pairs. 
+Provide each pair in a separate row whenever a sentence contains multiple Protein-Protein interaction pairs. 
+List each pair on a distinct row if a sentence indicates multiple Protein-Protein interaction pairs. 
+Provide each pair on a distinct row if a sentence indicates multiple Protein-Protein interaction pairs. 
+List each pair in a separate row if a sentence indicates multiple Protein-Protein interaction pairs. 
+Provide each pair in a separate row if a sentence indicates multiple Protein-Protein interaction pairs. 
+List each pair on a distinct row in case a sentence indicates multiple Protein-Protein interaction pairs. 
+Provide each pair on a distinct row in case a sentence indicates multiple Protein-Protein interaction pairs. 
+List each pair in a separate row in case a sentence indicates multiple Protein-Protein interaction pairs. 
+Provide each pair in a separate row in case a sentence indicates multiple Protein-Protein interaction pairs. 
+List each pair on a distinct row whenever a sentence indicates multiple Protein-Protein interaction pairs. 
+Provide each pair on a distinct row whenever a sentence indicates multiple Protein-Protein interaction pairs. 
+List each pair in a separate row whenever a sentence indicates multiple Protein-Protein interaction pairs. 
+Provide each pair in a separate row whenever a sentence indicates multiple Protein-Protein interaction pairs. 
+List each pair on a distinct row if a sentence contains more than one Protein-Protein interaction pair. 
+Provide each pair on a distinct row if a sentence contains more than one Protein-Protein interaction pair. 
+List each pair in a separate row if a sentence contains more than one Protein-Protein interaction pair. 
+Provide each pair in a separate row if a sentence contains more than one Protein-Protein interaction pair. 
+List each pair on a distinct row in case a sentence contains more than one Protein-Protein interaction pair. 
+Provide each pair on a distinct row in case a sentence contains more than one Protein-Protein interaction pair. 
+List each pair in a separate row in case a sentence contains more than one Protein-Protein interaction pair. 
+Provide each pair in a separate row in case a sentence contains more than one Protein-Protein interaction pair. 
+List each pair on a distinct row whenever a sentence contains more than one Protein-Protein interaction pair. 
+Provide each pair on a distinct row whenever a sentence contains more than one Protein-Protein interaction pair. 
+List each pair in a separate row whenever a sentence contains more than one Protein-Protein interaction pair. 
+Provide each pair in a separate row whenever a sentence contains more than one Protein-Protein interaction pair. 
+List each pair on a distinct row if a sentence indicates more than one Protein-Protein interaction pair. 
+Provide each pair on a distinct row if a sentence indicates more than one Protein-Protein interaction pair. 
+List each pair in a separate row if a sentence indicates more than one Protein-Protein interaction pair. 
+Provide each pair in a separate row if a sentence indicates more than one Protein-Protein interaction pair. 
+List each pair on a distinct row in case a sentence indicates more than one Protein-Protein interaction pair. 
+Provide each pair on a distinct row in case a sentence indicates more than one Protein-Protein interaction pair. 
+List each pair in a separate row in case a sentence indicates more than one Protein-Protein interaction pair. 
+Provide each pair in a separate row in case a sentence indicates more than one Protein-Protein interaction pair. 
+List each pair on a distinct row whenever a sentence indicates more than one Protein-Protein interaction pair. 
+Provide each pair on a distinct row whenever a sentence indicates more than one Protein-Protein interaction pair. 
+List each pair in a separate row whenever a sentence indicates more than one Protein-Protein interaction pair. 
+Provide each pair in a separate row whenever a sentence indicates more than one Protein-Protein interaction pair. 

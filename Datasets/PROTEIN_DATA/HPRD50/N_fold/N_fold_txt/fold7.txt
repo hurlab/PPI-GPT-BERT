@@ -1,0 +1,22 @@
+Sentence ID	Sentence
+7	By electrophoretic mobility shift assay using the PROTEIN1 PROTEIN2 site and nuclear extracts from macrophages, we observed a specific protein-DNA complex formation, which was inhibited by a specific antibody against the transcription factor PROTEIN ( PROTEIN 
+28	Here we show that PROTEIN interacts with multiple components of the sumoylation machinery, namely the E2 sumo conjugating enzyme PROTEIN and the E3 sumo ligases PROTEIN and PROTEIN1 all of which are involved in conjugating the small ubiquitin-like modifier polypeptide, PROTEIN2 to its target proteins
+49	In this report, we demonstrate the stable association of PROTEIN1 with PROTEIN2 in a clathrin-coated vesicle complex, which not only binds to the carboxyl-terminal SH2 domain of PROTEIN but also inhibits its enzymatic activity in a dose-dependent manner
+70	A PROTEIN mutant containing a P154L substitution coimmunoprecipitates with PROTEIN1 but not PROTEIN and does not promote degradation of PROTEIN2 
+91	The fact that the PROTEIN1 mRNA editing protein also exists as a PROTEIN2 has important implications for the mechanism of PROTEIN mRNA editing in humans
+112	We report that PROTEIN1 (MutS homolog 2) protein interacts with the ATR (ATM- and Rad3-related) kinase to form a signaling module and regulate the phosphorylation of PROTEIN and PROTEIN2 (structure maintenance of chromosome 1)
+133	Differential binding of vascular cell-derived proteoglycans ( PROTEIN1 PROTEIN PROTEIN and PROTEIN2 to the beta-amyloid protein of Alzheimer's disease
+154	Characterization of EC and PROTEIN1 PROTEIN bound to A beta (1-28) revealed strong binding by PROTEIN weak binding by PROTEIN2 and PROTEIN two dermatan sulfate proteoglycans, and lack of binding by PROTEIN PROTEIN a large chondroitin sulfate proteoglycan
+175	 PROTEIN1 specifically interacted with the general transcription factors PROTEIN TBP, and PROTEIN2 but not with TFIIEalpha in the PROTEIN pull-down assays
+196	The interaction between AR and PROTEIN1 was assessed by PROTEIN ( PROTEIN2 pull-down assay and mammalian two-hybrid system assay
+217	 PROTEIN1 ( PROTEIN , PROTEIN ( PROTEIN , and PROTEIN2 ( PROTEIN constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis
+238	Data also has been obtained that PROTEIN and PROTEIN as well as PROTEIN interact with both PROTEIN1 and cyclinB1, resulting in inhibition of the kinase activity of the PROTEIN2 cyclinB1 complex
+259	The receptor binding site of PROTEIN also is significantly different from the binding sites of PROTEIN1 and PROTEIN2 providing insight into the issue of receptor specificity
+280	Subsequent amino acid sequencing revealed many peptides involving PROTEIN cross-linked either to itself or to a variety of other known CE protein components, including PROTEIN PROTEIN1 PROTEIN2 keratins, members of the small proline-rich superfamily, PROTEIN and unknown proteins related to the PROTEIN family
+301	Catalytic domains of the tyrosine phosphatases PROTEIN1 PROTEIN2 and PTPbeta did not interact with proteins of the catenin family to detectable levels, suggesting that the interaction of PROTEIN with these proteins is specific
+322	The results of complementation experiments show that, in contrast to mouse PROTEIN1 mouse PROTEIN can partially alleviate the growth defect of the corresponding yeast null strain, indicating that the role of PROTEIN2 in pre-rRNA processing is evolutionarily conserved
+343	In contrast to PROTEIN the potency of direct activation of PROTEIN1 was not affected by co-expression with PROTEIN2 
+364	We propose that PROTEIN and PROTEIN in cooperation with other adapter molecules might regulate the cellular localization of PROTEIN1 under specific stimuli, acting to regulate precisely Rac and PROTEIN2 activities
+385	A role for PROTEIN1 phosphorylation of PROTEIN2 in cytokinesis
+406	Downregulation of PROTEIN1 by RNA interference results in multiple mitotic defects, including multinucleation and cells arrested at the midbody stage, which are rescued by ectopic expression of wild-type PROTEIN but not by PROTEIN2 with mutations in the PROTEIN phosphorylation sites
+427	 PROTEIN1 expressed in COS cells supported increased binding to immobilized PROTEIN2 

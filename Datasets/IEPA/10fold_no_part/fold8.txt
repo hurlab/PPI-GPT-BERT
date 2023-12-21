@@ -1,0 +1,52 @@
+Sentence_ID	Sentence
+IEPA.d0.s0	Oxytocin stimulates IP3 production in dose-dependent fashion as well
+IEPA.d3.s4	Inositol 1,4,5-trisphosphate and oxytocin binding in human myometrium
+IEPA.d16.s33	They are needed for the catabolism of cholesterol, bile acids, and steroid hormones; they hydrolyze a number of flavonoid glycosides to anticarcinogens; and they detoxify certain carcinogens
+IEPA.d73.s174	Furthermore, treatment of isolated rat diaphragms and adipocytes with PIG-P as well as with other agents exerting partially insulin-mimetic activity, such as PI-specific phospholipase C (PLC) and the sulfonylurea glimepiride, triggered tyrosine phosphorylation of the caveolar marker protein caveolin, which was apparently correlated with stimulation of lipogenesis
+IEPA.d73.s175	Strikingly, in adipocytes subjected to combined trypsin/salt treatment, PIG-P, PI-specific PLC, and glimepiride failed completely to provoke insulin-mimetic effects
+IEPA.d82.s195	Neural site of leptin influence on neuropeptide Y signaling pathways altering feeding and uncoupling protein
+IEPA.d82.s196	NPY in the PVN increases feeding and decreases uncoupling protein (UCP) activity in brown fat, whereas leptin decreases NPY biosynthesis in the Arc, which presumably decreases PVN NPY
+IEPA.d82.s197	Next, we determined that leptin decreases NPY and increases UCP gene expression
+IEPA.d83.s198	Furthermore, immunocytochemical studies showed the A beta-induced neuronal MAC expression on the SH-SY5Y cells after CD59 was removed by PIPLC or blocked by anti-CD59 antibody
+IEPA.d89.s209	UCP2, UCP3 and leptin gene expression: modulation by food restriction and leptin
+IEPA.d89.s210	To determine the effects of food restriction and leptin administration on several transcripts involved in energy homeostasis, we examined leptin, uncoupling proteins (UCP) 1, 2 and 3, lipoprotein lipase (LPL), beta3-adrenergic receptors (beta3AR) and hormone-sensitive lipase (HSL) mRNA levels in brown adipose tissue (BAT) and epididymal (EWAT) and perirenal (PWAT) white adipose tissue in three groups of rats
+IEPA.d89.s211	Leptin increased LPL mRNA by 80%, UCP1 mRNA twofold, and UCP3 mRNA levels by 62% in BAT, and increased UCP2 mRNA levels twofold in EWAT
+IEPA.d89.s212	The present study indicates that leptin increases the gene expression of UCP2 in EWAT and that of UCP1, UCP3 and LPL in BAT, whereas reduced food consumption but not leptin, decreases LPL expression in WAT
+IEPA.d94.s227	Oxytocin (OT) is more expressed in the TEC/TNC than vasopressin (VP); insulin-like growth factor 2 (IGF-2) thymic expression predominates over IGF-1, and much more over (pro)insulin
+IEPA.d94.s228	Thus, OT was proposed to be the self antigen of the neurohypophysial family, and IGF-2 the self antigen precursor of the insulin family
+IEPA.d98.s236	We observed that primary microglial cultures and the THP-1 monocytic cell line are stimulated by fibrillar beta-amyloid and prion peptides to activate identical tyrosine kinase-dependent inflammatory signal transduction cascades
+IEPA.d107.s247	Molecular characterization of catalytic-subunit cDNA sequences encoding protein phosphatases 1 and 2A and study of their roles in the gibberellin-dependent Osamy-c expression in rice
+IEPA.d107.s248	To understand the molecular mechanism of gibberellin-dependent gene regulation, the effect of three phosphatase inhibitors on the germination of rice seeds and the expression of a target gene, the alpha-amylase gene, Osamy-c, were measured
+IEPA.d107.s249	To further understand the possible role of protein phosphatases 1 and 2A in the GA-dependent expression of Osamy-c, we isolated cDNA clones encoding protein phosphatase 1 and protein phosphatase 2A from a rice aleurone cDNA library
+IEPA.d107.s250	Taken together, our results suggest that protein phosphatases PP1 or PP2A are involved in the GA-dependent expression of the rice Osamy-c gene, though the PP1 or/and PP2A enzymatic activities as well as mRNA levels do not increase upon GA3 treatment
+IEPA.d127.s301	PI-PLC treatment of fetal guinea pig brain cultures substantially reduced the amount of Abeta40 and Abeta42 in the medium but had no effect on sAPPalpha
+IEPA.d127.s302	When this parental line was treated with PI-PLC, Abeta40, Abeta42, and sAPPbeta decreased to levels similar to those observed in the mutant line, and the mutant line was resistant to these effects of PI-PLC
+IEPA.d131.s316	Vasopressin stimulates tyrosine phosphorylation by activation of PKC in the rat smooth muscle cell line, A-10
+IEPA.d131.s317	The protein kinase C (PKC) inhibitors: staurosporine, H7 and GF109203X are able to block the AVP-stimulated phosphorylation
+IEPA.d131.s318	These results indicate that PKC is upstream of the phosphorylation, a motion which is supported by the fact that the AVP-stimulated phosphorylation was downregulated by phorbol esters
+IEPA.d147.s357	Ten protein kinases have been assayed for their ability to phosphorylate in vitro the recombinant bovine PrP (25-242) (rbPrP)
+IEPA.d147.s358	With regard to CK2, phosphorylation occurs at Ser 154 with a stoichiometry of about 0.1 mol phosphate/mol rbPrP, which is doubled by mild heat treatment of rbPrP
+IEPA.d159.s382	In the fasting state UCP-2 expression correlated inversely with body mass index (r = -0.45; P = 0.026), percent body fat (r = -0.41; P = 0.05), plasma insulin (r = -0.47; P = 0.02), epigastric venous fatty acids (r = -0.45; P = 0.04), and leptin (r = -0.50; P = 0.018)
+IEPA.d159.s383	UCP-2 expression remained inversely related with plasma leptin after controlling for percent body (r = -0.45; P = 0.038)
+IEPA.d159.s384	In conclusion, 1) UCP-2 messenger ribonucleic acid expression in sc adipose tissue is inversely related to adiposity and independently linked to local plasma leptin levels; and 2) UCP-2 expression is not acutely regulated by food intake, insulin, or fatty acids
+IEPA.d180.s431	A loop system exists between hypothalamic neuropeptide Y (NPY) and peripheral adipose tissue leptin to maintain normal body homeostasis
+IEPA.d180.s432	When infused i.c.v. to normal rats to mimic its central effects, leptin decreases NPY levels, thus food intake and body weight
+IEPA.d180.s433	Circadian fluctuations of NPY and leptin levels maintain normal body homeostasis
+IEPA.d180.s434	Leptin increases the expression of uncoupling proteins (UCP-1, -2, -3) and thus energy dissipation
+IEPA.d192.s460	Compared with the wild type, GA induction of alpha-amylase activity in aleurone cells of d1 was greatly reduced
+IEPA.d192.s461	Relative to the wild type, the GA(3)-treated aleurone layer of d1 had lower expression of Ramy1A, which encodes alpha-amylase, and OsGAMYB, which encodes a GA-inducible transcriptional factor, and no increase in expression of Ca(2 +)-ATPase
+IEPA.d192.s462	However, in the presence of high GA concentrations, alpha-amylase induction occurred even in d1
+IEPA.d192.s463	All these results suggest that d1 affects a part of the GA-signaling pathway, namely the induction of alpha-amylase in the aleurone layer and internode elongation
+IEPA.d198.s483	Arcuate nucleus NPY mRNA increased in rats given protein-free diet, correlating with leptin rather than decreased feeding
+IEPA.d6.s11	Carbachol and oxytocin stimulate the generation of inositol phosphates in the guinea pig myometrium
+IEPA.d6.s12	In the guinea pig myometrium prelabelled with myo-[2-3H]inositol, carbachol and oxytocin enhanced a concentration-dependent and rapid release of IP3 which preceded that of IP2 and IP1
+IEPA.d145.s346	Aggregated beta amyloid peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic phospholipase C in brain cortex
+IEPA.d145.s347	The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific phospholipase C (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats
+IEPA.d145.s348	Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of PLC
+IEPA.d145.s349	This additionally supports the inhibitory effect of A(beta) on membrane-bound and cytosolic PLC
+IEPA.d145.s350	Moreover, A(beta) (1-40) significantly decreased the basal activity of the PIP2-PLC in SPM and the enzyme activity regulated through cholinergic receptors
+IEPA.d170.s410	Influence of obesity and menopausal status on serum leptin, cholecystokinin, galanin and neuropeptide Y levels
+IEPA.d170.s411	Obesity occurs in 60% of women after menopause and is characterized by an excess of adipose tissue that depends on several orexigenic (neuropeptide Y (NPY) stimulates carbohydrate ingestion, galanin stimulates fat intake) and anorectic (leptin, cholecystokinin (CCK)) factors
+IEPA.d170.s412	Both leptin and insulin can reduce hypothalamic NPY production and secretion
+IEPA.d170.s413	We investigated basal levels of serum leptin, CCK, galanin and NPY in 16 non-obese premenopausal women, in 15 obese premenopausal women (body mass index (BMI) 34.6 +/- 1.3 SD) and in ten obese postmenopausal women (BMI 34.7 +/- 1.5 SD) to determine the relationship between obesity, menopause and these neuropeptides
+IEPA.d170.s414	Significantly increased leptin and galanin levels in postmenopausal obese women coupled with decreased NPY levels revealed some changes in the neuropeptides regulating eating behavior, which may be the reason for the onset of postmenopausal obesity

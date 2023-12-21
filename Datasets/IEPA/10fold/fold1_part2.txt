@@ -1,0 +1,17 @@
+Sentence ID	Sentence
+IEPA.d106.s246	The inhibitory action of AVP involves both the activation of PKC and the transcription of iNOS mRNA in cultured rat GMC
+IEPA.d121.s289	An inhibitor of PKC, Ro31-8220 (10 microM), abolished the ability of PDBu to decrease [Ca(2+)](i), without affecting the response to maximal or submaximal concentrations of AVP
+IEPA.d137.s325	We previously showed that arginine vasopressin (AVP) stimulates heat shock protein 27 (HSP27) induction through protein kinase C activation in aortic smooth muscle A10 cells
+IEPA.d137.s326	Calphostin C and ET-18-OCH(3), inhibitors of protein kinase C, reduced the phosphorylation of p38 MAP kinase by AVP
+IEPA.d146.s351	Ca2+ signalling in rat vascular smooth muscle cells: a role for protein kinase C at physiological vasoconstrictor concentrations of vasopressin
+IEPA.d146.s352	The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM)
+IEPA.d146.s353	The PKC inhibitors Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or AVP
+IEPA.d146.s354	Time-dependent redistribution of PKC-alpha, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP
+IEPA.d146.s355	Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not PKC-epsilon, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP
+IEPA.d146.s356	We conclude that PKC activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+IEPA.d161.s386	Induction of fatty acid translocase/CD36, peroxisome proliferator-activated receptor-gamma2, leptin, uncoupling proteins 2 and 3, and tumor necrosis factor-alpha gene expression in human subcutaneous fat by lipid infusion
+IEPA.d161.s387	Using reverse transcriptase-polymerase chain reaction analysis, the mRNA expression of fatty acid translocase (FAT)/CD36, PPAR-gamma2, leptin, uncoupling protein (UCP)-2 and UCP-3, and tumor necrosis factor (TNF)-alpha was investigated in gluteal subcutaneous fat biopsies before and after 5 h infusions of saline or Intralipid (Pharmacia and Upjohn, Milan, Italy) plus heparin, which does not modify insulinemia
+IEPA.d161.s388	Marked increases in FAT/CD36 (724+/-18%; P < 0.05), PPAR-gamma2 (200+/-8%; P < 0.05), leptin (110+/-13%; P < 0.05), UCP-2 (120+/-7%; P < 0.05), UCP-3 (80+/-5%; P < 0.05), and TNF-alpha mRNA (130+/-12%; P < 0.05) were observed in comparison with pretreatment levels, whereas there was no change after saline infusion
+IEPA.d161.s389	These data suggest that the in vivo gene expression of FAT/CD36, PPAR-gamma2, leptin, UCP-2, UCP-3, and TNF-alpha in subcutaneous adipose tissue is regulated by circulating lipids independent of insulin and that prolonged hyperlipidemia may therefore contribute to increased fat metabolism and storage as a result of the increased expression of these proteins
+IEPA.d169.s409	The body mass index (BMI), leptin, plasma neuropeptide Y (NPY), serotonin, thyroxine (T4), triiodothyronine (T3) and reverse triiodothyronine (rT3) in serum were evaluated for each subject
+IEPA.d174.s422	Dietary intakes of flavonols, flavones and isoflavones by Japanese women and the inverse correlation between quercetin intake and plasma LDL cholesterol concentration

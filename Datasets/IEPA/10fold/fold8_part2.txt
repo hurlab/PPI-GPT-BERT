@@ -1,0 +1,19 @@
+Sentence ID	Sentence
+IEPA.d107.s247	Molecular characterization of catalytic-subunit cDNA sequences encoding protein phosphatases 1 and 2A and study of their roles in the gibberellin-dependent Osamy-c expression in rice
+IEPA.d107.s248	To understand the molecular mechanism of gibberellin-dependent gene regulation, the effect of three phosphatase inhibitors on the germination of rice seeds and the expression of a target gene, the alpha-amylase gene, Osamy-c, were measured
+IEPA.d107.s249	To further understand the possible role of protein phosphatases 1 and 2A in the GA-dependent expression of Osamy-c, we isolated cDNA clones encoding protein phosphatase 1 and protein phosphatase 2A from a rice aleurone cDNA library
+IEPA.d107.s250	Taken together, our results suggest that protein phosphatases PP1 or PP2A are involved in the GA-dependent expression of the rice Osamy-c gene, though the PP1 or/and PP2A enzymatic activities as well as mRNA levels do not increase upon GA3 treatment
+IEPA.d127.s301	PI-PLC treatment of fetal guinea pig brain cultures substantially reduced the amount of Abeta40 and Abeta42 in the medium but had no effect on sAPPalpha
+IEPA.d127.s302	When this parental line was treated with PI-PLC, Abeta40, Abeta42, and sAPPbeta decreased to levels similar to those observed in the mutant line, and the mutant line was resistant to these effects of PI-PLC
+IEPA.d131.s316	Vasopressin stimulates tyrosine phosphorylation by activation of PKC in the rat smooth muscle cell line, A-10
+IEPA.d131.s317	The protein kinase C (PKC) inhibitors: staurosporine, H7 and GF109203X are able to block the AVP-stimulated phosphorylation
+IEPA.d131.s318	These results indicate that PKC is upstream of the phosphorylation, a motion which is supported by the fact that the AVP-stimulated phosphorylation was downregulated by phorbol esters
+IEPA.d147.s357	Ten protein kinases have been assayed for their ability to phosphorylate in vitro the recombinant bovine PrP (25-242) (rbPrP)
+IEPA.d147.s358	With regard to CK2, phosphorylation occurs at Ser 154 with a stoichiometry of about 0.1 mol phosphate/mol rbPrP, which is doubled by mild heat treatment of rbPrP
+IEPA.d159.s382	In the fasting state UCP-2 expression correlated inversely with body mass index (r = -0.45; P = 0.026), percent body fat (r = -0.41; P = 0.05), plasma insulin (r = -0.47; P = 0.02), epigastric venous fatty acids (r = -0.45; P = 0.04), and leptin (r = -0.50; P = 0.018)
+IEPA.d159.s383	UCP-2 expression remained inversely related with plasma leptin after controlling for percent body (r = -0.45; P = 0.038)
+IEPA.d159.s384	In conclusion, 1) UCP-2 messenger ribonucleic acid expression in sc adipose tissue is inversely related to adiposity and independently linked to local plasma leptin levels; and 2) UCP-2 expression is not acutely regulated by food intake, insulin, or fatty acids
+IEPA.d180.s431	A loop system exists between hypothalamic neuropeptide Y (NPY) and peripheral adipose tissue leptin to maintain normal body homeostasis
+IEPA.d180.s432	When infused i.c.v. to normal rats to mimic its central effects, leptin decreases NPY levels, thus food intake and body weight
+IEPA.d180.s433	Circadian fluctuations of NPY and leptin levels maintain normal body homeostasis
+IEPA.d180.s434	Leptin increases the expression of uncoupling proteins (UCP-1, -2, -3) and thus energy dissipation

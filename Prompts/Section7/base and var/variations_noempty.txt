@@ -1,0 +1,24 @@
+Each input line contains a 'Sentence ID' and its corresponding 'Sentence' that is needed to be analyzed for finding PPI. 
+Here are the sentences that you need to process:
+Each input line contains a 'Sentence ID' followed by its corresponding 'Sentence' that is needed to be analyzed for finding PPI. 
+Here are the sentences that you need to process:
+Each input line contains a 'Sentence ID' and its corresponding 'Sentence' that must be analyzed for finding PPI. 
+Here are the sentences that you need to process:
+Each input line contains a 'Sentence ID' followed by its corresponding 'Sentence' that must be analyzed for finding PPI. 
+Here are the sentences that you need to process:
+Each input line contains a 'Sentence ID' and its corresponding 'Sentence' for PPI analysis.
+Here are the sentences that you need to process:
+Each input line contains a 'Sentence ID' followed by its corresponding 'Sentence' for PPI analysis.
+Here are the sentences that you need to process:
+Each input line contains a 'Sentence ID' and its corresponding 'Sentence' that is needed to be analyzed for finding PPI. 
+Input:
+Each input line contains a 'Sentence ID' followed by its corresponding 'Sentence' that is needed to be analyzed for finding PPI. 
+Input:
+Each input line contains a 'Sentence ID' and its corresponding 'Sentence' that must be analyzed for finding PPI. 
+Input:
+Each input line contains a 'Sentence ID' followed by its corresponding 'Sentence' that must be analyzed for finding PPI. 
+Input:
+Each input line contains a 'Sentence ID' and its corresponding 'Sentence' for PPI analysis.
+Input:
+Each input line contains a 'Sentence ID' followed by its corresponding 'Sentence' for PPI analysis.
+Input:

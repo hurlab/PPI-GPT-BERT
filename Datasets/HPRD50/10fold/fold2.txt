@@ -1,0 +1,16 @@
+Sentence ID	Sentence
+HPRD50.d12.s0	AP180 binds to the C-terminal SH2 domain of phospholipase C-gamma1 and inhibits its enzymatic activity
+HPRD50.d12.s1	In this report, we demonstrate the stable association of PLCgamma1 with AP180 in a clathrin-coated vesicle complex, which not only binds to the carboxyl-terminal SH2 domain of PLCgamma1, but also inhibits its enzymatic activity in a dose-dependent manner
+HPRD50.d26.s0	The protein pVHL functions in a multi-subunit E3 ubiquitin ligase that targets the hypoxia-inducible transcription factor Hif1 alpha for proteasomal degradation during normoxia
+HPRD50.d26.s1	We establish that pVHL binds to Tat-binding protein-1 (TBP-1), a component of the 19S regulatory complex of the proteasome
+HPRD50.d26.s2	TBP-1 associates with the beta-domain of pVHL and complexes with pVHL and Hif1 alpha in vivo
+HPRD50.d26.s3	Overexpression of TBP-1 promotes degradation of Hif1 alpha in a pVHL-dependent manner that requires the ATPase domain of TBP-1
+HPRD50.d26.s4	Blockade of TBP-1 expression by small interfering RNA (siRNA) causes prolonged degradation kinetics of Hif1 alpha
+HPRD50.d26.s5	Several distinct mutations in exon 2 of VHL disrupt binding of pVHL to TBP-1
+HPRD50.d26.s6	A pVHL mutant containing a P154L substitution coimmunoprecipitates with Hif1 alpha, but not TBP-1, and does not promote degradation of Hif1 alpha
+HPRD50.d26.s7	Thus, the ability of pVHL to degrade Hif1 alpha depends in part on its interaction with TBP-1 and suggests a new mechanism for Hif1 alpha stabilization in some pVHL-deficient tumors
+HPRD50.d33.s0	Cross-linking of CD53 with the use of the mAb MEM-53 and a polyclonal sheep anti-mouse Ig promoted activation of resting B cells into the G1 phase of the cell cycle as judged by increased expression of the early activation Ag CD69, increases in cellular volume, RNA synthesis, and c-myc protein levels, and enhanced binding of 7-aminoactinomycin D
+HPRD50.d33.s1	However, cytokines, in particular IL-2 and IL-4, potentiated the DNA synthesis induced by cross-linking of CD53
+HPRD50.d34.s0	The human apoB mRNA editing protein is a cytidine deaminase showing structural homology to some known mammalian and bacteriophage deoxycytidylate deaminases
+HPRD50.d34.s1	The fact that the apoB mRNA editing protein also exists as a homodimer has important implications for the mechanism of apoB mRNA editing in humans
+HPRD50.d37.s0	TFIID dimers formed through self-association of the TATA-binding polypeptide (TBP) subunit and could be immunoprecipitated with antibodies to TAF(II)250, the core subunit of TFIID

@@ -1,0 +1,15 @@
+Sentence ID	Sentence
+IEPA.d20.s42	We propose that OT binds to specific OT receptors (OTR) on the endometrium to stimulate phosphoinositide (PI) hydrolysis, thereby activating the inositol trisphosphate (IP3)-diacylglycerol (DAG) second-messenger system to promote pulsatile PGF2 alpha secretion
+IEPA.d20.s43	Endometrial IP3 was increased within 30 seconds after OT treatment and preceded the increase in PGF2 alpha release stimulated by OT
+IEPA.d20.s44	These results support the hypothesis that OT stimulates phospholipase C to hydrolyze PI, yielding IP3 and DAG second-messengers which promote endometrial PGF2 alpha release during CL regression in pigs
+IEPA.d23.s47	The resulting abnormally phosphorylated PrPsc aggregates to freshly synthesized PrPc, transforming it into same; due to a system of positive feedback invoked by the organophosphate-induced blockage of a prion protein-specific protein kinase.
+IEPA.d31.s63	OT may rapidly stimulate inositol (1,4,5)-trisphosphate (IP3) and diacylglycerol (DAG) formation, consistent with the concept of rapid activation of a second-messenger system
+IEPA.d31.s64	In support of this hypothesis, endometrial IP3 levels were increased (P < 0.05) within 0.5 min after treatment with 0.1 microM OT
+IEPA.d31.s65	These results indicate that OT induces endometrial IP3 production in a rapid manner indicative of a second-messenger system
+IEPA.d38.s92	2) IGF-1, IGF-2, and insulin also induced a Ca2+ mobilization from the endoplasmic reticulum: phospholipase C (PLC) inhibitors, neomycin, or U-73122 partially blocked the intracellular [Ca2+]i increase induced by IGF-1 and insulin and totally inhibited the effect of IGF-2
+IEPA.d48.s123	Leptin increases uncoupling protein expression and energy expenditure
+IEPA.d48.s124	Leptin increased BAT UCP mRNA levels greater than twofold in both ad libitum-fed and food-restricted rats
+IEPA.d48.s125	These data demonstrate a leptin-induced increase in energy expenditure in nonmutant rodents and suggest that one mechanism by which leptin increases energy expenditure is through increased thermogenesis in BAT, including increased expression of UCP
+IEPA.d52.s135	Uncoupling protein-3 is a mediator of thermogenesis regulated by thyroid hormone, beta3-adrenergic agonists, and leptin
+IEPA.d52.s136	UCP3 mRNA levels were also regulated by dexamethasone, leptin, and starvation, albeit differently in muscle and brown adipose tissue
+IEPA.d61.s157	Secreted form of beta-amyloid precursor protein activates protein kinase C and phospholipase Cgamma1 in cultured embryonic rat neocortical cells

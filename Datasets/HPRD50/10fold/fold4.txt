@@ -1,0 +1,18 @@
+Sentence ID	Sentence
+HPRD50.d13.s0	Here we demonstrate colocalization and direct interaction between CLIP-170 and LIS1
+HPRD50.d13.s1	Overexpression of CLIP-170 results in a zinc finger-dependent localization of a phospho-LIS1 isoform and dynactin to MT bundles, raising the possibility that CLIP-170 and LIS1 regulate dynein/dynactin binding to MTs
+HPRD50.d13.s2	This work suggests that LIS1 is a regulated adapter between CLIP-170 and cytoplasmic dynein at sites involved in cargo-MT loading, and/or in the control of MT dynamics
+HPRD50.d32.s0	Differential binding of vascular cell-derived proteoglycans (perlecan, biglycan, decorin, and versican) to the beta-amyloid protein of Alzheimer's disease
+HPRD50.d32.s1	Previous studies have demonstrated the immunolocalization of perlecan, a specific heparan sulfate proteoglycan, to the beta-amyloid protein (A beta)-containing amyloid deposits within the walls of blood vessels (i.e., congophilic angiopathy) in Alzheimer's disease (AD) brain
+HPRD50.d32.s2	Overall, the results indicate that specific vascular cell-derived PGs differentially interact with A beta, and that the interactions of highest affinity occur between A beta and binding sites on both the core protein and glycosaminoglycan chains of perlecan
+HPRD50.d32.s3	In the present investigation, the differential binding of previously characterized endothelial cell (EC)- and smooth muscle cell (SMC)-derived PGs to A beta was examined to determine whether the accumulation of A beta in cerebrovascular amyloid deposits may be due to its interactions with perlecan
+HPRD50.d32.s4	Pretreatment of AA amyloidotic splenic and liver tissue sections with synthetic A beta (1-28) produced strong immunoreactivity with A beta antibodies at tissue sites enriched in perlecan which was partially removed by pretreatment with heparitinase, but not by chondroitin ABC lyase
+HPRD50.d32.s5	[35S]-Sulfate labeled proteoglycans (PGs) derived from cultured ECs and SMCs bound to affinity columns containing A beta (1-28) or (1-40), with virtually no binding to A beta (40-1) (reverse peptide), beta-amyloid precursor protein (410-429), or bovine serum albumin
+HPRD50.d32.s6	Characterization of EC and SMC PGs bound to A beta (1-28) revealed strong binding by perlecan, weak binding by decorin and biglycan, two dermatan sulfate proteoglycans, and lack of binding by versican/PG-M, a large chondroitin sulfate proteoglycan
+HPRD50.d17.s0	DGKdelta (type II isozyme) contains a pleckstrin homology domain at the N terminus and a sterile alpha motif domain at the C terminus
+HPRD50.d42.s0	Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays
+HPRD50.d42.s1	In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR
+HPRD50.d42.s2	Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays
+HPRD50.d42.s3	TBP and TFIIA, however, were not able to interact with IkappaBbeta
+HPRD50.d42.s4	Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta
+HPRD50.d42.s5	In addition, coexpression of SRC-1 but not p300 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR

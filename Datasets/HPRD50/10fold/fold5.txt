@@ -1,0 +1,12 @@
+Sentence ID	Sentence
+HPRD50.d4.s0	In solution, FGFR4ed formed complexes with acidic FGF (FGF-1) and basic FGF (FGF-2), both in the presence and absence of heparin
+HPRD50.d4.s1	Immobilized FGFR4 also bound FGF-8 besides FGF-1 and FGF-2
+HPRD50.d25.s0	TR2 orphan receptor functions as negative modulator for androgen receptor in prostate cancer cells PC-3
+HPRD50.d25.s1	BACKGROUND: Both androgen receptor (AR) and orphan receptor TR2 (TR2) belong to the steroid nuclear receptor superfamily and are expressed in prostate cancer tissue and cell lines
+HPRD50.d25.s2	The interaction between AR and TR2 was assessed by glutathione-S-transferase (GST) pull-down assay and mammalian two-hybrid system assay
+HPRD50.d15.s0	Physical association of beta 2 integrin with GPI-80, a novel glycosylphosphatidylinositol-anchored protein with potential for regulating adhesion and migration
+HPRD50.d15.s1	To clarify the mechanisms by which GPI-80 functions on leukocytes, we explored the possibility of its physical association with beta 2 integrin which is important for leukocyte adherence, locomotion, and extravasation
+HPRD50.d15.s2	beta 2 integrin, detected by anti-CD18 mAb, was coprecipitated with GPI-80 from human neutrophil lysates by a mAb to GPI-80
+HPRD50.d15.s3	In addition, GPI-80 was immunoprecipitated from human neutrophil lysates by anti-human CD18 mAb
+HPRD50.d15.s4	These results clearly show that GPI-80 is physically associated with beta 2 integrin in human neutrophils
+HPRD50.d41.s0	We report here that PLZF, and a structurally similar transcriptional repressor, BCL-6, can interact with a variety of corepressor proteins in addition to SMRT, including the mSin3A protein and (for PLZF) histone deacetylase-1

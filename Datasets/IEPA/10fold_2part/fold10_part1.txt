@@ -1,0 +1,25 @@
+Sentence_ID	Sentence
+IEPA.d20.s42	We propose that OT binds to specific OT receptors (OTR) on the endometrium to stimulate phosphoinositide (PI) hydrolysis, thereby activating the inositol trisphosphate (IP3)-diacylglycerol (DAG) second-messenger system to promote pulsatile PGF2 alpha secretion
+IEPA.d20.s43	Endometrial IP3 was increased within 30 seconds after OT treatment and preceded the increase in PGF2 alpha release stimulated by OT
+IEPA.d20.s44	These results support the hypothesis that OT stimulates phospholipase C to hydrolyze PI, yielding IP3 and DAG second-messengers which promote endometrial PGF2 alpha release during CL regression in pigs
+IEPA.d23.s47	The resulting abnormally phosphorylated PrPsc aggregates to freshly synthesized PrPc, transforming it into same; due to a system of positive feedback invoked by the organophosphate-induced blockage of a prion protein-specific protein kinase.
+IEPA.d31.s63	OT may rapidly stimulate inositol (1,4,5)-trisphosphate (IP3) and diacylglycerol (DAG) formation, consistent with the concept of rapid activation of a second-messenger system
+IEPA.d31.s64	In support of this hypothesis, endometrial IP3 levels were increased (P < 0.05) within 0.5 min after treatment with 0.1 microM OT
+IEPA.d31.s65	These results indicate that OT induces endometrial IP3 production in a rapid manner indicative of a second-messenger system
+IEPA.d38.s92	2) IGF-1, IGF-2, and insulin also induced a Ca2+ mobilization from the endoplasmic reticulum: phospholipase C (PLC) inhibitors, neomycin, or U-73122 partially blocked the intracellular [Ca2+]i increase induced by IGF-1 and insulin and totally inhibited the effect of IGF-2
+IEPA.d48.s123	Leptin increases uncoupling protein expression and energy expenditure
+IEPA.d48.s124	Leptin increased BAT UCP mRNA levels greater than twofold in both ad libitum-fed and food-restricted rats
+IEPA.d48.s125	These data demonstrate a leptin-induced increase in energy expenditure in nonmutant rodents and suggest that one mechanism by which leptin increases energy expenditure is through increased thermogenesis in BAT, including increased expression of UCP
+IEPA.d52.s135	Uncoupling protein-3 is a mediator of thermogenesis regulated by thyroid hormone, beta3-adrenergic agonists, and leptin
+IEPA.d52.s136	UCP3 mRNA levels were also regulated by dexamethasone, leptin, and starvation, albeit differently in muscle and brown adipose tissue
+IEPA.d61.s157	Secreted form of beta-amyloid precursor protein activates protein kinase C and phospholipase Cgamma1 in cultured embryonic rat neocortical cells
+IEPA.d61.s158	Furthermore, we demonstrate that tyrosine phosphorylation of phospholipase Cgamma1 and formation of inositol 1,4,5-trisphosphate were increased by sAPP695-stimulation
+IEPA.d100.s239	If daily oxytocin injections are repeated over a 5-day period, blood pressure is decreased by 10-20 mmHg, the withdrawal latency to heat stimuli is prolonged, cortisol levels are decreased and insulin and cholecystokinin levels are increased
+IEPA.d109.s256	Fasting and leptin modulate adipose and muscle uncoupling protein: divergent effects between messenger ribonucleic acid and protein expression
+IEPA.d109.s257	In this study, we examined the effects of fasting for 2 days and exogenous s.c. leptin, 200 microg every 8 h for 2 days, on the regulation of uncoupling protein (UCP) subtypes in brown adipose tissue (BAT) and gastrocnemius muscle
+IEPA.d109.s258	Leptin, compared with vehicle, did not alter BAT UCP-1 or UCP-3 mRNA or protein expression when administered to normal ad libitum fed rats
+IEPA.d109.s259	Fasting significantly decreased BAT UCP-1 and UCP-3 mRNA expression, to 31% and 30% of ad libitum fed controls, respectively, effects which were prevented by administration of leptin to fasted rats
+IEPA.d109.s260	Fasting also significantly decreased BAT UCP-1 protein expression, to 67% of control; however, that effect was not prevented by leptin treatment
+IEPA.d109.s261	Fasting, with or without leptin administration, did not affect BAT UCP-2 mRNA; however, leptin administration to ad libitum fed rats significantly increased BAT UCP-2 mRNA, to 138% of control
+IEPA.d109.s262	Fasting significantly enhanced gastrocnemius muscle UCP-3 mRNA (411% of control) and protein expression (168% of control), whereas leptin administration to fasted rats did not alter either of these effects
+IEPA.d109.s263	In summary, UCP subtype mRNA and protein are regulated in tissue- and subtype-specific fashion by leptin and food restriction

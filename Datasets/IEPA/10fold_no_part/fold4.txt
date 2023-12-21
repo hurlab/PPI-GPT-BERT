@@ -1,0 +1,60 @@
+Sentence_ID	Sentence
+IEPA.d18.s40	The relative risks between highest and lowest quarters of flavonoid intake adjusted for age, smoking, serum cholesterol concentration, blood pressure, and body mass index were 0.69 (95% confidence interval 0.53 to 0.90) and 0.54 (0.33 to 0.87) for total and coronary mortality, respectively
+IEPA.d33.s71	Correlation between the stimulatory effect of oxytocin on the formation of inositol phosphates and the oxytocin receptor level in the pregnant rabbit myometrium
+IEPA.d33.s72	OBJECTIVE: In order to elucidate the roles of inositol trisphosphate (IP3) and oxytocin (OT) receptors in rabbit parturition, the concentration of IP3 induced by OT and the OT receptor levels were determined in rabbit myometria before and after parturition
+IEPA.d33.s73	METHODS: The effects of OT on IP3 formation and OT receptor levels were determined in the myometria of non-pregnant rabbits, Days 26, 28 and 30 of pregnancy rabbits, postpartum rabbits within 12 hours and steroid-treated ovariectomized rabbits
+IEPA.d33.s74	RESULTS: OT receptors were not detectable in the myometria of non-pregnant rabbits, and OT had no effect on the formation of inositol phosphates (IPs)
+IEPA.d33.s75	On Day 28 of pregnancy, OT receptors became detectable, and then OT could induce the formation of IPs
+IEPA.d33.s76	Thereafter, the stimulatory effects of OT on IPs formation and the OT receptor levels dramatically increased toward the end of pregnancy and reduced rapidly after parturition
+IEPA.d33.s77	When the ovariectomized pregnant rabbits were treated with estrogen, OT receptors in the myometrium were induced, and OT acquired the ability to stimulate IP3 formation
+IEPA.d33.s78	In addition, an OT receptor antagonist inhibited the stimulatory effects of OT on IP3 formation
+IEPA.d33.s79	CONCLUSIONS: These results suggest that the formation of IPs by OT, the OT receptor levels in the myometrium, and the production of PGF2 in the decidua might play crucial roles in parturition
+IEPA.d70.s171	Inhibition of 5-HT3 serotonergic receptors with ondansetron (4 or 8 mg) did not modify the basal secretion of AVP and OT and the OT response to insulin-induced hypoglycemia
+IEPA.d80.s190	To explore the possible roles of the hypothalamic melanocortin system in leptin action, we examined the effects of intracerebroventricular (i.c.v.) injection of leptin with or without SHU9119, a potent antagonist of alpha-melanocyte stimulating hormone, on food intake, body weight, and mitochondrial uncoupling protein-1 (UCP-1) mRNA expression in the brown adipose tissue (BAT) in rats
+IEPA.d80.s191	A single i.c.v. injection of leptin decreased cumulative food intake and body weight gain, and increased UCP-1 mRNA expression during 3 h at the onset of the dark phase
+IEPA.d80.s192	Co-injection of SHU9119 also inhibited completely the leptin-induced increase in UCP-1 mRNA expression in the BAT
+IEPA.d81.s193	It has been established that amyloid beta peptide (AbetaP) activates phospholipase A2, phospholipase C and phospholipase D of LA-N-2 cells and other cell types
+IEPA.d81.s194	(-)Nicotine did not blunt the AbetaP activation of phospholipase C
+IEPA.d97.s234	The specific protein kinase C (PKC) inhibitor chelerythrine (5 micrometers) inhibited PTH-, AVP-, PGE2-, and adenosine-stimulated Ca2+ reabsorption by 77%, 67%, 79%, and 100%, respectively
+IEPA.d97.s235	CONCLUSION: PTH, AVP, PGE2, and adenosine stimulate Ca2+ reabsorption via a pathway that is independent of cAMP and that involves a phorbol ester-insensitive PKC isotype
+IEPA.d113.s272	The experiments were concluded by taking blood samples for later analysis of plasma glucose and plasma levels of the following hormones: insulin, gastrin, CCK, glucagon, somatostatin, oxytocin and corticosterone
+IEPA.d113.s273	The low-performing Stock B animals were characterized by [1] being more reactive to sensory stimulation: higher startle amplitude and shorter startle latency; [2] having higher plasma insulin and corticosterone levels, whereas plasma gastrin and oxytocin were significantly lowered and a strong tendency for a decrease also in plasma CCK
+IEPA.d126.s299	The expression of uterine UCP2 and UCP3 were up-regulated by 3.2- and 1.5-fold, respectively, during the late stage of pregnancy with an increase of WAT leptin mRNA expression and exogenous administration of leptin resulted in induction of the uterine UCP2 and UCP3 levels
+IEPA.d126.s300	These results indicate that UCP gene expressions during pregnancy are regulated tissue-dependently, and up-regulation of uterine UCP2 and UCP3 mRNA may be due to increased leptin levels
+IEPA.d140.s335	Arginine vasopressin (AVP) and lysophosphatidic acid (LPA) have been shown to stimulate protein kinase C (PKC) and mitogen-activated protein (MAP) kinases and the proliferation of vascular smooth muscle cells
+IEPA.d140.s336	However, AVP-induced activation of RSK2, a downstream substrate of ERK1 and ERK2, was PKC-dependent and PI 3-kinase-independent
+IEPA.d140.s337	PKC was necessary in AVP- but not in LPA-induced activation of p70 S6K
+IEPA.d143.s343	Oxytocin central injections to intact animals stimulated insulin synthesis and secretion without changing of islets area
+IEPA.d143.s344	Thus, oxytocin administration stimulates insulin synthesis and secretion in intact and diabetic animals and this effect is more expressed with central injections
+IEPA.d162.s390	We previously reported that adiposity and serum leptin levels increase with age in male F-344xBN rats and that when physiological levels of serum leptin are manipulated by fasting, there is a corresponding reciprocal change in hypothalamic neuropeptide Y (NPY) mRNA in young rats, but there are no changes in older rats
+IEPA.d162.s391	These findings suggest that the regulation of hypothalamic NPY mRNA by leptin may be impaired with age
+IEPA.d162.s392	We examined daily food consumption, body weight, whole-body oxygen consumption, serum leptin, and NPY mRNA in the hypothalamus
+IEPA.d162.s393	Leptin infusion diminished hypothalamic NPY levels by nearly 50% compared with pair-fed young rats, whereas there were no changes in the hypothalamic NPY mRNA levels in senescent rats
+IEPA.d162.s394	These diminished responses to leptin were associated with and may be the result of an impaired suppression of hypothalamic NPY mRNA levels
+IEPA.d166.s402	The protein kinase C specific inhibitor Go-6983 further enhanced the inhibitory effect of VACM-1 on AVP-stimulated cAMP production
+IEPA.d168.s404	Involvement of thyroid hormones in the effect of intracerebroventricular leptin infusion on uncoupling protein-3 expression in rat muscle
+IEPA.d168.s405	A reduction of food intake imposed on control rats (pair-feeding), aimed at mimicking leptin-induced hyperphagia, produced a marked decrease in the expression of muscle uncoupling protein-3 (UCP-3), whereas ICV infusion of leptin prevented such a decrease in UCP-3
+IEPA.d168.s406	To further substantiate an involvement of thyroid hormones in the effect of leptin on muscle UCP-3 expression, hypothyroid rats were ICV infused with leptin or vehicle
+IEPA.d168.s407	It was observed that in hypothyroid rats, ICV leptin was unable to maintain muscle UCP-3 expression at values measured in ad libitum fed controls
+IEPA.d168.s408	These results suggest that central leptin stimulates T3 production via an activation of T4 to T3 conversion, and that this stimulation could be responsible for the effect of leptin on muscle UCP-3 expression
+IEPA.d182.s436	The effect of leptin in adult rats appears to be exerted at hypothalamic level by regulating growth hormone releasing hormone (GHRH), somatostatin and neuropeptide Y (NPY)-producing neurones
+IEPA.d186.s444	Insulin secretion, inositol phosphate levels, and phospholipase C isozymes in rodent pancreatic islets
+IEPA.d186.s445	These findings are consistent with the concept that the underexpression of the nutrient-activated PLC isozyme may account for the minimal inositol phosphate (IP) and second-phase insulin secretory response from mouse islets
+IEPA.d187.s446	Gibbestatin B inhibits the GA-induced expression of alpha-amylase expression in cereal seeds [In Process Citation]
+IEPA.d187.s447	The expression of alpha-amylase in aleurone layers of barley is known to be induced by gibberellin A3 (GA).
+IEPA.d187.s448	In the present study, gibbestatin B (GNB) was isolated from Streptomyces sp. C-39 as an inhibitor of the GA-induced expression of alpha-amylase in barley and rice, with IC50 values of 125 and 70 microM, respectively.
+IEPA.d187.s449	GNB suppressed accumulation of GA-induced barley high-pI type B and rice RAmylA alpha-amylase transcripts.
+IEPA.d187.s450	These analyses indicate that GNB inhibits the GA-induced expression of alpha-amylase by regulating one of the steps involved in ABA signaling, but not by acting as a weak ABA analog.
+IEPA.d194.s465	Insulin-induced phospholipase D1 and phospholipase D2 activity in human embryonic kidney-293 cells mediated by the phospholipase Cgamma and protein kinase Calpha signalling cascade.
+IEPA.d194.s466	Co-expression of PLD1 with phospholipase C (PLC)gamma has the same effect, while co-expression of PLD2 with PLCgamma allows PLD2 activity to be stimulated in an insulin-dependent manner.
+IEPA.d194.s467	The PKC-specific inhibitors bisindolylmaleimide and Go 6976 abolish insulin-induced PLD2 activation in HEK-293 cells co-expressing the insulin receptor, PLCgamma and PLD2, confirming that not only PLD1, but PLD2 as well, is regulated in a PKC-dependent manner.
+IEPA.d194.s468	In summary, we demonstrate that insulin treatment results in activation of both PLD1 and PLD2 in appropriate cell types when the appropriate upstream intermediate signalling components, i.e. PKCalpha and PLCgamma, are expressed at sufficient levels.
+IEPA.d49.s126	Leptin upregulates the expression of uncoupling protein-2 (UCP-2) mRNA in islets of normal rats, but has no effect in islets of obese Zucker Diabetic Fatty (ZDF) rats with mutated leptin receptors
+IEPA.d115.s277	Overexpression of G11alpha and isoforms of phospholipase C in islet  beta-cells reveals a lack of correlation between inositol phosphate  accumulation and insulin secretion.
+IEPA.d115.s278	It has been suggested that insulin secretion from pancreatic islets may be  mediated in part by activation of phospholipases C (PLCs) and  phosphoinositide hydrolysis.
+IEPA.d115.s279	The purpose of this study was to determine  whether the relatively modest fuel-stimulated insulin secretion responses  of rodent beta-cell lines might be explained by inadequate expression or  activation of PLC isoforms.
+IEPA.d115.s280	Adenovirus-mediated overexpression of PLC-delta1, -beta1, or  -beta3 in INS-1 or betaG 40/110 cells results in little or no enhancement  in inositol phosphate (IP) accumulation and no improvement in insulin  secretion when the cells are stimulated with glucose or carbachol, despite  the fact that the overexpressed proteins are fully active in cell  extracts.
+IEPA.d115.s281	Overexpression of PLC-beta1 or -beta3 in normal rat islets  elicits a larger increase in IP accumulation but, again, has no effect on  insulin secretion.
+IEPA.d115.s282	Because the effect of carbachol on insulin secretion is  thought to be mediated through muscarinic receptors that link to the Gq/11  class of heterotrimeric G proteins, we also overexpressed G11alpha in  INS-1 cells, either alone or in concert with overexpression of PLC-beta1  or -beta3.
+IEPA.d115.s283	Overexpression of G11alpha enhances IP accumulation, an effect  slightly potentiated by co-overexpression of PLC-beta1 or -beta3, but  these maneuvers do not affect glucose or carbachol-stimulated insulin  secretion.
+IEPA.d135.s323	These results suggest that, in isolated white adipocytes, the released adenosine acts as a helper and/or a positive regulator for insulin in the release of leptin via an activation of adenosine A1 receptors that involves the PLC-PKC pathway.

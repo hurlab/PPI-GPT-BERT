@@ -1,0 +1,331 @@
+,sen_id,E1,E2,isValid
+0,LLL.d0.s0,KinC,KinD,False
+1,LLL.d0.s0,KinC,Spo0A~P,True
+2,LLL.d0.s0,KinD,Spo0A~P,True
+3,LLL.d1.s0,sigma(A),Spo0A,False
+4,LLL.d1.s0,sigma(A),spoIIG,True
+5,LLL.d1.s0,Spo0A,spoIIG,True
+6,LLL.d2.s0,SigE,ydhD,True
+7,LLL.d2.s1,SigK,ykuD,True
+8,LLL.d2.s2,SigK,GerE,False
+9,LLL.d2.s2,SigK,ykvP,True
+10,LLL.d2.s2,GerE,ykvP,True
+11,LLL.d3.s0,sigma(F),sigma(G),False
+12,LLL.d3.s0,sigma(F),ywhE,True
+13,LLL.d3.s0,sigma(G),ywhE,True
+14,LLL.d4.s0,SpoIIE,sigma(F),True
+15,LLL.d4.s1,FtsZ,SpoIIE,True
+16,LLL.d5.s0,sigma(H),spo0A,True
+17,LLL.d5.s0,sigma(H),spoVG,True
+18,LLL.d5.s0,spo0A,spoVG,False
+19,LLL.d6.s0,sigma(F),sigma(G),False
+20,LLL.d6.s0,sigma(F),rsfA,True
+21,LLL.d6.s0,sigma(G),rsfA,True
+22,LLL.d7.s0,sigma(K),gerE,False
+23,LLL.d7.s0,sigma(K),cwlH,True
+24,LLL.d7.s0,gerE,cwlH,True
+25,LLL.d8.s0,EsigmaF,KatX,True
+26,LLL.d8.s1,sigmaB,katX,True
+27,LLL.d8.s2,sigmaB,sigmaF,False
+28,LLL.d8.s2,sigmaB,katX,True
+29,LLL.d8.s2,sigmaF,katX,True
+30,LLL.d8.s3,sigmaB,katX,True
+31,LLL.d9.s0,SpoIIE,sigmaF,True
+32,LLL.d9.s1,SpoIIAB,SpoIIAA,False
+33,LLL.d9.s1,SpoIIAB,SpoIIE,False
+34,LLL.d9.s1,SpoIIAB,sigmaF,True
+35,LLL.d9.s1,SpoIIAB,SpoIIAA,False
+36,LLL.d9.s1,SpoIIAA,SpoIIE,False
+37,LLL.d9.s1,SpoIIAA,sigmaF,True
+38,LLL.d9.s1,SpoIIAA,SpoIIAA,False
+39,LLL.d9.s1,SpoIIE,sigmaF,True
+40,LLL.d9.s1,SpoIIE,SpoIIAA,True
+41,LLL.d9.s1,sigmaF,SpoIIAA,False
+42,LLL.d10.s0,SigL,RocR,False
+43,LLL.d10.s0,SigL,rocG,True
+44,LLL.d10.s0,RocR,rocG,True
+45,LLL.d10.s1,sigma(54),rocG,True
+46,LLL.d12.s0,E sigma E,yfhS,True
+47,LLL.d12.s1,YfhP,yfhQ,True
+48,LLL.d12.s1,YfhP,yfhR,True
+49,LLL.d12.s1,YfhP,sspE,True
+50,LLL.d12.s1,YfhP,yfhP,True
+51,LLL.d12.s1,yfhQ,yfhR,False
+52,LLL.d12.s1,yfhQ,sspE,False
+53,LLL.d12.s1,yfhQ,yfhP,False
+54,LLL.d12.s1,yfhR,sspE,False
+55,LLL.d12.s1,yfhR,yfhP,False
+56,LLL.d12.s1,sspE,yfhP,False
+57,LLL.d14.s0,FtsZ,FtsZ,False
+58,LLL.d14.s0,FtsZ,SpoIIE,True
+59,LLL.d14.s0,FtsZ,SpoIIE,False
+60,LLL.d14.s0,FtsZ,SpoIIE,False
+61,LLL.d14.s0,FtsZ,SpoIIE,True
+62,LLL.d14.s0,SpoIIE,SpoIIE,False
+63,LLL.d14.s1,SpoIIE,SpoIIAA,True
+64,LLL.d14.s1,SpoIIE,sigmaF,False
+65,LLL.d14.s1,SpoIIAA,sigmaF,True
+66,LLL.d14.s2,SpoIIE,sigmaF,True
+67,LLL.d14.s3,SpoIIE,SpoIIAA-P,True
+68,LLL.d14.s3,SpoIIE,sigmaF,True
+69,LLL.d14.s3,SpoIIAA-P,sigmaF,True
+70,LLL.d15.s0,SpoIIE,SpoIIAA-P,True
+71,LLL.d16.s0,sigmaB,bmrUR,True
+72,LLL.d16.s1,sigmaB,ydaP,True
+73,LLL.d16.s2,sigmaB,ydaE,True
+74,LLL.d16.s2,sigmaB,ydaG,True
+75,LLL.d16.s2,sigmaB,yfkM,True
+76,LLL.d16.s2,ydaE,ydaG,False
+77,LLL.d16.s2,ydaE,yfkM,False
+78,LLL.d16.s2,ydaG,yfkM,False
+79,LLL.d17.s0,SpoIIE,sigma F,True
+80,LLL.d18.s0,sigmaK,cot,True
+81,LLL.d18.s0,sigmaK,gerE,True
+82,LLL.d18.s0,cot,gerE,False
+83,LLL.d18.s1,GerE,sigK,True
+84,LLL.d18.s2,sigmaK,GerE,False
+85,LLL.d18.s2,sigmaK,gerE,True
+86,LLL.d18.s2,sigmaK,sigmaK,False
+87,LLL.d18.s2,GerE,gerE,False
+88,LLL.d18.s2,GerE,sigmaK,True
+89,LLL.d18.s2,gerE,sigmaK,False
+90,LLL.d18.s3,GerE,sigmaK,True
+91,LLL.d18.s3,GerE,GerE,False
+92,LLL.d18.s3,GerE,cotD,True
+93,LLL.d18.s3,GerE,cotD,False
+94,LLL.d18.s3,sigmaK,GerE,False
+95,LLL.d18.s3,sigmaK,cotD,True
+96,LLL.d18.s3,sigmaK,cotD,False
+97,LLL.d18.s3,GerE,cotD,False
+98,LLL.d18.s3,GerE,cotD,True
+99,LLL.d18.s3,cotD,cotD,False
+100,LLL.d18.s4,GerE,sigK,True
+101,LLL.d18.s5,GerE,cotD,True
+102,LLL.d18.s6,GerE,cotD,True
+103,LLL.d19.s0,GerE,sspG,True
+104,LLL.d19.s1,sigmaG,sspJ,True
+105,LLL.d20.s0,ComK,FlgM,True
+106,LLL.d20.s0,ComK,hag,True
+107,LLL.d20.s0,ComK,comF,True
+108,LLL.d20.s0,ComK,flgM,True
+109,LLL.d20.s0,ComK,sigmaD,False
+110,LLL.d20.s0,FlgM,hag,False
+111,LLL.d20.s0,FlgM,comF,False
+112,LLL.d20.s0,FlgM,flgM,False
+113,LLL.d20.s0,FlgM,sigmaD,True
+114,LLL.d20.s0,hag,comF,False
+115,LLL.d20.s0,hag,flgM,False
+116,LLL.d20.s0,hag,sigmaD,False
+117,LLL.d20.s0,comF,flgM,False
+118,LLL.d20.s0,comF,sigmaD,False
+119,LLL.d20.s0,flgM,sigmaD,False
+120,LLL.d21.s0,sigmaB,ykzA,True
+121,LLL.d22.s0,sigma X,sigma B,False
+122,LLL.d22.s0,sigma X,CsbB,True
+123,LLL.d22.s0,sigma B,CsbB,True
+124,LLL.d23.s0,sigma B,nadE,True
+125,LLL.d24.s0,sigma(B),sigma(H),False
+126,LLL.d24.s0,sigma(B),YtxH,True
+127,LLL.d24.s0,sigma(B),YvyD,True
+128,LLL.d24.s0,sigma(H),YtxH,True
+129,LLL.d24.s0,sigma(H),YvyD,True
+130,LLL.d24.s0,YtxH,YvyD,False
+131,LLL.d25.s0,SigL,bkd,True
+132,LLL.d26.s0,ComK,sigmaD,True
+133,LLL.d26.s0,ComK,degR,True
+134,LLL.d26.s0,ComK,degR,True
+135,LLL.d26.s0,sigmaD,degR,False
+136,LLL.d26.s0,sigmaD,degR,True
+137,LLL.d26.s0,degR,degR,False
+138,LLL.d26.s1,sigmaD,degR,True
+139,LLL.d27.s0,SpoIIID,cotC,True
+140,LLL.d27.s0,SpoIIID,cotX,True
+141,LLL.d27.s0,SpoIIID,cotB,True
+142,LLL.d27.s0,cotC,cotX,False
+143,LLL.d27.s0,cotC,cotB,False
+144,LLL.d27.s0,cotX,cotB,False
+145,LLL.d27.s1,sigma(K),GerE,False
+146,LLL.d27.s1,sigma(K),cotB,True
+147,LLL.d27.s1,sigma(K),cotC,True
+148,LLL.d27.s1,sigma(K),cotX,True
+149,LLL.d27.s1,GerE,cotB,True
+150,LLL.d27.s1,GerE,cotC,True
+151,LLL.d27.s1,GerE,cotX,True
+152,LLL.d27.s1,cotB,cotC,False
+153,LLL.d27.s1,cotB,cotX,False
+154,LLL.d27.s1,cotC,cotX,False
+155,LLL.d27.s2,GerE,SpoIIID,False
+156,LLL.d27.s2,GerE,cot,True
+157,LLL.d27.s2,SpoIIID,cot,True
+158,LLL.d27.s3,GerE,sigma(K),True
+159,LLL.d27.s3,GerE,cotB,True
+160,LLL.d27.s3,GerE,cotX,True
+161,LLL.d27.s3,GerE,cotC,True
+162,LLL.d27.s3,sigma(K),cotB,True
+163,LLL.d27.s3,sigma(K),cotX,False
+164,LLL.d27.s3,sigma(K),cotC,False
+165,LLL.d27.s3,cotB,cotX,False
+166,LLL.d27.s3,cotB,cotC,False
+167,LLL.d27.s3,cotX,cotC,False
+168,LLL.d27.s4,SpoIIID,cotC,True
+169,LLL.d27.s4,SpoIIID,cotX,True
+170,LLL.d27.s4,SpoIIID,cotB,True
+171,LLL.d27.s4,cotC,cotX,False
+172,LLL.d27.s4,cotC,cotB,False
+173,LLL.d27.s4,cotX,cotB,False
+174,LLL.d29.s0,sigmaW,sigW,True
+175,LLL.d31.s0,PhoP~P,tagA,True
+176,LLL.d31.s0,PhoP~P,tagD,True
+177,LLL.d31.s0,PhoP~P,tuaA,True
+178,LLL.d31.s0,tagA,tagD,False
+179,LLL.d31.s0,tagA,tuaA,False
+180,LLL.d31.s0,tagD,tuaA,False
+181,LLL.d32.s0,AraR,araE,True
+182,LLL.d33.s0,GerE,sigmaK,True
+183,LLL.d33.s1,GerE,cotX,True
+184,LLL.d36.s0,sigmaB,sigmaH,False
+185,LLL.d36.s0,sigmaB,yvyD,True
+186,LLL.d36.s0,sigmaB,yvyD,False
+187,LLL.d36.s0,sigmaH,yvyD,False
+188,LLL.d36.s0,sigmaH,yvyD,True
+189,LLL.d36.s0,yvyD,yvyD,False
+190,LLL.d36.s1,sigmaB,sigmaH,False
+191,LLL.d36.s1,sigmaB,yvyD,True
+192,LLL.d36.s1,sigmaB,sigmaL,False
+193,LLL.d36.s1,sigmaH,yvyD,True
+194,LLL.d36.s1,sigmaH,sigmaL,False
+195,LLL.d36.s1,yvyD,sigmaL,True
+196,LLL.d36.s2,sigmaB,yvyD,True
+197,LLL.d39.s0,ClpX,ClpX,False
+198,LLL.d39.s0,ClpX,sigmaH,True
+199,LLL.d39.s0,ClpX,sigmaA,True
+200,LLL.d39.s0,ClpX,sigmaH,True
+201,LLL.d39.s0,ClpX,sigmaA,True
+202,LLL.d39.s0,sigmaH,sigmaA,False
+203,LLL.d40.s0,Spo0,spo0H,True
+204,LLL.d41.s0,SpoIIAB,FlgM,False
+205,LLL.d41.s0,SpoIIAB,RbsW,False
+206,LLL.d41.s0,SpoIIAB,DnaK,False
+207,LLL.d41.s0,SpoIIAB,sigma F,True
+208,LLL.d41.s0,SpoIIAB,sigma G,True
+209,LLL.d41.s0,SpoIIAB,sigma 28,False
+210,LLL.d41.s0,SpoIIAB,sigma B,False
+211,LLL.d41.s0,SpoIIAB,sigma 32,False
+212,LLL.d41.s0,FlgM,RbsW,False
+213,LLL.d41.s0,FlgM,DnaK,False
+214,LLL.d41.s0,FlgM,sigma F,False
+215,LLL.d41.s0,FlgM,sigma G,False
+216,LLL.d41.s0,FlgM,sigma 28,True
+217,LLL.d41.s0,FlgM,sigma B,False
+218,LLL.d41.s0,FlgM,sigma 32,False
+219,LLL.d41.s0,RbsW,DnaK,False
+220,LLL.d41.s0,RbsW,sigma F,False
+221,LLL.d41.s0,RbsW,sigma G,False
+222,LLL.d41.s0,RbsW,sigma 28,False
+223,LLL.d41.s0,RbsW,sigma B,True
+224,LLL.d41.s0,RbsW,sigma 32,False
+225,LLL.d41.s0,DnaK,sigma F,False
+226,LLL.d41.s0,DnaK,sigma G,False
+227,LLL.d41.s0,DnaK,sigma 28,False
+228,LLL.d41.s0,DnaK,sigma B,False
+229,LLL.d41.s0,DnaK,sigma 32,True
+230,LLL.d41.s0,sigma F,sigma G,False
+231,LLL.d41.s0,sigma F,sigma 28,False
+232,LLL.d41.s0,sigma F,sigma B,False
+233,LLL.d41.s0,sigma F,sigma 32,False
+234,LLL.d41.s0,sigma G,sigma 28,False
+235,LLL.d41.s0,sigma G,sigma B,False
+236,LLL.d41.s0,sigma G,sigma 32,False
+237,LLL.d41.s0,sigma 28,sigma B,False
+238,LLL.d41.s0,sigma 28,sigma 32,False
+239,LLL.d41.s0,sigma B,sigma 32,False
+240,LLL.d42.s0,sigmaE,spoIVA,True
+241,LLL.d44.s0,sigma W,PBP4*,True
+242,LLL.d44.s0,sigma W,RacX,True
+243,LLL.d44.s0,sigma W,YteI,True
+244,LLL.d44.s0,sigma W,YuaG,True
+245,LLL.d44.s0,sigma W,YknXYZ,True
+246,LLL.d44.s0,sigma W,YdjP,True
+247,LLL.d44.s0,sigma W,YfhM,True
+248,LLL.d44.s0,PBP4*,RacX,False
+249,LLL.d44.s0,PBP4*,YteI,False
+250,LLL.d44.s0,PBP4*,YuaG,False
+251,LLL.d44.s0,PBP4*,YknXYZ,False
+252,LLL.d44.s0,PBP4*,YdjP,False
+253,LLL.d44.s0,PBP4*,YfhM,False
+254,LLL.d44.s0,RacX,YteI,False
+255,LLL.d44.s0,RacX,YuaG,False
+256,LLL.d44.s0,RacX,YknXYZ,False
+257,LLL.d44.s0,RacX,YdjP,False
+258,LLL.d44.s0,RacX,YfhM,False
+259,LLL.d44.s0,YteI,YuaG,False
+260,LLL.d44.s0,YteI,YknXYZ,False
+261,LLL.d44.s0,YteI,YdjP,False
+262,LLL.d44.s0,YteI,YfhM,False
+263,LLL.d44.s0,YuaG,YknXYZ,False
+264,LLL.d44.s0,YuaG,YdjP,False
+265,LLL.d44.s0,YuaG,YfhM,False
+266,LLL.d44.s0,YknXYZ,YdjP,False
+267,LLL.d44.s0,YknXYZ,YfhM,False
+268,LLL.d44.s0,YdjP,YfhM,False
+269,LLL.d11.s0,sigmaH,phrC,True
+270,LLL.d13.s0,sigmaK,Spo0A,True
+271,LLL.d13.s0,sigmaK,sigE,False
+272,LLL.d13.s0,Spo0A,sigE,True
+273,LLL.d13.s1,sigmaA,sigmaK,False
+274,LLL.d13.s1,sigmaA,ald,True
+275,LLL.d13.s1,sigmaA,sigE,True
+276,LLL.d13.s1,sigmaA,sigmaA,False
+277,LLL.d13.s1,sigmaK,ald,False
+278,LLL.d13.s1,sigmaK,sigE,False
+279,LLL.d13.s1,sigmaK,sigmaA,True
+280,LLL.d13.s1,ald,sigE,False
+281,LLL.d13.s1,ald,sigmaA,False
+282,LLL.d13.s1,sigE,sigmaA,False
+283,LLL.d13.s2,sigmaK,sigE,True
+284,LLL.d28.s0,sigmaA,kdgR,True
+285,LLL.d30.s0,sigma(A),sigma(X),False
+286,LLL.d30.s0,sigma(A),sigX,True
+287,LLL.d30.s0,sigma(A),ypuN,True
+288,LLL.d30.s0,sigma(X),sigX,True
+289,LLL.d30.s0,sigma(X),ypuN,True
+290,LLL.d30.s0,sigX,ypuN,False
+291,LLL.d34.s0,Spo0A,sigma(A),True
+292,LLL.d34.s0,Spo0A,spoIIG,True
+293,LLL.d34.s0,sigma(A),spoIIG,True
+294,LLL.d35.s0,sigmaB,sigmaA,False
+295,LLL.d35.s0,sigmaB,clpC,True
+296,LLL.d35.s0,sigmaA,clpC,True
+297,LLL.d35.s1,CtsR,sigmaB,False
+298,LLL.d35.s1,CtsR,sigmaA,False
+299,LLL.d35.s1,CtsR,clpC,True
+300,LLL.d35.s1,sigmaB,sigmaA,False
+301,LLL.d35.s1,sigmaB,clpC,True
+302,LLL.d35.s1,sigmaA,clpC,True
+303,LLL.d37.s0,sigma(K),GerE,False
+304,LLL.d37.s0,sigma(K),ftsY,True
+305,LLL.d37.s0,GerE,ftsY,True
+306,LLL.d38.s0,sigmaB,gsiB,True
+307,LLL.d38.s0,sigmaB,sigB,True
+308,LLL.d38.s0,gsiB,sigB,False
+309,LLL.d43.s0,sigmaG,sigmaG,False
+310,LLL.d43.s0,sigmaG,sigmaF,False
+311,LLL.d43.s0,sigmaG,sspH,True
+312,LLL.d43.s0,sigmaG,sspN,False
+313,LLL.d43.s0,sigmaG,sspL,True
+314,LLL.d43.s0,sigmaG,tlp,False
+315,LLL.d43.s0,sigmaG,sigmaF,False
+316,LLL.d43.s0,sigmaG,sspH,False
+317,LLL.d43.s0,sigmaG,sspN,True
+318,LLL.d43.s0,sigmaG,sspL,False
+319,LLL.d43.s0,sigmaG,tlp,True
+320,LLL.d43.s0,sigmaF,sspH,False
+321,LLL.d43.s0,sigmaF,sspN,True
+322,LLL.d43.s0,sigmaF,sspL,False
+323,LLL.d43.s0,sigmaF,tlp,True
+324,LLL.d43.s0,sspH,sspN,False
+325,LLL.d43.s0,sspH,sspL,False
+326,LLL.d43.s0,sspH,tlp,False
+327,LLL.d43.s0,sspN,sspL,False
+328,LLL.d43.s0,sspN,tlp,False
+329,LLL.d43.s0,sspL,tlp,False

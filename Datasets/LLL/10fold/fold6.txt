@@ -1,0 +1,5 @@
+Sentence ID	Sentence
+LLL.d6.s0	The expression of rsfA is under the control of both sigma(F) and sigma(G).
+LLL.d15.s0	Dephosphorylation of SpoIIAA-P by SpoIIE is strictly dependent on the presence of the bivalent metal ions Mn2+ or Mg2+.
+LLL.d21.s0	This stress-induced increase in ykzA expression is absolutely dependent on the alternative sigma factor sigmaB, which controls a large stationary-phase and stress regulon.
+LLL.d24.s0	Furthermore, YtxH and YvyD seemed to be induced after phosphate starvation in the wild type in a sigma(B)-dependent manner and in the sigB mutant probably via sigma(H).

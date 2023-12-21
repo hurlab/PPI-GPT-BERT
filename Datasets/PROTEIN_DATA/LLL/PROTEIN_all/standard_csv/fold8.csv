@@ -1,0 +1,54 @@
+Sentence ID,Sentence,isValid
+198,Transcription of PROTEIN1 was dependent on PROTEIN2 and the mRNA was detectable from 2 h after the cessation of logarithmic growth (T2 of sporulation).,TRUE
+199,PROTEIN1 was transcribed by PROTEIN2 RNA polymerase from T4 of sporulation.,TRUE
+200,"Both PROTEIN1 and PROTEIN were essential for PROTEIN2 expression, and this gene was transcribed from T5 of sporulation.",TRUE
+201,"Both PROTEIN1 and PROTEIN2 were essential for PROTEIN expression, and this gene was transcribed from T5 of sporulation.",FALSE
+202,"Both PROTEIN and PROTEIN1 were essential for PROTEIN2 expression, and this gene was transcribed from T5 of sporulation.",TRUE
+203,From these results we conclude that PROTEIN1 negatively regulates PROTEIN2 expression by preventing PROTEIN driven transcription of PROTEIN possibly through interaction with the control region.,TRUE
+204,From these results we conclude that PROTEIN negatively regulates PROTEIN1 expression by preventing PROTEIN2 driven transcription of PROTEIN possibly through interaction with the control region.,FALSE
+205,From these results we conclude that PROTEIN negatively regulates PROTEIN1 expression by preventing PROTEIN driven transcription of PROTEIN2 possibly through interaction with the control region.,FALSE
+206,From these results we conclude that PROTEIN1 negatively regulates PROTEIN expression by preventing PROTEIN2 driven transcription of PROTEIN possibly through interaction with the control region.,TRUE
+207,From these results we conclude that PROTEIN1 negatively regulates PROTEIN expression by preventing PROTEIN driven transcription of PROTEIN2 possibly through interaction with the control region.,TRUE
+208,From these results we conclude that PROTEIN negatively regulates PROTEIN expression by preventing PROTEIN1 driven transcription of PROTEIN2 possibly through interaction with the control region.,TRUE
+209,"We have shown previously that the transcription of PROTEIN1 is driven by an alternative sigma factor, PROTEIN2 ",TRUE
+210,"DNase I footprinting showed that PROTEIN binds strongly to two sites in the PROTEIN1 promoter region, binds weakly to one site in the PROTEIN2 promoter, and does not bind specifically to PROTEIN ",FALSE
+211,"DNase I footprinting showed that PROTEIN1 binds strongly to two sites in the PROTEIN promoter region, binds weakly to one site in the PROTEIN2 promoter, and does not bind specifically to PROTEIN ",TRUE
+212,"DNase I footprinting showed that PROTEIN binds strongly to two sites in the PROTEIN promoter region, binds weakly to one site in the PROTEIN1 promoter, and does not bind specifically to PROTEIN2 ",FALSE
+213,"DNase I footprinting showed that PROTEIN1 binds strongly to two sites in the PROTEIN2 promoter region, binds weakly to one site in the PROTEIN promoter, and does not bind specifically to PROTEIN ",TRUE
+214,"DNase I footprinting showed that PROTEIN binds strongly to two sites in the PROTEIN1 promoter region, binds weakly to one site in the PROTEIN promoter, and does not bind specifically to PROTEIN2 ",FALSE
+215,"DNase I footprinting showed that PROTEIN1 binds strongly to two sites in the PROTEIN promoter region, binds weakly to one site in the PROTEIN promoter, and does not bind specifically to PROTEIN2 ",TRUE
+216,"Transcription of the PROTEIN PROTEIN and PROTEIN genes by final PROTEIN1 RNA polymerase is activated by a small, DNA-binding protein called PROTEIN2 ",FALSE
+217,"Transcription of the PROTEIN PROTEIN1 and PROTEIN genes by final PROTEIN2 RNA polymerase is activated by a small, DNA-binding protein called PROTEIN ",TRUE
+218,"Transcription of the PROTEIN1 PROTEIN and PROTEIN genes by final PROTEIN2 RNA polymerase is activated by a small, DNA-binding protein called PROTEIN ",TRUE
+219,"Transcription of the PROTEIN PROTEIN and PROTEIN1 genes by final PROTEIN2 RNA polymerase is activated by a small, DNA-binding protein called PROTEIN ",TRUE
+220,"Transcription of the PROTEIN PROTEIN1 and PROTEIN genes by final PROTEIN RNA polymerase is activated by a small, DNA-binding protein called PROTEIN2 ",TRUE
+221,"Transcription of the PROTEIN1 PROTEIN and PROTEIN genes by final PROTEIN RNA polymerase is activated by a small, DNA-binding protein called PROTEIN2 ",TRUE
+222,"Transcription of the PROTEIN PROTEIN and PROTEIN1 genes by final PROTEIN RNA polymerase is activated by a small, DNA-binding protein called PROTEIN2 ",TRUE
+223,"Transcription of the PROTEIN1 PROTEIN2 and PROTEIN genes by final PROTEIN RNA polymerase is activated by a small, DNA-binding protein called PROTEIN ",FALSE
+224,"Transcription of the PROTEIN PROTEIN1 and PROTEIN2 genes by final PROTEIN RNA polymerase is activated by a small, DNA-binding protein called PROTEIN ",FALSE
+225,"Transcription of the PROTEIN1 PROTEIN and PROTEIN2 genes by final PROTEIN RNA polymerase is activated by a small, DNA-binding protein called PROTEIN ",FALSE
+226,"In vitro transcription experiments suggest that the differential pattern of PROTEIN gene expression results from the combined action of PROTEIN1 and another transcription factor, PROTEIN2 ",FALSE
+227,"In vitro transcription experiments suggest that the differential pattern of PROTEIN1 gene expression results from the combined action of PROTEIN2 and another transcription factor, PROTEIN ",TRUE
+228,"In vitro transcription experiments suggest that the differential pattern of PROTEIN1 gene expression results from the combined action of PROTEIN and another transcription factor, PROTEIN2 ",TRUE
+229,"A low concentration of PROTEIN activated PROTEIN transcription by final PROTEIN RNA polymerase, whereas a higher concentration was needed to activate transcription of PROTEIN1 or PROTEIN2 ",FALSE
+230,"A low concentration of PROTEIN activated PROTEIN transcription by final PROTEIN1 RNA polymerase, whereas a higher concentration was needed to activate transcription of PROTEIN2 or PROTEIN ",FALSE
+231,"A low concentration of PROTEIN1 activated PROTEIN transcription by final PROTEIN RNA polymerase, whereas a higher concentration was needed to activate transcription of PROTEIN2 or PROTEIN ",TRUE
+232,"A low concentration of PROTEIN activated PROTEIN1 transcription by final PROTEIN RNA polymerase, whereas a higher concentration was needed to activate transcription of PROTEIN2 or PROTEIN ",FALSE
+233,"A low concentration of PROTEIN activated PROTEIN transcription by final PROTEIN1 RNA polymerase, whereas a higher concentration was needed to activate transcription of PROTEIN or PROTEIN2 ",FALSE
+234,"A low concentration of PROTEIN1 activated PROTEIN transcription by final PROTEIN RNA polymerase, whereas a higher concentration was needed to activate transcription of PROTEIN or PROTEIN2 ",TRUE
+235,"A low concentration of PROTEIN activated PROTEIN1 transcription by final PROTEIN RNA polymerase, whereas a higher concentration was needed to activate transcription of PROTEIN or PROTEIN2 ",FALSE
+236,"A low concentration of PROTEIN1 activated PROTEIN transcription by final PROTEIN2 RNA polymerase, whereas a higher concentration was needed to activate transcription of PROTEIN or PROTEIN ",TRUE
+237,"A low concentration of PROTEIN activated PROTEIN1 transcription by final PROTEIN2 RNA polymerase, whereas a higher concentration was needed to activate transcription of PROTEIN or PROTEIN ",TRUE
+238,"A low concentration of PROTEIN1 activated PROTEIN2 transcription by final PROTEIN RNA polymerase, whereas a higher concentration was needed to activate transcription of PROTEIN or PROTEIN ",TRUE
+239,"PROTEIN1 at low concentration repressed PROTEIN2 transcription, whereas a higher concentration only partially repressed PROTEIN transcription and had little effect on PROTEIN transcription.",TRUE
+240,"PROTEIN at low concentration repressed PROTEIN1 transcription, whereas a higher concentration only partially repressed PROTEIN2 transcription and had little effect on PROTEIN transcription.",FALSE
+241,"PROTEIN at low concentration repressed PROTEIN1 transcription, whereas a higher concentration only partially repressed PROTEIN transcription and had little effect on PROTEIN2 transcription.",FALSE
+242,"PROTEIN1 at low concentration repressed PROTEIN transcription, whereas a higher concentration only partially repressed PROTEIN2 transcription and had little effect on PROTEIN transcription.",TRUE
+243,"PROTEIN1 at low concentration repressed PROTEIN transcription, whereas a higher concentration only partially repressed PROTEIN transcription and had little effect on PROTEIN2 transcription.",TRUE
+244,"PROTEIN at low concentration repressed PROTEIN transcription, whereas a higher concentration only partially repressed PROTEIN1 transcription and had little effect on PROTEIN2 transcription.",FALSE
+245,"The addition of PROTEIN to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but PROTEIN1 RNAP was observed to be more sensitive to PROTEIN dependent stimulation than PROTEIN2 RNAP.",FALSE
+246,"The addition of PROTEIN1 to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but PROTEIN RNAP was observed to be more sensitive to PROTEIN dependent stimulation than PROTEIN2 RNAP.",TRUE
+247,"The addition of PROTEIN to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but PROTEIN RNAP was observed to be more sensitive to PROTEIN1 dependent stimulation than PROTEIN2 RNAP.",TRUE
+248,"The addition of PROTEIN1 to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but PROTEIN2 RNAP was observed to be more sensitive to PROTEIN dependent stimulation than PROTEIN RNAP.",TRUE
+249,"The addition of PROTEIN to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but PROTEIN1 RNAP was observed to be more sensitive to PROTEIN2 dependent stimulation than PROTEIN RNAP.",TRUE
+250,"The addition of PROTEIN1 to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but PROTEIN RNAP was observed to be more sensitive to PROTEIN2 dependent stimulation than PROTEIN RNAP.",FALSE

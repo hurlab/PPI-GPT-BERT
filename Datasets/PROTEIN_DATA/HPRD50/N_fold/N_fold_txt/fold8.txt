@@ -1,0 +1,22 @@
+Sentence ID	Sentence
+8	By electrophoretic mobility shift assay using the PROTEIN1 PROTEIN site and nuclear extracts from macrophages, we observed a specific protein-DNA complex formation, which was inhibited by a specific antibody against the transcription factor PROTEIN ( PROTEIN2 
+29	 PROTEIN1 is modified by PROTEIN in vivo and in vitro and the region of PROTEIN2 responsible for interaction maps to the N-terminal regulatory domain
+50	In this report, we demonstrate the stable association of PROTEIN with PROTEIN1 in a clathrin-coated vesicle complex, which not only binds to the carboxyl-terminal SH2 domain of PROTEIN2 but also inhibits its enzymatic activity in a dose-dependent manner
+71	A PROTEIN1 mutant containing a P154L substitution coimmunoprecipitates with PROTEIN but not PROTEIN2 and does not promote degradation of PROTEIN 
+92	The fact that the PROTEIN mRNA editing protein also exists as a PROTEIN1 has important implications for the mechanism of PROTEIN2 mRNA editing in humans
+113	We report that PROTEIN (MutS homolog 2) protein interacts with the ATR (ATM- and Rad3-related) kinase to form a signaling module and regulate the phosphorylation of PROTEIN1 and PROTEIN2 (structure maintenance of chromosome 1)
+134	Differential binding of vascular cell-derived proteoglycans ( PROTEIN PROTEIN PROTEIN1 and PROTEIN2 to the beta-amyloid protein of Alzheimer's disease
+155	Characterization of EC and PROTEIN PROTEIN bound to A beta (1-28) revealed strong binding by PROTEIN weak binding by PROTEIN1 and PROTEIN2 two dermatan sulfate proteoglycans, and lack of binding by PROTEIN PROTEIN a large chondroitin sulfate proteoglycan
+176	 PROTEIN1 specifically interacted with the general transcription factors PROTEIN TBP, and PROTEIN but not with TFIIEalpha in the PROTEIN2 pull-down assays
+197	The interaction between AR and PROTEIN1 was assessed by PROTEIN2 ( PROTEIN pull-down assay and mammalian two-hybrid system assay
+218	 PROTEIN ( PROTEIN , PROTEIN1 ( PROTEIN , and PROTEIN ( PROTEIN2 constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis
+239	Data also has been obtained that PROTEIN1 and PROTEIN2 as well as PROTEIN interact with both PROTEIN and cyclinB1, resulting in inhibition of the kinase activity of the PROTEIN cyclinB1 complex
+260	It was previously shown that the N-terminus of PROTEIN1 is critical for binding PROTEIN2 
+281	Subsequent amino acid sequencing revealed many peptides involving PROTEIN cross-linked either to itself or to a variety of other known CE protein components, including PROTEIN1 PROTEIN PROTEIN2 keratins, members of the small proline-rich superfamily, PROTEIN and unknown proteins related to the PROTEIN family
+302	Catalytic domains of the tyrosine phosphatases PROTEIN PROTEIN1 and PTPbeta did not interact with proteins of the catenin family to detectable levels, suggesting that the interaction of PROTEIN2 with these proteins is specific
+323	The results of complementation experiments show that, in contrast to mouse PROTEIN1 mouse PROTEIN2 can partially alleviate the growth defect of the corresponding yeast null strain, indicating that the role of PROTEIN in pre-rRNA processing is evolutionarily conserved
+344	In addition, electron microscopy experiments revealed that PROTEIN1 and PROTEIN2 are closely apposed at the plasma membrane level; they are close enough to form hetero-oligomers
+365	We propose that PROTEIN1 and PROTEIN2 in cooperation with other adapter molecules might regulate the cellular localization of PROTEIN under specific stimuli, acting to regulate precisely Rac and PROTEIN activities
+386	Here, we characterize the interaction between PROTEIN1 and PROTEIN show that PROTEIN phosphorylates PROTEIN2 at conserved S274 and S326 residues in vitro, and present evidence that PROTEIN is also a substrate for PROTEIN in vivo
+407	These results suggest that PROTEIN1 phosphorylation of PROTEIN2 may influence cytokinesis
+428	Finally, PROTEIN1 bound different glycoforms of PROTEIN2 expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on PROTEIN in resting and activated T cells, respectively

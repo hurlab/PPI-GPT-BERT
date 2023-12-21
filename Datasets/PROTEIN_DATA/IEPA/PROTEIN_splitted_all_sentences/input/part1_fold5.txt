@@ -1,0 +1,42 @@
+Sentence ID	Sentence
+345	The aim of this study was to investigate the effects of hCG, hCG plus PROTEIN1 and PROTEIN2 on [3H] PROTEIN (IP) formations in porcine myometrial cells obtained from ovariectomized and cyclic gilts
+346	The aim of this study was to investigate the effects of hCG, hCG plus PROTEIN and PROTEIN1 on [3H] PROTEIN2 (IP) formations in porcine myometrial cells obtained from ovariectomized and cyclic gilts
+347	The aim of this study was to investigate the effects of hCG, hCG plus PROTEIN1 and PROTEIN on [3H] PROTEIN2 (IP) formations in porcine myometrial cells obtained from ovariectomized and cyclic gilts
+348	The highest production of total PROTEIN1 (d.p.m.) was found in cells from ovariectomized gilts given in vivo estradiol benzoate and progesterone for five consecutive days and treated with 1000 mU hCG and 100 mU hCG plus 1 microM PROTEIN2 (984 +/- 84 and 1063 +/- 131 vs 314 +/- 36, respectively)
+349	There was also a very significant increase of PROTEIN1 after the addition of 1000 mU hCG (p < 0.001) and PROTEIN2 and PROTEIN when 1000 mU hCG plus PROTEIN were added (p < 0.001 and p < 0.01, respectively)
+350	There was also a very significant increase of PROTEIN after the addition of 1000 mU hCG (p < 0.001) and PROTEIN1 and PROTEIN2 when 1000 mU hCG plus PROTEIN were added (p < 0.001 and p < 0.01, respectively)
+351	There was also a very significant increase of PROTEIN after the addition of 1000 mU hCG (p < 0.001) and PROTEIN1 and PROTEIN when 1000 mU hCG plus PROTEIN2 were added (p < 0.001 and p < 0.01, respectively)
+352	There was also a very significant increase of PROTEIN1 after the addition of 1000 mU hCG (p < 0.001) and PROTEIN and PROTEIN2 when 1000 mU hCG plus PROTEIN were added (p < 0.001 and p < 0.01, respectively)
+353	There was also a very significant increase of PROTEIN1 after the addition of 1000 mU hCG (p < 0.001) and PROTEIN and PROTEIN when 1000 mU hCG plus PROTEIN2 were added (p < 0.001 and p < 0.01, respectively)
+354	There was also a very significant increase of PROTEIN after the addition of 1000 mU hCG (p < 0.001) and PROTEIN and PROTEIN1 when 1000 mU hCG plus PROTEIN2 were added (p < 0.001 and p < 0.01, respectively)
+355	Only PROTEIN1 alone increased the formation of PROTEIN2 in cells from ovariectomized pigs treated with estradiol in vivo (p < 0.01)
+356	The highest dose of hCG plus The highest dose of hCG plus PROTEIN1 provoked accumulation of total [3H] PROTEIN2 (p < 0.05) 53% over the basal level on days 21/1 of the estrous cycle
+357	The present study demonstrates that hCG and PROTEIN1 can increase the accumulation of PROTEIN2 in porcine myometrial cells
+358	In HVSMC both PROTEIN1 and AVP increased PROTEIN (IP3) production and [Ca2+]i response, but the efficacy of the responses was greater for PROTEIN2 than AVP
+359	In HVSMC both PROTEIN1 and AVP increased PROTEIN2 (IP3) production and [Ca2+]i response, but the efficacy of the responses was greater for PROTEIN than AVP
+360	In HVSMC both PROTEIN and AVP increased PROTEIN1 (IP3) production and [Ca2+]i response, but the efficacy of the responses was greater for PROTEIN2 than AVP
+361	Gamma-aminobutyric acid mediation of the inhibitory effect of nitric oxide on the arginine vasopressin and PROTEIN1 responses to PROTEIN2 induced hypoglycemia
+362	Previous studies have demonstrated that the nitric oxide (NO) synthase inhibitor L-NAME exerts positive effects on the arginine vasopressin (AVP) and PROTEIN1 (OT) responses to PROTEIN2 induced hypoglycemia, suggesting inhibitory actions of NO
+363	AVP and PROTEIN1 secretory patterns during PROTEIN2 (0.15 IU/kg, i.v.)-tolerance tests (ITT) were examined in seven normal male subjects with (experimental tests) and without (control test) concomitant treatment with L-NAME (40 micrograms/kg injected plus 50 micrograms/kg infused, i.v.), the GABAergic agent sodium valproate (600 mg in three divided doses orally) or the combination of L-NAME and sodium valproate
+364	 PROTEIN1 induced hypoglycemia increased by 2-fold (peak vs. baseline) plasma AVP and PROTEIN2 levels
+365	These data indicate a GABAergic mediation of the inhibitory modulation by NO of the AVP and PROTEIN1 responses to PROTEIN2 induced hypoglycemia
+366	Association of the insulin receptor with PROTEIN1 (PLCgamma) in 3T3-L1 adipocytes suggests a role for PROTEIN2 in metabolic signaling by PROTEIN 
+367	Association of the insulin receptor with PROTEIN (PLCgamma) in 3T3-L1 adipocytes suggests a role for PROTEIN1 in metabolic signaling by PROTEIN2 
+368	Association of the insulin receptor with PROTEIN1 (PLCgamma) in 3T3-L1 adipocytes suggests a role for PROTEIN in metabolic signaling by PROTEIN2 
+369	To determine the functional significance of the interaction of PROTEIN and the IR, we used a specific inhibitor of PROTEIN U73122, or microinjection of SH2 domain glutathione S-transferase fusion proteins derived from PROTEIN1 to block PROTEIN2 stimulated GLUT4 translocation
+370	To determine the functional significance of the interaction of PROTEIN1 and the IR, we used a specific inhibitor of PROTEIN U73122, or microinjection of SH2 domain glutathione S-transferase fusion proteins derived from PROTEIN2 to block PROTEIN stimulated GLUT4 translocation
+371	To determine the functional significance of the interaction of PROTEIN and the IR, we used a specific inhibitor of PROTEIN1 U73122, or microinjection of SH2 domain glutathione S-transferase fusion proteins derived from PROTEIN2 to block PROTEIN stimulated GLUT4 translocation
+372	To determine the functional significance of the interaction of PROTEIN1 and the IR, we used a specific inhibitor of PROTEIN U73122, or microinjection of SH2 domain glutathione S-transferase fusion proteins derived from PROTEIN to block PROTEIN2 stimulated GLUT4 translocation
+373	To determine the functional significance of the interaction of PROTEIN and the IR, we used a specific inhibitor of PROTEIN1 U73122, or microinjection of SH2 domain glutathione S-transferase fusion proteins derived from PROTEIN to block PROTEIN2 stimulated GLUT4 translocation
+374	To determine the functional significance of the interaction of PROTEIN1 and the IR, we used a specific inhibitor of PROTEIN2 U73122, or microinjection of SH2 domain glutathione S-transferase fusion proteins derived from PROTEIN to block PROTEIN stimulated GLUT4 translocation
+375	Although osmotic stimuli cause an increase in nitric oxide synthase (NOS) activity as well as synthesis of AVP and PROTEIN1 in the paraventricular (PVN) and supraoptic nuclei (SON), it is not known whether NOS activity in the hypothalamus changes in the diabetic patients who have plasma hyperosmolality with hyperglycaemia caused by PROTEIN2 deficiency
+376	Three weeks after administration of STZ, the diabetic rats were subcutaneously treated with PROTEIN1 for 1 week, which resulted in significant suppression of the induction of nNOS, AVP and PROTEIN2 gene expression in the PVN and SON
+377	Downregulation of PROTEIN1 mRNA in white adipose tissue and PROTEIN mRNA in skeletal muscle during the early stages of PROTEIN2 treatment
+378	Downregulation of PROTEIN1 mRNA in white adipose tissue and PROTEIN2 mRNA in skeletal muscle during the early stages of PROTEIN treatment
+379	Downregulation of PROTEIN mRNA in white adipose tissue and PROTEIN1 mRNA in skeletal muscle during the early stages of PROTEIN2 treatment
+380	 PROTEIN1 by intravenous or intracerebroventricular infusion for 5 h was associated with a decrease in PROTEIN2 mRNA in WAT (47-52%) and PROTEIN mRNA in SM (33-37%)
+381	 PROTEIN by intravenous or intracerebroventricular infusion for 5 h was associated with a decrease in PROTEIN1 mRNA in WAT (47-52%) and PROTEIN2 mRNA in SM (33-37%)
+382	 PROTEIN1 by intravenous or intracerebroventricular infusion for 5 h was associated with a decrease in PROTEIN mRNA in WAT (47-52%) and PROTEIN2 mRNA in SM (33-37%)
+383	Denervation suppressed mRNA levels for PROTEIN1 (49%), PROTEIN (36%), and COX-IV (59%) and eliminated the acute response to PROTEIN2 in SM
+384	Denervation suppressed mRNA levels for PROTEIN1 (49%), PROTEIN2 (36%), and COX-IV (59%) and eliminated the acute response to PROTEIN in SM
+385	Denervation suppressed mRNA levels for PROTEIN (49%), PROTEIN1 (36%), and COX-IV (59%) and eliminated the acute response to PROTEIN2 in SM

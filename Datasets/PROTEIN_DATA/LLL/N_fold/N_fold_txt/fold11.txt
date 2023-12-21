@@ -1,0 +1,10 @@
+Sentence ID	Sentence
+11	In addition to controlling transcription of PROTEIN1 PROTEIN2 appears to control expression of at least one other gene required for production of CSF.
+47	During endospore formation in Bacillus subtilis, the DNA binding protein PROTEIN1 stimulates transcription from several promoters that are used by RNA polymerase containing PROTEIN2 
+83	The PROTEIN regulon includes a penicillin binding protein ( PROTEIN and a co-transcribed amino acid racemase ( PROTEIN , homologues of signal peptide peptidase ( PROTEIN , flotillin ( PROTEIN , ABC transporters ( PROTEIN1 , non-haem bromoperoxidase ( PROTEIN , epoxide hydrolase ( PROTEIN2 and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+119	Most PROTEIN genes, and the PROTEIN1 gene, are transcribed by PROTEIN2 RNA polymerase.
+155	In addition to the typical PROTEIN1 dependent, stress- and starvation-inducible pattern, PROTEIN2 is also induced in response to amino acid depletion.
+191	The PROTEIN1 promoter, like the PROTEIN promoter, is believed to be recognized by PROTEIN2 RNA polymerase, suggesting that PROTEIN may inhibit PROTEIN activity late in sporulation.
+227	In vitro transcription experiments suggest that the differential pattern of PROTEIN1 gene expression results from the combined action of PROTEIN2 and another transcription factor, PROTEIN 
+263	PROTEIN is controlled by a regulatory cascade involving an anti-sigma factor, PROTEIN an anti-anti-sigma factor, PROTEIN and a membrane-bound phosphatase, PROTEIN1 which converts the inactive, phosphorylated form of PROTEIN2 back to the active form.
+299	The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; PROTEIN1 present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor PROTEIN PROTEIN which inhibits the sporulation-specific sigma factor, PROTEIN and PROTEIN of Bacillus subtilis; PROTEIN2 of B. subtilis, which inhibits stress response sigma factor PROTEIN and PROTEIN a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor PROTEIN 

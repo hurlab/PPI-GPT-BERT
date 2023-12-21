@@ -1,0 +1,17 @@
+Sentence ID	Sentence
+LLL.d14.s0	The first stage, which involves the phosphatase function of SpoIIE, depends on the cell division protein FtsZ and could correspond to the FtsZ-dependent assembly of SpoIIE into E-rings.
+LLL.d14.s1	Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that SpoIIE blocks the capacity of unphosphorylated SpoIIAA to activate sigmaF until formation of the polar septum is completed.
+LLL.d14.s2	Cell-specific activation of transcription factor sigmaF during sporulation in Bacillus subtilis requires the formation of the polar septum and the activity of a serine phosphatase (SpoIIE) located in the septum.
+LLL.d14.s3	The SpoIIE phosphatase indirectly activates sigmaF by dephosphorylating a protein (SpoIIAA-P) in the pathway that controls the activity of the transcription factor.
+LLL.d18.s0	Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase.
+LLL.d18.s1	Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK.
+LLL.d18.s2	These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK.
+LLL.d18.s3	A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription.
+LLL.d18.s4	Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor.
+LLL.d18.s5	We show that GerE binds to two sites that span the -35 region of the cotD promoter.
+LLL.d18.s6	These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+LLL.d29.s0	A sigmaW-dependent promoter (PW) precedes sigW, demonstrating that this transcription factor is positively autoregulated.
+LLL.d36.s0	The sigmaB-dependent promoter drives expression of yvyD under stress conditions and after glucose starvation, whereas a sigmaH-dependent promoter is responsible for yvyD transcription following amino acid limitation.
+LLL.d36.s1	This indicates that the yvyD gene product, being a member of both the sigmaB and sigmaH regulons, might negatively regulate the activity of the sigmaL regulon.
+LLL.d36.s2	In addition to the typical sigmaB-dependent, stress- and starvation-inducible pattern, yvyD is also induced in response to amino acid depletion.
+LLL.d37.s0	Therefore, ftsY is solely expressed during sporulation from a sigma(K)- and GerE-controlled promoter that is located immediately upstream of ftsY inside the smc gene.

@@ -1,0 +1,21 @@
+Sentence ID	Sentence
+18	Modification of de novo DNA methyltransferase 3a ( PROTEIN1 by PROTEIN2 modulates its interaction with histone deacetylases (HDACs) and its capacity to repress transcription
+39	The association of PROTEIN1 with PROTEIN was mediated by the NH2-terminal Src homology 2 (SH2) domain of PROTEIN2 
+60	 PROTEIN associates with the beta-domain of PROTEIN and complexes with PROTEIN1 and PROTEIN2 in vivo
+81	Thus, the ability of PROTEIN1 to degrade PROTEIN depends in part on its interaction with PROTEIN and suggests a new mechanism for PROTEIN stabilization in some PROTEIN2 deficient tumors
+102	Mutational analyses of the beta-2 cytoplasmic domain revealed that the adhesive function of PROTEIN1 depends on its interaction with PROTEIN2 unless the integrin is activated by exogenous divalent cations
+123	Overexpression of PROTEIN1 results in a zinc finger-dependent localization of a PROTEIN isoform and dynactin to MT bundles, raising the possibility that PROTEIN and PROTEIN2 regulate dynein/dynactin binding to MTs
+144	In the present investigation, the differential binding of previously characterized endothelial cell (EC)- and smooth muscle cell ( PROTEIN1 -derived PROTEIN to A beta was examined to determine whether the accumulation of A beta in cerebrovascular PROTEIN deposits may be due to its interactions with PROTEIN2 
+165	Characterization of EC and PROTEIN PROTEIN1 bound to A beta (1-28) revealed strong binding by PROTEIN weak binding by PROTEIN and PROTEIN two dermatan sulfate proteoglycans, and lack of binding by PROTEIN2 PROTEIN a large chondroitin sulfate proteoglycan
+186	Immobilized PROTEIN also bound PROTEIN1 besides PROTEIN and PROTEIN2 
+207	Cloning and characterization of two evolutionarily conserved subunits ( PROTEIN1 and PROTEIN2 of human PROTEIN and their involvement in functional interactions with TFIIIB and RNA polymerase III
+228	Recent evidence has implicated PROTEIN1 in inhibition of PROTEIN2 cyclinB1 kinase and in G2/M cell cycle arrest
+249	Inhibition of PROTEIN1 cyclinB1 kinase activity by PROTEIN and PROTEIN was found to involve disruption of the complex, whereas PROTEIN2 did not disrupt the complex
+270	 PROTEIN PROTEIN memA interacts with PROTEIN1 PROTEIN2 and SRrp130 in corneal epithelial cells
+291	Specific glutamines or lysines of PROTEIN1 were used to cross-link the different proteins, such as glutamines 495 and 496 to PROTEIN glutamine 288 to keratins, and lysines 468, 485, and 508 and glutamines 465 and 489 for interchain PROTEIN2 cross-links
+312	Our findings showed that the same C-terminal portion of PROTEIN1 binds the N-terminal domains of both TR and PROTEIN2 and our in vivo studies demonstrated that TR, PROTEIN and PROTEIN form a ternary complex
+333	The formation of a functional single chain/subunit complex was not restricted to the FSH single chain/ PROTEIN1 subunit since CG single chain interacts with the monomeric PROTEIN2 subunit and exhibits FSH activity
+354	 PROTEIN1 and PROTEIN2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as PROTEIN PROTEIN PROTEIN Shc, and Crk
+375	Expression of PROTEIN1 in 293T cells led to a reduction in active PROTEIN2 and PROTEIN levels but not RhoA
+396	Here, we characterize the interaction between PROTEIN and PROTEIN1 show that PROTEIN phosphorylates PROTEIN at conserved S274 and S326 residues in vitro, and present evidence that PROTEIN2 is also a substrate for PROTEIN in vivo
+417	Preincubation with genistein, a tyrosine kinase inhibitor, blocked the GH-stimulated adhesion and PROTEIN1 PROTEIN p125FAK, and PROTEIN2 phosphorylation

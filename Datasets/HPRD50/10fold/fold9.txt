@@ -1,0 +1,18 @@
+Sentence ID	Sentence
+HPRD50.d2.s0	We tested this point by cotransfecting CHO cells with the genes encoding F beta alpha and the CG beta subunit or the CG beta alpha and FSH beta monomer
+HPRD50.d2.s1	The formation of a functional single chain/subunit complex was not restricted to the FSH single chain/CG beta subunit since CG single chain interacts with the monomeric FSH beta subunit and exhibits FSH activity
+HPRD50.d2.s2	This is relevant for the case of LH and FSH, because both are synthesized in the same cell (i.e., pituitary gonadotrophs) and several of the alpha subunit sequences required for association with either the LH beta or FSH beta subunits are different
+HPRD50.d2.s3	Previously, we showed that the CG beta or FSH beta subunit genes can be genetically fused to the alpha gene to produce biologically active single chains, CG beta alpha and F beta alpha, respectively
+HPRD50.d21.s0	In the present study, we observed evidence of cross-talk between the cannabinoid receptor CB1 and the orexin 1 receptor (OX1R) using a heterologous system
+HPRD50.d21.s1	In contrast to OX1R, the potency of direct activation of CB1 was not affected by co-expression with OX1R
+HPRD50.d21.s2	In addition, electron microscopy experiments revealed that CB1 and OX1R are closely apposed at the plasma membrane level; they are close enough to form hetero-oligomers
+HPRD50.d22.s0	GC-GAP, a Rho family GTPase-activating protein that interacts with signaling adapters Gab1 and Gab2
+HPRD50.d22.s1	Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk
+HPRD50.d22.s2	In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length Nck in vitro
+HPRD50.d22.s3	We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and Cdc42 activities
+HPRD50.d22.s4	This work led to identification of a novel GTPase-activating protein (GAP) for Rho family GTPases
+HPRD50.d22.s5	The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro
+HPRD50.d22.s6	The protein was named GC-GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42
+HPRD50.d22.s7	Expression of GC-GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA
+HPRD50.d24.s0	Specific interaction of Egr1 and c/EBPbeta leads to the transcriptional activation of the human low density lipoprotein receptor gene
+HPRD50.d24.s1	The sterol-independent regulatory element (SIRE) of the LDL receptor (LDLR) promoter mediates oncostatin M (OM)-induced transcription of the LDLR gene through a cholesterol-independent pathway

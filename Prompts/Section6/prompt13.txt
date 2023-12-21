@@ -1,0 +1,11 @@
+Consider each sentence separately and infer every pair of Protein-Protein Interaction from the provided sentences. 
+For this task, consider Proteins and Genes as interchangeable terms. 
+Provide each pair in a separate row whenever a sentence contains multiple Protein-Protein interaction pairs. 
+Please format the output in CSV with the following four columns: 'Sentence ID', 'Protein 1', 'Protein 2', and 'Interaction Type'. Ensure that no columns are left blank.
+Output Column Specifications:
+The last row should only contain the word 'Done' to indicate that all the sentences have been processed successfully.
+'Protein 1' and 'Protein 2': The entity pairs in the sentence representing the proteins or genes with potential PPI.
+'Interaction Type': The type of interaction identified between the protein pairs (e.g., 'binds to', 'inhibits').
+If all sentences have been processed successfully, the last row should only contain the word 'Done'.
+Each input line contains a 'Sentence ID' and corresponding 'Sentence' that is needed to be analyzed for finding PPI. 
+Here are the sentences that you need to process:

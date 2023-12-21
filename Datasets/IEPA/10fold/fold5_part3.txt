@@ -1,0 +1,16 @@
+Sentence ID	Sentence
+IEPA.d172.s418	Therefore, it is suggested that the insulin-induced coclustering of the EGF receptor with phospholipase Cgamma1 at the actin arc may allow for greater efficiency of signal transduction, resulting in the synergy observed for these two hormones in stimulation of DNA synthesis.
+IEPA.d176.s425	For example, leptin suppresses neuropeptide Y (NPY) expression in the arcuate nucleus
+IEPA.d183.s437	Plasma insulin, cholecystokinin, galanin, neuropeptide Y and leptin levels in obese women with and without type 2 diabetes mellitus
+IEPA.d183.s438	Experimental studies provided evidences that leptin, cholecystokinin (CCK), galanin (GAL), neuropeptide Y (NPY) and insulin are involved in feeding behaviour
+IEPA.d183.s439	Plasma concentrations of FSH, leptin, CCK, GAL, NPY and insulin were determined using commercial RIA kits
+IEPA.d183.s440	Our results, ie higher mean plasma NPY levels in postmenopausal diabetic women and positive correlation of CCK with leptin and insulin, may suggest the role of these neuropeptides in metabolic disorders leading to type 2 diabetes mellitus
+IEPA.d193.s464	Finally, recent evidences suggest that melanocortins could be involved in mediating the effects of leptin, and in controlling the expression of neuropeptide Y (NPY)
+IEPA.d7.s13	Hesperidin, the most important flavanone of Citrus sp., significantly increases HDL and lowers cholesterol, LDL, total lipid and triglyceride plasma levels in normolipidemic rats and in rats with diet- and triton-induced hyperlipidemia
+IEPA.d35.s86	Oxytocin (OT) and vasopressin (AVP) stimulate insulin and glucagon release from the pancreas, and evoke insulin secretion from the rat insulinoma cell line, RINm5F
+IEPA.d47.s120	Effects of oxytocin, arginine-vasopressin and lysine-vasopressin on insulin and glucagon secretion in sheep
+IEPA.d47.s121	The effects of the posterior-pituitary peptides oxytocin (OT), arginine-vasopressin (AVP) and lysine-vasopressin (LVP) on insulin and glucagon secretion were examined in adult sheep
+IEPA.d47.s122	The maximal insulin responses induced by OT and AVP were very similar, but the threshold and maximal doses of AVP for increasing plasma insulin were higher than those of OT
+IEPA.d56.s143	Interleukin-1 beta inhibits phospholipase C and insulin secretion at sites apart from KATP channel
+IEPA.d56.s144	Surprisingly, however, when islets were depolarized directly using either of two agonists, glyburide (which does not act via generation of purine nucleotides) or 40 mM K+ (which acts distal to KATP channel), PLC and insulin secretion were again obliterated by IL-1 beta
+IEPA.d56.s145	These data (together with the finding that IL-1 beta inhibited Ca(2+)-induced insulin release) suggest that, in addition to its effects on ATP synthesis and thereby on the KATP channel, IL-1 beta has at least two undescribed, distal effects to block both PLC as well as Ca(2+)-induced exocytosis

@@ -1,0 +1,17 @@
+Sentence ID	Sentence
+HPRD50.d23.s0	A role for Plk1 phosphorylation of NudC in cytokinesis
+HPRD50.d23.s1	Here, we characterize the interaction between Plk1 and NudC, show that Plk1 phosphorylates NudC at conserved S274 and S326 residues in vitro, and present evidence that NudC is also a substrate for Plk1 in vivo
+HPRD50.d23.s2	Downregulation of NudC by RNA interference results in multiple mitotic defects, including multinucleation and cells arrested at the midbody stage, which are rescued by ectopic expression of wild-type NudC, but not by NudC with mutations in the Plk1 phosphorylation sites
+HPRD50.d23.s3	These results suggest that Plk1 phosphorylation of NudC may influence cytokinesis
+HPRD50.d39.s0	A prominent isolate, designated SRcyp/CASP10, specifically interacts with the CTD not only in vivo but also in vitro
+HPRD50.d39.s1	SRcyp is a nuclear protein with a characteristic distribution in large irregularly shaped nuclear speckles and co-localizes perfectly with the SR domain-containing splicing factor SC35
+HPRD50.d6.s0	Regulation of neutrophil adhesion by pituitary growth hormone accompanies tyrosine phosphorylation of Jak2, p125FAK, and paxillin
+HPRD50.d6.s1	These results suggest that pituitary GH modulates neutrophil adhesion through tyrosine phosphorylation of Jak2, p125FAK, and paxillin and actin polymerization
+HPRD50.d6.s2	Pituitary GH triggered the tyrosine phosphorylation of Janus kinase 2 (Jak2) and STAT3 in neutrophils
+HPRD50.d6.s3	Preincubation with genistein, a tyrosine kinase inhibitor, blocked the GH-stimulated adhesion and Jak2, STAT3, p125FAK, and paxillin phosphorylation
+HPRD50.d6.s4	Immunoprecipitation experiments revealed a physical association of Jak2 with p125FAK via STAT3 in vivo
+HPRD50.d10.s0	Cutting edge: CD43 functions as a T cell counterreceptor for the macrophage adhesion receptor sialoadhesin (Siglec-1)
+HPRD50.d10.s1	The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins CD43 and P-selectin glycoprotein ligand 1 (CD162), respectively
+HPRD50.d10.s2	CD43 expressed in COS cells supported increased binding to immobilized sialoadhesin
+HPRD50.d10.s3	Finally, sialoadhesin bound different glycoforms of CD43 expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on CD43 in resting and activated T cells, respectively
+HPRD50.d10.s4	These results identify CD43 as a T cell counterreceptor for sialoadhesin and suggest that in addition to its anti-adhesive role CD43 may promote cell-cell interactions

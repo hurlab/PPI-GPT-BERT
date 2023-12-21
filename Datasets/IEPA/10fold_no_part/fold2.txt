@@ -1,0 +1,47 @@
+Sentence_ID	Sentence
+IEPA.d10.s22	Amyloid beta protein disruption of cholinergic and growth factor phospholipase C signals could underlie cognitive and neurodegerative aspects of Alzheimer's disease
+IEPA.d15.s32	The beta amyloid protein fragments had diverse effects on phosphoinositide-specific phospholipase C (PI-PLC) as assayed in rat cortical membranes
+IEPA.d22.s46	Once the abnormally phosphorylated abnormal prion protein isoform agent is initiated, any stress event ensuing in adult life induces a nerve growth factor-mediated synthesis of normal cellular prion protein isoform that aggregates to abnormally phosphorylated abnormal prion protein isoform, thereby becoming 'infected'/transformed into the same; due to the vicious circle of positive feedback invoked by the blocking of a prion protein-specific kinase
+IEPA.d25.s54	The responses of serum oxytocin (OT) and vasopressin (AVP) to the serotonergic HT1A agonist buspirone (15 mg p.o.) or the HTD1 agonist sumatriptan (6 mg injected subcutaneously) were evaluated in 7 normal men either in basal conditions or during an insulin (0.15 iu/kg as an i.v. bolus) tolerance test (ITT)
+IEPA.d25.s55	Stimulation of 5HT-1D receptors with sumatriptan was unable to change neither AVP nor OT response to insulin-induced hypoglycemia
+IEPA.d43.s108	Induction by leptin of uncoupling protein-2 and enzymes of fatty acid oxidation
+IEPA.d43.s109	Here we show that leptin alters in pancreatic islets the mRNA of the genes encoding enzymes of free fatty acid metabolism and uncoupling protein-2 (UCP-2)
+IEPA.d43.s110	Leptin overexpression increased UCP-2 mRNA by more than 10-fold in epididymal, retroperitoneal, and subcutaneous fat tissue of normal, but not of leptin-receptor-defective obese rats
+IEPA.d43.s111	By directly regulating the expression of enzymes of free fatty acid metabolism and of UCP-2, leptin controls intracellular triglyceride content of certain nonadipocytes, as well as adipocytes
+IEPA.d60.s155	The activity of the MAPKs, induced by AVP or PMA was inhibited by downregulation of protein kinase C (PKC), by the tyrosine kinase inhibitor genistein and by MAPK kinase (MEK) inhibitor, PD98059
+IEPA.d60.s156	We suggest that AVP activates the 42/44kDa MAPKs through a signal transduction pathway that involves stimulation of AVP-V1 receptor, tyrosine kinase, PKC and MEK
+IEPA.d72.s173	Treatment with (+)-trifluoro-ABA strongly inhibited the gibberellic acid-inducible expression of alpha-amylase I-1 encoded by RAmy1A in the aleurone layers of embryoless half-seeds at the levels of transcription, protein synthesis, and enzyme activity
+IEPA.d74.s176	Chronic central leptin infusion enhances insulin-stimulated glucose metabolism and favors the expression of uncoupling proteins
+IEPA.d74.s177	In marked contrast, intracerebroventricular leptin administration was accompanied by the maintenance of high UCP1, UCP2, and UCP3 expression in all these tissues
+IEPA.d74.s178	While leptin maintains or favors energy-dissipating mechanisms (UCP1, UCP2, and UCP3), the latter are markedly depressed in pair-fed rats
+IEPA.d76.s182	Melatonin inhibits oxytocin response to insulin-induced hypoglycemia, but not to angiotensin II in normal men
+IEPA.d76.s183	In order to establish whether melatonin alters basal and/or stimulated oxytocin secretion, 18 normal men were treated (p.o.) with 6 or 12 mg melatonin or placebo in basal conditions (N-6 subjects) or concomitantly to the administration of insulin (O.15 IU/kg body weight in an i.v. bolus) (N-6 subjects) or angiotensin II (increasing doses of 4, 8 and 16 ng/kg/min, at intervals of 20 min)
+IEPA.d76.s184	In contrast, the oxytocin response to insulin-induced hypoglycemia was significantly reduced by melatonin treatment
+IEPA.d84.s199	Effect of residual endogenous insulin secretion on the abnormal oxytocin response to hypoglycaemia in insulin-dependent diabetics
+IEPA.d84.s200	Since previous studies showed that AVP secretion is influenced by the persistence of residual endogenous insulin secretion, we wondered whether this factor also regulates OT secretion
+IEPA.d84.s201	DESIGN: Case-control study: the OT response to insulin-induced hypoglycaemia was measured in normal and diabetic patients with or without residual endogenous insulin secretion
+IEPA.d84.s202	Blood samples for OT assay were taken just before the rapid injection of insulin (time 0) and at time 15, 30, 45 and 60 min
+IEPA.d84.s203	CONCLUSIONS: These data indicate that a residual endogenous insulin secretion exerts a partial protective action against the hypothalamic-pituitary disorder affecting the OT secretory system in IDDM
+IEPA.d87.s206	These findings led us to conclude that inositol trisphosphate [corrected] causes Ca2+ mobilization by muscarinic activation of PLC, leading to intracellular translocation of insulin granules to the ready-releasable pool in pancreatic beta-cells via Ca2+/calmodulin-dependent phosphorylation of myosin light chains
+IEPA.d90.s213	DNase1 footprints suggest the involvement of at least three types of transcription factors in the regulation of alpha-Amy2/A by gibberellin
+IEPA.d90.s214	The regulation of alpha-Amy2 genes by GA therefore involves an interplay of at least three different types of transcription factor
+IEPA.d112.s270	Analyses of hormone regulation of expression of mRNA for the aleurone RNase revealed that, like the pattern for alpha-amylase, mRNA levels increased in the presence of gibberellic acid, and its antagonist abscisic acid prevented this effect
+IEPA.d112.s271	Quantitative studies at early times demonstrated that cycloheximide treatment of aleurone layers increased mRNA levels 4-fold, whereas a combination of gibberellin plus cycloheximide treatment was required to increase alpha-amylase mRNA levels to the same extent
+IEPA.d156.s373	Leptin is a satiety factor which acts within the hypothalamus to decrease the levels of several neuropeptides stimulating food intake (among them, neuropeptide Y [NPY]), while increasing those that inhibit food intake
+IEPA.d175.s424	Although the above data are consistent with a direct ability of leptin to promote TRH biosynthesis through actions on TRH neurons, addition of a-MSH produced a 3.5 fold increase in TRH biosynthesis and release, whereas NPY treatment suppressed ~3 fold proTRH biosynthesis
+IEPA.d197.s478	Bovine prion protein as a modulator of protein kinase CK2
+IEPA.d197.s479	On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2')
+IEPA.d197.s480	We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2
+IEPA.d197.s481	A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity
+IEPA.d197.s482	These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic protein kinase that is particularly abundant in the brain
+IEPA.d64.s161	Similarly, carbachol, but not AVP or DDAVP, induced a significant increase in membrane-associated protein kinase C (PKC) enzyme activity
+IEPA.d64.s162	In contrast, AVP had no effect on the distribution of any PKC isoform tested
+IEPA.d116.s284	In the present study we found that at increasing GA concentrations, increasing numbers of barley (Hordeum vulgare) cells showed the enhanced amylase secretion and vacuolation characteristic of the GA response
+IEPA.d189.s453	These findings are consistent with increased leptin signaling to the NPY and POMC neurons in the ARC by physiological levels of circulating leptin during normal feeding
+IEPA.d195.s469	Leptin Rapidly Inhibits Hypothalamic Neuropeptide Y Secretion and Stimulates Corticotropin-Releasing Hormone Secretion in Adrenalectomized Mice
+IEPA.d195.s470	Leptin may rapidly inhibit food intake by altering the secretion of hypothalamic neuropeptides such as neuropeptide Y (NPY), a stimulator of food intake, and/or corticotropin-releasing hormone (CRH), an inhibitor of food intake
+IEPA.d195.s471	We measured concentrations of NPY and CRH in specific hypothalamic regions [i.e., arcuate nucleus (ARC), paraventricular nucleus (PVN), ventromedial nucleus and dorsomedial nucleus] of 7- to 8-wk-old lean and ob/ob mice at 1 or 3 h after intracerebroventricular leptin administration
+IEPA.d195.s472	No rapid-onset effects of leptin on hypothalamic NPY or CRH concentrations were observed in intact mice
+IEPA.d195.s473	The addition of leptin to hypothalamic preparations from intact mice also did not alter NPY or CRH secretion
+IEPA.d195.s474	Within 20 min after exposure to leptin, NPY secretion from hypothalamic preparations obtained from adrenalectomized mice was lowered by 27% and CRH secretion was elevated by 51%
+IEPA.d195.s475	The current study demonstrates that leptin rapidly influences the secretion of hypothalamic NPY and CRH and that these actions of leptin within the hypothalamus are restrained by the presence of endogenous corticosterone
