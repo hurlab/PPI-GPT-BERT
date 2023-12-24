@@ -1,8 +1,0 @@
-Consider each sentence separately and infer Protein-Protein Interaction for the protein entity pairs PROTEIN1-PROTEIN2 from the provided sentences. Do not consider any other PROTEIN pairs in the sentence. In each sentence, original protein or gene names have been substituted with 'PROTEIN1', 'PROTEIN', and 'PROTEIN' placeholders. The placeholders used may represent a variety of proteins or genes, differing with each sentence.
-Please, format your results in CSV (comma-separated values) with only two columns: 'Sentence ID' and 'PPI'. Do not include the original sentences or any explaination in the output.
-Output Column Specifications:
-'Sentence ID': The unique identifier for each sentence.
-'PPI': The interaction status ('TRUE' or 'FALSE').
-If all sentences have been processed successfully, the last row should only contain the word 'Done'.
-Each input line contains a 'Sentence ID' and corresponding 'Sentence' that is needed to be analyzed for finding PPI. 
-Here are the sentences that you need to process:
