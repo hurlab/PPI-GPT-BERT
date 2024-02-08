@@ -1,3 +1,4 @@
+# GPT and BERT-based models for identifying protein-protein interactions 
 This repository contains the code and resources for training and evaluating two types of Large Language Models (LLMs) models namely Generative Pretrained Transformer) (GPT) and Bidirectional Encoder Representations from Transformers (BERT) on the task of identifying Protein-Protein Interaction (PPI). 
 
 ## Repository Structure
@@ -47,7 +48,7 @@ Ensure you have a Python environment (like Anaconda) set up with Jupyter Noteboo
 * Run the cells in the notebook to train models, generate predictions, and evaluate results.
 
 ### Dataset
-we employed three widely used datasets for PPI extraction: LLL, IEPA, and HPRD50. These gold-standard datasets offer a unique perspective and challenge in biomedical NLP research, particularly in PPI extraction. 
+we employed three widely used datasets for PPI extraction: LLL (Nédellec, 2005), IEPA (Ding et al., 2002), and HPRD50 (Fundel et al., 2007). These gold-standard datasets offer a unique perspective and challenge in biomedical NLP research, particularly in PPI extraction. 
 
 Table 1. Number of positive and negative pairs in the sentences of the three datasets.  
 | Dataset | Number of Sentences | Positive Pairs | Negative Pairs | Total Pairs | Positive:Negative |
@@ -68,6 +69,13 @@ We welcome contributions from the community. Please feel free to fork the reposi
 
 ### License
 This project is open-sourced under the GNU GENERAL PUBLIC LICENSE. See the LICENSE file for more information.
+
+### References
+- **Nédellec, C.** Learning language in logic-genic interaction extraction challenge. Proceedings of the 4th Learning Language in Logic Workshop (LLL05), 2005. Citeseer, pp. 1-7. [Available Online](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=91e0ce446530b62c78495cdfcfd9190efb974fce)
+
+- **Ding, J., Berleant, D., Nettleton, D., & Wurtele, E.** (2002). Mining MEDLINE: abstracts, sentences, or phrases? In Pacific Symposium on Biocomputing (pp. 326-337). [Available Online](https://pubmed.ncbi.nlm.nih.gov/11928487/)
+
+- **Fundel, K., Küffner, R., & Zimmer, R.** (2007). RelEx--relation extraction using dependency parse trees. Bioinformatics, 23(3), pp. 365-371. [Available Online](https://academic.oup.com/bioinformatics/article/23/3/365/236564)
 
 ### Citation
 If you use this project in your research, please cite:
